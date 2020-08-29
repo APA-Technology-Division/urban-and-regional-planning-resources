@@ -1,7 +1,7 @@
 # planning-technology-resources
 This repository contains curated list of different planning data &amp; technology resources.
 
-## (Public Data Resources)[./resource_pages/PublicDataResources.md]
+## [Public Data Resources](./resource_pages/PublicDataResources.md)
 Publically avaiable data resources for use by planners. 
 ## Vendor Data Resources
 Vendors that can provided purchased data for a variety of uses. 
