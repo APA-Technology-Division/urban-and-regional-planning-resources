@@ -1,7 +1,7 @@
 # planning-technology-resources
 This repository contains curated list of different planning data &amp; technology resources.
 
-## Open Data Resources
+## Public Data Resources
 
 ## Vendor Data Resources
 
