@@ -7,6 +7,10 @@ Publicly available data resources for use by planners.
 ## [Vendor Data Resources](./resource_pages/VendorDataResources.md)
 Vendors that can provided purchased data for a variety of uses. 
 
+## Planning Data Specifications(./resource_pages/PlanningDataSpecifications.md)
+A collection of urban planning related data specifications and standards for use as part of programs & projects. 
+
+
 ## [Platforms & Software Resources](./resource_pages/PlatformsSoftwareResources.md)
 Software and platforms for planners. 
 
