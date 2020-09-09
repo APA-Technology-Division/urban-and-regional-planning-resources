@@ -10,6 +10,8 @@ Vendors that can provided purchased data for a variety of uses.
 ## [Planning Data Specifications](./resource_pages/PlanningDataSpecifications.md)
 A collection of urban planning related data specifications and standards for use as part of programs & projects. 
 
+## [Planning Coding Resources](./resource_pages/PlanningCodingResources.md)
+This is a curated list of Python, R, or other open-source libraries or programming tools can be useful for urban planning applications. 
 
 ## [Platforms & Software Resources](./resource_pages/PlatformsSoftwareResources.md)
 Software and platforms for planners. 
