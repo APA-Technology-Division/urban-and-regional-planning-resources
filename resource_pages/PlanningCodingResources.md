@@ -7,8 +7,7 @@ Python Libraries & Related Resources
 | Name 	| Description 	| License 	| Provider	| Links |
 |------	|-------------	|---------	|:------------:	|--------------	|
 | Pandana 	| Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths.	|  AGPL-3.0 License        	|      UrbanSim Inc. (UDST)  	|       	https://udst.github.io/pandana/|
-|Geosnap	| Geospatial & temporal neighborhood analysis using Census Data	|  BSD-3-Clause License    	|  Center for Geospatial Sciences
-	|       	https://github.com/spatialucr/geosnap|
+|Geosnap	| Geospatial & temporal neighborhood analysis using Census Data	|  BSD-3-Clause License    	|  Center for Geospatial Sciences |       	https://github.com/spatialucr/geosnap |
 |      	|             	|         	|              	|       	|       	|
 
 
