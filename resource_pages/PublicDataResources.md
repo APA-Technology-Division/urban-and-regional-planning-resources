@@ -32,4 +32,11 @@ Data resources that are publicly available for use. Licenses may apply.
     * Provider: United States Census (Center of Economic Studies)
     * Links : [Landing Page](https://lehd.ces.census.gov/)/[On The Map Download Page](https://onthemap.ces.census.gov/)  
  
- 
+## Equity/Environmental Justice
+
+* **EJ Screen**
+    * Description: EJSCREEN uses maps and reports to present three kinds of information: Environmental indicators, demographic indicators and EJ Indexes. 
+    * License: Public
+    * Geographic Coverage: United States
+    * Provider: US Environmental Protection Agency (EPA)
+    * Links : [About](https://www.epa.gov/ejscreen/understanding-ejscreen-results)/[Download](https://www.epa.gov/ejscreen/download-ejscreen-data)
