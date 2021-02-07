@@ -5,7 +5,7 @@ A collection of urban planning related data specifications and standards for use
 
 ## Transportation
 
-* **[CurbLR](https://www.curblr.org) **
+* **[CurbLR](https://www.curblr.org)**
     * Description:  An open data specification for curb regulations 
     * License: [CC0](https://github.com/sharedstreets/curblr/blob/master/LICENSE) 
     * Geographic Coverage: Global 
