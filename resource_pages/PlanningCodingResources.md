@@ -1,6 +1,8 @@
 # Planning Coding Resources
 This is a curated list of Python, R, or other open-source libraries or programming tools can be useful for urban planning applications. 
 
+---
+
 ## Python
 Python Libraries & Related Resources
 

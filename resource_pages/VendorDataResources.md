@@ -1,6 +1,8 @@
 # Vendor Data Resources
 Vendors that can provided purchased data for a variety of uses.
 
+---
+
 ## Travel Behavior
 
 * **SafeGraph**
