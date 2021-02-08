@@ -15,8 +15,8 @@ Python Libraries & Related Resources
 * **Geosnap**
     * Description: Geospatial & temporal neighborhood analysis using Census Data
     * License: BSD-3-Clause License 
-    * Provider[Optional]: Center for Geospatial Sciences
-    * Links [Required]: https://github.com/spatialucr/geosnap
+    * Provider: Center for Geospatial Sciences
+    * Links: https://github.com/spatialucr/geosnap
 
 ## R
 R Packages & Related Resources
