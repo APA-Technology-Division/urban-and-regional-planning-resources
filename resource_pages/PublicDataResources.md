@@ -40,3 +40,10 @@ Data resources that are publicly available for use. Licenses may apply.
     * Geographic Coverage: United States
     * Provider: US Environmental Protection Agency (EPA)
     * Links : [About](https://www.epa.gov/ejscreen/understanding-ejscreen-results)/[Download](https://www.epa.gov/ejscreen/download-ejscreen-data)
+   
+* **CDC Social Vulnerability Index**
+    * Description: CDC Social Vulnerability Index (CDC SVI) uses 15 U.S. census variables to help local officials identify communities that may need support before, during, or after disasters based on their level of social vulnerability. 
+    * License: Public
+    * Geographic Coverage: United States
+    * Provider: Center for Disease Control
+    * Links : [About](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)/[Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)
