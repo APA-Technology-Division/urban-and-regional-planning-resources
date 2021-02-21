@@ -47,3 +47,12 @@ Data resources that are publicly available for use. Licenses may apply.
     * Geographic Coverage: United States
     * Provider: Center for Disease Control
     * Links : [About](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)/[Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)
+
+## Environment/Ecosystem Services
+
+* **EnviroAtlas**
+    * Description: EnviroAtlas is a collection of interactive tools and resources that allows users to explore the many benefits people receive from nature, often referred to as ecosystem services.
+    * License: Public
+    * Geographic Coverage: United States
+    * Provider: US Environmental Protection Agency (EPA)
+    * Links : [About](https://www.epa.gov/enviroatlas)
