@@ -6,6 +6,24 @@ This is a curated list of Python, R, or other open-source libraries or programmi
 ## Python
 Python Libraries & Related Resources
 
+* **Pandas**
+    * Description: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+    * License: BSD-3-Clause License
+    * Provider: NumFocus Project (since 2015)
+    * Links: https://pandas.pydata.org/
+
+* **Arcpy**
+    * Description: ArcPy is a Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
+    * License: Proprietary
+    * Provider: Esri
+    * Links: https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm
+
+* **ArcGIS Python API**
+    * Description: The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library to perform GIS visualization and analysis, spatial data management and GIS system administration tasks that can run both interactively, and using scripts. This library enables easy use of pandas within the arcgis platform. 
+    * License: Proprietary
+    * Provider: Esri
+    * Links: https://developers.arcgis.com/python/api-reference/
+
 * **Pandana**
     * Description: Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths.
     * License: AGPL-3.0 License
