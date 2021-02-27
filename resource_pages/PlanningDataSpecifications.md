@@ -13,10 +13,10 @@ A collection of urban planning related data specifications and standards for use
     * Links : Full documentation on [Github](https://www.github.com/sharedstreets/curblr), Non-technical [landing site](https://www.curblr.org), Demo: interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148)
     
 * **GTFS**
-    * Description:   A popular standard for describing transit systems 
+    * Description: The General Transit Feed Specification is a popular standard for describing transit systems.
     * License: CC4/Apache 2.0
     * Geographic Coverage: Global 
-    * Provider: Developed and currently maintained by [SharedStreets](https://www.sharedstreets.io)
+    * Provider: Google (Originally) - Developed in partnership with Trimet. 
     * Links : [GTFS - Google Transit](https://developers.google.com/transit/gtfs) 
     
 * **shared-row** 
@@ -26,3 +26,11 @@ A collection of urban planning related data specifications and standards for use
     * Provider: Opensource Colloborators	
     * Links : [shared-row](https://github.com/d-wasserman/shared-row) 
     
+    
+* **GBFS**
+    * Description: The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
+    * License: CC4/Apache 2.0
+    * Geographic Coverage: Global 
+    * Provider: North American Bike Share Association
+    * Links : [NABSA-GBFS](https://github.com/NABSA/gbfs) 
+
