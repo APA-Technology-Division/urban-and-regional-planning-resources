@@ -23,7 +23,7 @@ Software and platforms for planners.
 Productivity tools to assist with planning communication and the creation of planning products. 
 
 ## [Other Resources](./resource_pages/OtherResources.md)
-Other types of planning data & technology resources. 
+Other types of planning data & technology resources. Includes lists of other planning & data aggregators. 
 
 ---
 ### Contributing
