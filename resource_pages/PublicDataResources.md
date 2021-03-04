@@ -63,3 +63,13 @@ Data resources that are publicly available for use. Licenses may apply.
     * Geographic Coverage: United States
     * Provider: US Environmental Protection Agency (EPA)
     * Links : [About](https://www.epa.gov/enviroatlas)
+
+## Transportation
+
+* **National Noise Map**
+    * Description: Data within the National Transportation Noise Map represent potential noise levels across the nation for an average annual day for the specified year. 
+    * License: Public
+    * Geographic Coverage: United States
+    * Provider: Bureau of Transportation Statistics (BTS)
+    * Links : [About](https://www.bts.gov/geospatial/national-transportation-noise-map)
+
