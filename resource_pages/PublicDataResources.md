@@ -50,6 +50,13 @@ Data resources that are publicly available for use. Licenses may apply.
 
 ## Environment/Ecosystem Services
 
+* **NLCD**
+    * Description: The National Land Cover Database is generated in cooperation with the Multi-Resolution Land Characteristics Consortium (MRLC), a partnership of Federal agencies working together to produce current, nationally consistent, land cover products for all 50 states and Puerto Rico. 
+    * License: Public
+    * Geographic Coverage: United States
+    * Provider: United States Geological Survey (USGS)
+    * Links : [About](https://www.usgs.gov/centers/eros/science/national-land-cover-database)
+
 * **EnviroAtlas**
     * Description: EnviroAtlas is a collection of interactive tools and resources that allows users to explore the many benefits people receive from nature, often referred to as ecosystem services.
     * License: Public
