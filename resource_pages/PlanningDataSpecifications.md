@@ -34,3 +34,13 @@ A collection of urban planning related data specifications and standards for use
     * Provider: North American Bike Share Association
     * Links : [NABSA-GBFS](https://github.com/NABSA/gbfs) 
 
+
+
+## Built Environment
+
+* **DTDL**
+    * Description: The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies. 
+    * License: MIT
+    * Geographic Coverage: Global 
+    * Provider: Microsoft- Azure
+    * Links : [Azure-DTDL](https://github.com/Azure/opendigitaltwins-building) 
