@@ -33,3 +33,11 @@ We are actively looking for contributions from those interested in urban plannin
 ### Form Based Contributions
 If you don't have a GitHub, but have a resources that falls into the categories below you would like to contribute try putting the information in this Google Sheet here. We will look at incorportating it into the repo pending review. 
 https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0zo0ONDdV4w/viewform?usp=sf_link
+
+## License & Citation
+Similar to other [resources aggregators](./resource_pages/OtherResources.md), this repository is released into CC 1.0. We do not require citation, but in order to generate more contributions for and understanding of this resource we do appreciate sharing this repository or citing it where appropriate. 
+
+
+If you do cite this repository you can as: 
+
+planning-technology-resources. (2020) APA Technology Division. Taken from: from https://github.com/APA-Technology-Division
