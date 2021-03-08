@@ -2,6 +2,8 @@
 # Public Data Resources
 Data resources that are publicly available for use. Licenses may apply. 
 
+Open Data Sites and national scale datasets should be near the top of each section.
+
 ---
 
 ## Demographic
