@@ -66,6 +66,14 @@ Data resources that are publicly available for use. Licenses may apply.
 
 ## Transportation
 
+* **BTS Open Data Site**
+    * Description: On the BTS Open Data site, browse geospatial data that is part of the BTS National Transportation Atlas Database (NTAD) product. NTAD is a set of nationwide geographic databases of public spatial information for transportation facilities and networks; flows of people, goods, vehicles, and craft over the transportation networks; and social, economic, and environmental conditions that affect or are affected by the transportation networks.
+    * License: Public
+    * Geographic Coverage: United States
+    * Provider: Bureau of Transportation Statistics (BTS)
+    * Links : [Portal Gateway](https://data-usdot.opendata.arcgis.com/)
+
+
 * **National Noise Map**
     * Description: Data within the National Transportation Noise Map represent potential noise levels across the nation for an average annual day for the specified year. 
     * License: Public
