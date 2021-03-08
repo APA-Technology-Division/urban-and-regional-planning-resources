@@ -49,11 +49,11 @@ R Packages & Related Resources
 ## JS/HTML/CSS
 Front-end web related packages and resources
 
-* **Resource Name**: Name of the resoure
-    * Description: A description of what it provides to viewers in a sentence or two. 
-    * License: The type of open source license applied to the resource if any. Non-opensource resources should be labled "Proprietary" or "Other".
-    * Provider: Who is the sponsor or provider of the resource. 
-    * Links: Hyper-Link(s) to the resource. 
+* **Turf.js**
+    * Description: Advanced geospatial analysis for browsers and Node.js. 
+    * License:  MIT License
+    * Provider: Turfjs
+    * Links: [About](https://turfjs.org/) / [GitHub](https://github.com/Turfjs/turf) 
  
 
 ## Other
