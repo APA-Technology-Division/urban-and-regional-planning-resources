@@ -39,11 +39,13 @@ Python Libraries & Related Resources
 ## R
 R Packages & Related Resources
 
-* **Resource Name**: Name of the resoure
-    * Description: A description of what it provides to viewers in a sentence or two. 
-    * License: The type of open source license applied to the resource if any. Non-opensource resources should be labled "Proprietary" or "Other".
-    * Provider: Who is the sponsor or provider of the resource. 
-    * Links: Hyper-Link(s) to the resource. 
+* **simplefeatures(sf)**
+    * Description: Support for simple features, a standardized way to encode spatial vector data in R. 
+    * License: GPL 2 / MIT License
+    * Provider: Edzer Pebesma
+    * Links:[About- Docs](https://cran.r-project.org/web/packages/sf/index.html)
+
+
  
 
 ## JS/HTML/CSS
