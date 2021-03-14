@@ -18,9 +18,6 @@ This is a curated list of Python, R, or other open-source libraries or programmi
 ## [Platforms & Software Resources](./resource_pages/PlatformsSoftwareResources.md)
 Software and platforms for planners. 
 
-## [Planning Communication & Productivity Tools](./resource_pages/PlanningCommunicationProductivityResources.md)
-Productivity tools to assist with planning communication and the creation of planning products. 
-
 ## [Other Resources](./resource_pages/OtherResources.md)
 Other types of planning data & technology resources. Includes lists of other planning & data aggregators. 
 
