@@ -83,3 +83,10 @@ Open Data Sites and national scale datasets should be near the top of each secti
     * Provider: Bureau of Transportation Statistics (BTS)
     * Links : [About](https://www.bts.gov/geospatial/national-transportation-noise-map)
 
+* **Global Urban Street Networks**
+    * Description: Ready‐to‐use global street network models and calculated indicators in a GIS format.  
+    * License: Open Database License/Public
+    * Geographic Coverage: Global
+    * Provider: Harvard Dataverse
+    * Links : [About](https://geoffboeing.com/publications/street-network-models-indicators-world/)/ [Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
+
