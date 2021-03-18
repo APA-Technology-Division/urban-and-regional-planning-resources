@@ -34,7 +34,12 @@ A collection of urban planning related data specifications and standards for use
     * Provider: North American Bike Share Association
     * Links : [NABSA-GBFS](https://github.com/NABSA/gbfs) 
 
-
+* **MDS**
+    * Description: The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
+    * License: CC4
+    * Geographic Coverage: Global 
+    * Provider: Open Mobility Foundation
+    * Links : [OMF-MDS](https://github.com/openmobilityfoundation/mobility-data-specification)
 
 ## Built Environment
 
