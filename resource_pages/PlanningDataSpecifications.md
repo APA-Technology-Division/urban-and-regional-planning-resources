@@ -23,7 +23,7 @@ A collection of urban planning related data specifications and standards for use
     * Description:    A data specification for representing street right of ways 
     * License: CC4/Apache 2.0
     * Geographic Coverage: Global 
-    * Provider: Opensource Colloborators	
+    * Provider: Opensource Collaborators	
     * Links : [shared-row](https://github.com/d-wasserman/shared-row) 
     
     
@@ -41,6 +41,13 @@ A collection of urban planning related data specifications and standards for use
     * Provider: Open Mobility Foundation
     * Links : [OMF-MDS](https://github.com/openmobilityfoundation/mobility-data-specification)
 
+* **MTLFS**
+    * Description: The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
+    * License: MIT
+    * Geographic Coverage: Global
+    * Provider: Opensource Collaborators
+    * Links : [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification)
+
 ## Built Environment
 
 * **DTDL**
@@ -49,3 +56,10 @@ A collection of urban planning related data specifications and standards for use
     * Geographic Coverage: Global 
     * Provider: Microsoft- Azure
     * Links : [Azure-DTDL](https://github.com/Azure/opendigitaltwins-building) 
+
+* **BLDS**
+    * Description: The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested partiesto create a shared data specification for building and construction permit data.
+    * License: Unknown
+    * Geographic Coverage: United States
+    * Provider: Opensource Collaborators
+    * Links : [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements)
