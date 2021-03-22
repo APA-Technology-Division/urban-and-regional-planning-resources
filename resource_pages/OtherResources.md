@@ -23,3 +23,6 @@ These are other repositories that aggregate planning related tools, software, an
     * Description: GeoJSON utilities that will make your life easier.
     * Links: https://github.com/tmcw/awesome-geojson
     
+* **Urban Computing Foundation**
+  * Description: Accelerating open source and community development that improves mobility, safety, infrastructure, traffic, and energy consumption in connected cities.
+  * Links: https://github.com/ucfoundation, https://landscape.uc.foundation/ 
