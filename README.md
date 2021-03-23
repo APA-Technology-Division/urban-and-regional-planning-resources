@@ -25,7 +25,7 @@ Other types of planning data & technology resources. Includes lists of other pla
 ## Contributing
 
 ### GitHub Contributions
-We are actively looking for contributions from those interested in urban planning and technology. To find out more, visit the [Contribution](./CONTRIBUTING.md) page to see our recommended format. For large contributions, file an issue first. The advantage of contributing to the repo in this manner is that your addition to this collective resources will be recorded. 
+We are actively looking for contributions from those interested in urban planning and technology. To find out more, visit the [Contribution](./CONTRIBUTING.md) page to see our recommended format. For large contributions, file an issue first. The advantage of contributing to the repo in this manner is that your addition to this shared resource will be recorded. 
 
 ### Form Based Contributions
 If you don't have a GitHub, but have a resources that falls into the categories below you would like to contribute try putting the information in this Google Sheet here. We will look at incorporating it into the repository pending review. 
