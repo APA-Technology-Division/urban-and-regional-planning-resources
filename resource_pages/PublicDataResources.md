@@ -66,6 +66,16 @@ Open Data Sites and national scale datasets should be near the top of each secti
     * Provider: US Environmental Protection Agency (EPA)
     * Links : [About](https://www.epa.gov/enviroatlas)
 
+## Health
+
+* **County Health Rankings**
+    * Description: The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play. 
+    * License: Public
+    * Geographic Coverage: United States
+    * Provider: Robert Wood Johnson Foundation
+    * Links : [About](https://www.countyhealthrankings.org/)
+
+
 ## Transportation
 
 * **BTS Open Data Site**
