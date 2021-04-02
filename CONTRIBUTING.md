@@ -16,3 +16,7 @@ A a high-level category to classify the resource into related groups. Census dat
     * Provider[Optional]: Who is the sponsor or provider of the resource. 
     * Links [Required]: Hyper-Link(s) to the resource. 
  
+ # GitHub For Planners
+ If you are not familar with Git or GitHub, we highly recommend this webcast that accompanies this repo. This will cover the basics and discuss how to contribute to or build your own repositories. 
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gVa4d728T0k/0.jpg)](https://www.youtube.com/watch?v=gVa4d728T0k)
+ 
