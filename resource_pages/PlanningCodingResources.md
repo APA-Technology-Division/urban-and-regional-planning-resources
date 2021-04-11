@@ -56,6 +56,13 @@ Front-end web related packages and resources
     * License:  MIT License
     * Provider: Turfjs
     * Links: [About](https://turfjs.org/) / [GitHub](https://github.com/Turfjs/turf) 
+
+* **GTFS-JS**
+    * Description: JavaScript library for working with GTFS data.
+    * License: The Unlicense
+    * Provider: Washington DOT
+    * Links: [GitHub](https://github.com/WSDOT-GIS/GTFS-JS) 
+
  
 
 ## Other
