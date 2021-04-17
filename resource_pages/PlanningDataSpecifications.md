@@ -5,6 +5,13 @@ A collection of urban planning related data specifications and standards for use
 
 ## Transportation
 
+* **[SharedStreets]**
+    * Description:  SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets.
+    * License: MIT
+    * Geographic Coverage: Global 
+    * Provider: Developed and currently maintained by [SharedStreets](https://www.sharedstreets.io)
+    * Links: [SharedStreets About](https://sharedstreets.io/) / [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
+
 * **[CurbLR](https://www.curblr.org)**
     * Description:  An open data specification for curb regulations 
     * License: [CC0](https://github.com/sharedstreets/curblr/blob/master/LICENSE) 
