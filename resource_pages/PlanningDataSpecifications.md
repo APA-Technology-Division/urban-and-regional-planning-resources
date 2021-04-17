@@ -5,7 +5,7 @@ A collection of urban planning related data specifications and standards for use
 
 ## Transportation
 
-* **[SharedStreets]((https://www.sharedstreets.io)**
+* **[SharedStreets](https://www.sharedstreets.io)**
     * Description:  SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets.
     * License: MIT
     * Geographic Coverage: Global 
