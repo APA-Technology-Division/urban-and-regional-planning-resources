@@ -55,6 +55,12 @@ A collection of urban planning related data specifications and standards for use
     * Provider: Opensource Collaborators
     * Links : [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification)
 
+* **Transitland**
+   * Description: Transitland is an open data platform that collects GTFS, GTFS Realtime, and other open data feeds from over 2,500 transit operators in over 55 countries. 
+   * Geographic Coverage: Global
+   * Provider: [Interline](https://www.interline.io/)
+   * Links: [Website](transit.land), [Github](github.com/transitland)
+
 ## Built Environment
 
 * **DTDL**
