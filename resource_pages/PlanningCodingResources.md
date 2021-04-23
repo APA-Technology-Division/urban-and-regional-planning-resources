@@ -36,6 +36,10 @@ Python Libraries & Related Resources
     * Provider: Center for Geospatial Sciences
     * Links: https://github.com/spatialucr/geosnap
 
+* **Pybikes**
+   * Description: pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
+   * Links: [Github](https://github.com/eskerda/pybikes)
+
 ## R
 R Packages & Related Resources
 
