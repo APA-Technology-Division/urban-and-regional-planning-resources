@@ -90,6 +90,11 @@ Open Data Sites and national scale datasets should be near the top of each secti
     * Provider: Bureau of Transportation Statistics (BTS)
     * Links : [Portal Gateway](https://data-usdot.opendata.arcgis.com/)
 
+* **Transitland**
+   * Description: Transitland is an open data platform that collects GTFS, GTFS Realtime, and other open data feeds from over 2,500 transit operators in over 55 countries. 
+   * Geographic Coverage: Global
+   * Provider: [Interline](https://www.interline.io/)
+   * Links: [Website](transit.land), [Github](github.com/transitland)
 
 * **National Noise Map**
     * Description: Data within the National Transportation Noise Map represent potential noise levels across the nation for an average annual day for the specified year. 
