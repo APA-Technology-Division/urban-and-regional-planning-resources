@@ -78,6 +78,13 @@ Open Data Sites and national scale datasets should be near the top of each secti
     * Provider: US Environmental Protection Agency (EPA)
     * Links : [About](https://www.epa.gov/enviroatlas)
 
+* **National Hydrography**
+    * Description: The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
+    * License: Public
+    * Geographic Coverage: United States
+    * Provider: USGS
+    * Links : [About](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)
+
 ## Health
 
 * **County Health Rankings**
@@ -88,7 +95,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
     * Links : [About](https://www.countyhealthrankings.org/)
  
  
-## Resilience & Hazards
+## Resilience & Natural Hazards
 
 * **Sea Level Rise Viewer**
     * Description: The purpose of this map viewer is to provide federal, state, and local coastal resource managers and planners with a preliminary look at sea level rise and coastal flooding impacts.
