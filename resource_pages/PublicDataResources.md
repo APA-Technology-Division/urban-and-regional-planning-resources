@@ -29,6 +29,13 @@ Open Data Sites and national scale datasets should be near the top of each secti
     * Geographic Coverage: United States
     * Provider: US Environmental Protection Agency (EPA)
     * Links : [Website](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)
+    
+* **USBuildingFootprints**
+    * Description:  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use.
+    * License: Open Data Commons Open Database License (ODbL).
+    * Geographic Coverage: United States
+    * Provider: Microsoft
+    * Links : [GitHub](https://github.com/microsoft/USBuildingFootprints)/[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html)
 
 ## Employment
 
