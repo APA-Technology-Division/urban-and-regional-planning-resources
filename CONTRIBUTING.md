@@ -2,6 +2,10 @@
 
 This page is intended to provide guidance on how to format a contribution to the repository. If there is a collection of resources you wish to commit, please file an issue before submitting a commit. 
 
+Please note that this project is released with a
+[Contributor Code of Conduct](code-of-conduct.md). By participating in this
+project you agree to abide by its terms.
+
 # Contribution Format
 
 Below is the desired contribution format to APA's Technology Divisions technology & data resources repository. 
