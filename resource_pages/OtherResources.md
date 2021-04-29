@@ -19,6 +19,16 @@ These are other repositories that aggregate planning related tools, software, an
     * Description: A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
     * Links: https://github.com/protontypes/open-sustainable-technology
 
+* **awesome-gis**
+    * Description: Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
+    * Links: https://github.com/sshuair/awesome-gis
+
+* **awesome-agriculture**
+    * Description: Open source technology for agriculture, farming, and gardening.
+    * Links: https://github.com/brycejohnston/awesome-agriculture
+
+
+
 * **awesome-geojson**
     * Description: GeoJSON utilities that will make your life easier.
     * Links: https://github.com/tmcw/awesome-geojson
