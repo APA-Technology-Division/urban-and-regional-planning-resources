@@ -1,5 +1,5 @@
 # planning-technology-resources
-This repository contains curated list of different planning data &amp; technology resources. Those interested in the built environement are invited to review and contribute to this repository.
+This repository contains curated list of different urban & regional planning data &amp; technology resources. Those interested in the built environement are invited to review and contribute to this repository.
 
 ---
 
