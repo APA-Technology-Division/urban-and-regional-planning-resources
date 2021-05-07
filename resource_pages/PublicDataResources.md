@@ -19,7 +19,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
    * Description: The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks. 
    * Geographic Coverage: United States
    * Provider: Minnesota Population Center, University of Minnesota
-   * Links: [Website] (https://www.nhgis.org/)
+   * Links: [Website](https://www.nhgis.org/)
    
 ## Built Environment
 
