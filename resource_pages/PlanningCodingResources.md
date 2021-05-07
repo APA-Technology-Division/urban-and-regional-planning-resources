@@ -43,14 +43,28 @@ Python Libraries & Related Resources
 ## R
 R Packages & Related Resources
 
+* **R Shiny**
+    * Description: Create dynamic, web-friendly visualizations of data using R
+    * Provider: R Studio
+    * Links: [RStudio Shiny Homepage](https://shiny.rstudio.com/), [Shiny Tutorial](https://shiny.rstudio.com/tutorial/)
+    
 * **simplefeatures(sf)**
     * Description: Support for simple features, a standardized way to encode spatial vector data in R. 
     * License: GPL 2 / MIT License
     * Provider: Edzer Pebesma
     * Links:[About- Docs](https://cran.r-project.org/web/packages/sf/index.html)
 
+* **ggplot2**
+    * Description: Resource for plotting a wide range of data (useful for visualizing survey data)
+    * License: GNU GENERAL PUBLIC LICENSE
+    * Provider: Tidyverse
+    * Links:[Overview and Tutorials](https://ggplot2.tidyverse.org/)    
 
- 
+* **tidytext**
+    * Description: Go-to library for text mining--often used in tandem with ggplot or other text mining libraries
+    * License: MIT
+    * Provider: Julia Silge and David Robinson
+    * Links:[Overview and Tutorials](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html)    
 
 ## JS/HTML/CSS
 Front-end web related packages and resources
