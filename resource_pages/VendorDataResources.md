@@ -12,6 +12,9 @@ Vendors that can provided purchased data for a variety of uses.
 
 * **Replica**
     * Description:  Replica is a data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
-    * Geographic Coverage: United States
     * Links : [Website](https://replicahq.com/platform)
  
+* **Esri Tapestry Segmentation**
+   * Description: Provides concise information on the demographic, economic, education and consumer characteristics of populations based on ZIP code.
+   * Geographic Coverage: United States   
+   * Links: [Website](https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup)
