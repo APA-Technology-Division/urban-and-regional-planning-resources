@@ -1,5 +1,5 @@
 # Vendor Data Resources
-Vendors that can provided purchased data for a variety of uses.
+Vendors that can provide purchased or licensed data for a variety of uses. 
 
 ---
 
