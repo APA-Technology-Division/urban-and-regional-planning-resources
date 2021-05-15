@@ -15,7 +15,7 @@ This repository contains curated list of different urban & regional planning dat
 # [Planning Data Specifications](#planning-data-specifications)
 # [Planning Coding Resources](#planning-coding-resources)
 # [Platforms & Software Resources](#platforms--software-resources)
-# [Other Resources](#other-resources)
+# [Other Resources](#other-resources-1)
 ---
 
 # Public Data Resources
@@ -286,7 +286,7 @@ A a high-level category to classify the resource into related groups. Census dat
    * Links: [About](https://www.remix.com/)
     
     
-# Other Data Resources
+# Other Resources
 Other types of planning data & technology resources. 
 
 ---
