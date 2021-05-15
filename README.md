@@ -7,15 +7,15 @@
 
 This repository contains curated list of different urban & regional planning data &amp; technology resources. Those interested in the built environement are invited to review and contribute to this repository.
 
-# Table of Contents
+## Table of Contents
 
 ---
-# [Public Data Resources](#public-data-resources)
-# [Vendor Data Resources](#vendor-data-resources)
-# [Planning Data Specifications](#planning-data-specifications)
-# [Planning Coding Resources](#planning-coding-resources)
-# [Platforms & Software Resources](#platforms--software-resources)
-# [Other Resources](#other-resources-1)
+### [Public Data Resources](#public-data-resources-1)
+### [Vendor Data Resources](#vendor-data-resources-1)
+### [Planning Data Specifications](#planning-data-specifications-1)
+### [Planning Coding Resources](#planning-coding-resources-1)
+### [Platforms & Software Resources](#platforms--software-resources-1)
+### [Other Resources](#other-resources-1)
 ---
 
 # Public Data Resources
