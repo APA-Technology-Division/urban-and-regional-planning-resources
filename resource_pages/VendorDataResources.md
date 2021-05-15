@@ -18,3 +18,8 @@ Vendors that can provide purchased or licensed data for a variety of uses.
    * Description: Provides concise information on the demographic, economic, education and consumer characteristics of populations based on ZIP code.
    * Geographic Coverage: United States   
    * Links: [Website](https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup)
+
+* **StreetLight Data**
+   * Description: Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
+   * Geographic Coverage: United States   
+   * Links: [Website](https://www.streetlightdata.com/)
