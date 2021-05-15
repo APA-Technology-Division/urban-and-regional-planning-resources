@@ -25,3 +25,10 @@ Vendors that can provide purchased or licensed data for a variety of uses.
    * Description: Provides concise information on the demographic, economic, education and consumer characteristics of populations based on ZIP code.
    * Geographic Coverage: United States   
    * Links: [Website](https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup)
+
+## Land Use
+
+* **CoreLogic**
+   * Description: Provides high quality parcel data, providing instant access to detailed property characteristics, sales records, valuation and digital copies of current county assessor documents.
+   * Geographic Coverage: United States   
+   * Links: [Website](https://www.corelogic.com/)
