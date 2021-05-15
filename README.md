@@ -10,12 +10,12 @@ This repository contains curated list of different urban & regional planning dat
 ## Table of Contents
 
 ---
-    + [Public Data Resources](#public-data-resources)
-    + [Vendor Data Resources](#vendor-data-resources)
-    + [Planning Data Specifications](#planning-data-specifications)
-    + [Planning Coding Resources](#planning-coding-resources)
-    + [Platforms & Software Resources](#platforms---software-resources)
-    + [Other Resources](#other-resources)
+### [Public Data Resources](#public-data-resources)
+### [Vendor Data Resources](#vendor-data-resources)
+### [Planning Data Specifications](#planning-data-specifications)
+### [Planning Coding Resources](#planning-coding-resources)
+### [Platforms & Software Resources](#platforms---software-resources)
+### [Other Resources](#other-resources)
 ---
 
 # Public Data Resources
