@@ -14,7 +14,7 @@ This repository contains curated list of different urban & regional planning dat
 ### [Vendor Data Resources](#vendor-data-resources-1)
 ### [Planning Data Specifications](#planning-data-specifications-1)
 ### [Planning Coding Resources](#planning-coding-resources-1)
-### [Platforms & Software Resources](#platforms--software-resources)
+### [Platforms & Software Resources](#platforms--software-resources-1)
 ### [Other Resources](#other-resources-1)
 ---
 
@@ -357,7 +357,7 @@ Other coding libraries & resources.
  
 
 
-# Platform & Software Resources
+# Platforms & Software Resources
 Software and platforms for planners. 
 
 ### Geospatial Data & Visualization
