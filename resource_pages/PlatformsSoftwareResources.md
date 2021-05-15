@@ -15,9 +15,11 @@ A a high-level category to classify the resource into related groups. Census dat
 ### Urban Planning Tools & Platforms
 
 * **UrbanFootPrint**
-    * Description: Web-based planning tool serving curated urban, environmental, and economic data to urban practitioners and equipping them with the analytic capabilities to ​plan and improve communities faster, better, and at lower cost.
+    * Description: Web-based planning tool serving curated urban, environmental, and economic data to urban practitioners and equipping them with the analytic capabilities to plan and improve communities faster, better, and at lower cost.
     * Links: [About](https://urbanfootprint.com/)
-
+* **Remix**
+   * Description: A platform to empower cities to plan the best possible transportation system — from public transit to safer streets to ever-increasing new modes of mobility. Remix provides tools to edit & test GTFS, generate multimodal streets, and explore relevant data. 
+   * Links: [About](https://www.remix.com/)
     
     
  
