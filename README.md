@@ -10,25 +10,12 @@ This repository contains curated list of different urban & regional planning dat
 ## Table of Contents
 
 ---
-
-### [Public Data Resources](./resource_pages/PublicDataResources.md)
-Publicly available data resources for use by planners. 
-
-### [Vendor Data Resources](./resource_pages/VendorDataResources.md)
-Vendors that can provide purchased or licensed data for a variety of uses. 
-
-### [Planning Data Specifications](./resource_pages/PlanningDataSpecifications.md)
-A collection of urban planning related data specifications and standards for use as part of programs & projects. 
-
-### [Planning Coding Resources](./resource_pages/PlanningCodingResources.md)
-This is a curated list of Python, R, or other open-source libraries or programming tools can be useful for urban planning applications. 
-
-### [Platforms & Software Resources](./resource_pages/PlatformsSoftwareResources.md)
-Software and platforms for planners. 
-
-### [Other Resources](./resource_pages/OtherResources.md)
-Other types of planning data & technology resources. Includes lists of other planning & data aggregators. 
-
+    + [Public Data Resources](#public-data-resources)
+    + [Vendor Data Resources](#vendor-data-resources)
+    + [Planning Data Specifications](#planning-data-specifications)
+    + [Planning Coding Resources](#planning-coding-resources)
+    + [Platforms & Software Resources](#platforms---software-resources)
+    + [Other Resources](#other-resources)
 ---
 
 # Public Data Resources
