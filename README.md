@@ -18,36 +18,36 @@ This repository contains curated list of different urban & regional planning dat
 ### [Other Resources](#other-resources-1)
 ---
 
-# Public Data Resources
+## Public Data Resources
 Data resources that are publicly available for use. Licenses may apply. 
 
 Open Data Sites and national scale datasets should be near the top of each section.
 
 ---
 
-## Demographic
+### Demographic
 
 * **[American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)** - The American Community Survey (ACS) helps local officials, community leaders, and businesses understand the changes taking place in their communities. It is the premier source for detailed population and housing information for the United States. Additional Information: [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
 
 * **[IPUMS National Historic GIS](https://www.nhgis.org/)** -The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks.
    
-## Built Environment
+### Built Environment
 
 * **[Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)** -  The Smart Location Database is a nationwide geographic data resource for measuring location efficiency. It includes more than 90 attributes summarizing characteristics such as housing density, diversity of land use, neighborhood design, destination accessibility, transit service, employment, and demographics. Most attributes are available for every census block group in the United States. 
     
 * **[USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)** -  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
-## Employment
+### Employment
 
 * **[Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/)** -  The LEHD program combines these administrative data, additional administrative data and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information:[On The Map Download Page](https://onthemap.ces.census.gov/).
  
-## Equity/Environmental Justice
+### Equity/Environmental Justice
 
 * **[EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results)** - EJSCREEN uses maps and reports to present three kinds of information: Environmental indicators, demographic indicators and EJ Indexes. Additional Information:[Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
    
 * **[CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)** - CDC Social Vulnerability Index (CDC SVI) uses 15 U.S. census variables to help local officials identify communities that may need support before, during, or after disasters based on their level of social vulnerability. Additional Information: [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
 
-## Environment/Ecosystem Services
+### Environment/Ecosystem Services
 
 * **[NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database)** - The National Land Cover Database is generated in cooperation with the Multi-Resolution Land Characteristics Consortium (MRLC), a partnership of Federal agencies working together to produce current, nationally consistent, land cover products for all 50 US states and Puerto Rico. 
 
@@ -56,16 +56,16 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 * **[National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)**- The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
 
-## Health
+### Health
 
 * **[County Health Rankings](https://www.countyhealthrankings.org/)** - The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play.  
  
-## Resilience & Natural Hazards
+### Resilience & Natural Hazards
 
 * **[Sea Level Rise Viewer](https://coast.noaa.gov/slr/)** - NOAA provided map viewer is to provide federal, state, and local coastal resource managers and planners with a preliminary look at sea level rise and coastal flooding impacts.
 
 
-## Transportation
+### Transportation
 
 * **[BTS Open Data Site](https://data-usdot.opendata.arcgis.com/)** - On the BTS Open Data site, browse geospatial data that is part of the BTS National Transportation Atlas Database (NTAD) product. NTAD is a set of nationwide (United States) geographic databases of public spatial information for transportation facilities and networks; flows of people, goods, vehicles, and craft over the transportation networks; and social, economic, and environmental conditions that affect or are affected by the transportation networks.
 
@@ -76,12 +76,12 @@ Open Data Sites and national scale datasets should be near the top of each secti
 * **[Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/)** - Ready‐to‐use global street network models and calculated indicators in a GIS format. Additional Information:[Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
 
 
-# Vendor Data Resources
+## Vendor Data Resources
 Vendors that can provide purchased or licensed data for a variety of uses. 
 
 ---
 
-## Travel Behavior
+### Travel Behavior
 
 
 * **[Replica](https://replicahq.com/platform)** -  Replica is a data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
@@ -90,16 +90,16 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 * **[StreetLight Data](https://www.streetlightdata.com/)** -Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
 
-## Demographic
+### Demographic
 
 * **[Esri Tapestry Segmentation](https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup)** -Provides concise information on the demographic, economic, education and consumer characteristics of populations based on ZIP code.
 
 
-## Land Use
+### Land Use
 
 * **[CoreLogic](https://www.corelogic.com/)** - Provides high quality parcel data, providing instant access to detailed property characteristics, sales records, valuation and digital copies of current county assessor documents.
 
-# Planning Data Specifications
+## Planning Data Specifications
 A collection of urban planning related data specifications and standards for use as part of programs & projects.
 
 ---
@@ -108,7 +108,7 @@ A collection of urban planning related data specifications and standards for use
 
 * **[SharedStreets](https://www.sharedstreets.io)**-  SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by [SharedStreets](https://www.sharedstreets.io). Additional Information: [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
 
-* **[CurbLR](https://www.curblr.org)** -  An open data specification for curb regulations maintained by [SharedStreets](https://www.sharedstreets.io). Additional Information: [Github](https://www.github.com/sharedstreets/curblr), Non-technical [landing site](https://www.curblr.org), Demo: interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).
+* **[CurbLR](https://www.curblr.org)** -  An open data specification for curb regulations maintained by [SharedStreets](https://www.sharedstreets.io). Additional Information: [GitHub](https://www.github.com/sharedstreets/curblr), Non-technical [landing site](https://www.curblr.org), Demo: interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).
     
 * **[GTFS](https://developers.google.com/transit/gtfs)** - The General Transit Feed Specification is a popular standard for describing transit systems.
 
@@ -128,12 +128,12 @@ A collection of urban planning related data specifications and standards for use
 
 * **[BLDs](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements)** - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested partiesto create a shared data specification for building and construction permit data.
 
-# Planning Coding Resources
+## Planning Coding Resources
 This is a curated list of Python, R, or other open-source libraries or programming tools can be useful for urban planning applications. 
 
 ---
 
-## Python
+### Python
 Python Libraries & Related Resources
 
 * **[Pandas](https://pandas.pydata.org/)** - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
@@ -149,7 +149,7 @@ Python Libraries & Related Resources
 * **[Pybikes](https://github.com/eskerda/pybikes)** -pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
 
 
-## R
+### R
 R Packages & Related Resources
 
 * **[R Shiny](https://shiny.rstudio.com/)** - Create dynamic, web-friendly visualizations of data using R. Additional Information: [Shiny Tutorial](https://shiny.rstudio.com/tutorial/).
@@ -160,7 +160,7 @@ R Packages & Related Resources
 
 * **[tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html)** - Go-to library for text mining--often used in tandem with ggplot or other text mining libraries
 
-## JS/HTML/CSS
+### JS/HTML/CSS
 Front-end web related packages and resources
 
 * **[Turf.js](https://turfjs.org/)** - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf).
@@ -169,7 +169,7 @@ Front-end web related packages and resources
 
  
 
-## Other
+### Other
 Other coding libraries & resources.
 
 * **[civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns)**- Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
@@ -191,7 +191,7 @@ A a high-level category to classify the resource into related groups. Census dat
 * **[Remix](https://www.remix.com/)** -A platform to empower cities to plan the best possible transportation system — from public transit to safer streets to ever-increasing new modes of mobility. Remix provides tools to edit & test GTFS, generate multimodal streets, and explore relevant data. 
     
     
-# Other Resources
+## Other Resources
 Other types of planning data & technology resources. 
 
 ---
