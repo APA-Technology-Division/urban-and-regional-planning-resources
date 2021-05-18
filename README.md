@@ -165,7 +165,7 @@ Front-end web related packages and resources
 
 * **[Turf.js](https://turfjs.org/)** - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf).
 
-* **[GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) ** - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
+* **[GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS)** - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 
  
 
