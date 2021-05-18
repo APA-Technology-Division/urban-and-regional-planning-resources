@@ -106,9 +106,9 @@ A collection of urban planning related data specifications and standards for use
 
 ## Transportation
 
-* **[[SharedStreets](https://www.sharedstreets.io)**-  SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by [SharedStreets](https://www.sharedstreets.io). Additional Information: [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
+* **[SharedStreets](https://www.sharedstreets.io)**-  SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by [SharedStreets](https://www.sharedstreets.io). Additional Information: [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
 
-* **[[CurbLR](https://www.curblr.org)** -  An open data specification for curb regulations maintained by [SharedStreets](https://www.sharedstreets.io). Additional Information: [Github](https://www.github.com/sharedstreets/curblr), Non-technical [landing site](https://www.curblr.org), Demo: interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).
+* **[CurbLR](https://www.curblr.org)** -  An open data specification for curb regulations maintained by [SharedStreets](https://www.sharedstreets.io). Additional Information: [Github](https://www.github.com/sharedstreets/curblr), Non-technical [landing site](https://www.curblr.org), Demo: interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).
     
 * **[GTFS](https://developers.google.com/transit/gtfs)** - The General Transit Feed Specification is a popular standard for describing transit systems.
 
@@ -182,7 +182,7 @@ A a high-level category to classify the resource into related groups. Census dat
 
 * **[ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview)** - This platform is a geographic information system (GIS) for working with maps and geographic information maintained by the Environmental Systems Research Institute (Esri).
     
-* **[kepler.gl]((https://kepler.gl/)** - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
+* **[kepler.gl](https://kepler.gl/)** - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
 
 ### Urban Planning Tools & Platforms
 
