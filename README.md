@@ -69,7 +69,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 * **[BTS Open Data Site](https://data-usdot.opendata.arcgis.com/)** - On the BTS Open Data site, browse geospatial data that is part of the BTS National Transportation Atlas Database (NTAD) product. NTAD is a set of nationwide (United States) geographic databases of public spatial information for transportation facilities and networks; flows of people, goods, vehicles, and craft over the transportation networks; and social, economic, and environmental conditions that affect or are affected by the transportation networks.
 
-* **[Transitland](transit.land)** -Transitland is an open data platform that collects GTFS, GTFS Realtime, and other open data feeds from over 2,500 transit operators in over 55 countries. Additional Information: [Interline](https://www.interline.io/),[Github](github.com/transitland).
+* **[Transitland](transit.land)** -Transitland is an open data platform that collects GTFS, GTFS Realtime, and other open data feeds from over 2,500 transit operators in over 55 countries. Additional Information: [Interline](https://www.interline.io/),[GitHub](github.com/transitland).
 
 * **[National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map)** - Data within the National Transportation Noise Map represent potential noise levels across the nation for an average annual day for the specified year. 
 
@@ -174,7 +174,7 @@ Other coding libraries & resources.
 
 * **[civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns)**- Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
 
-# Platforms & Software Resources
+## Platforms & Software Resources
 Software and platforms for planners. 
 
 ### Geospatial Data & Visualization
