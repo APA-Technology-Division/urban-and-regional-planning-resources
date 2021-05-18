@@ -6,9 +6,13 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches: 
+     - main
+     - awesome-compliance
   pull_request:
-    branches: [main]
+    branches:
+     - main
+     - awesome-compliance
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
