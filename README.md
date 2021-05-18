@@ -27,130 +27,53 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 ## Demographic
 
-* **American Community Survey (ACS)**
-    * Description: The American Community Survey (ACS) helps local officials, community leaders, and businesses understand the changes taking place in their communities. It is the premier source for detailed population and housing information about our nation.|
-    * License: Public
-    * Geographic Coverage: United States
-    * Provider: Census Bureau   
-    * Links : [Program](https://www.census.gov/programs-surveys/acs)/[Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
+* **[American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)** - The American Community Survey (ACS) helps local officials, community leaders, and businesses understand the changes taking place in their communities. It is the premier source for detailed population and housing information for the United States. Additional Information: [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
 
-* **IPUMS National Historic GIS**
-   * Description: The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks. 
-   * Geographic Coverage: United States
-   * Provider: Minnesota Population Center, University of Minnesota
-   * Links: [Website](https://www.nhgis.org/)
+* **[IPUMS National Historic GIS](https://www.nhgis.org/)** -The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks.
    
 ## Built Environment
 
-* **Smart Location Database**
-    * Description:  The Smart Location Database is a nationwide geographic data resource for measuring location efficiency. It includes more than 90 attributes summarizing characteristics such as housing density, diversity of land use, neighborhood design, destination accessibility, transit service, employment, and demographics. Most attributes are available for every census block group in the United States. 
-    * License: Public
-    * Geographic Coverage: United States
-    * Provider: US Environmental Protection Agency (EPA)
-    * Links : [Website](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)
+* **[Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)** -  The Smart Location Database is a nationwide geographic data resource for measuring location efficiency. It includes more than 90 attributes summarizing characteristics such as housing density, diversity of land use, neighborhood design, destination accessibility, transit service, employment, and demographics. Most attributes are available for every census block group in the United States. 
     
-* **USBuildingFootprints**
-    * Description:  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use.
-    * License: Open Data Commons Open Database License (ODbL).
-    * Geographic Coverage: United States
-    * Provider: Microsoft
-    * Links : [GitHub](https://github.com/microsoft/USBuildingFootprints)/[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html)
+* **[USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)** -  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ## Employment
 
-* **Longitudinal Employer-Household Dynamics (LEHD)**
-    * Description:  The LEHD program combines these administrative data, additional administrative data and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. 
-    * License: Public
-    * Geographic Coverage: United States
-    * Provider: United States Census (Center of Economic Studies)
-    * Links : [Landing Page](https://lehd.ces.census.gov/)/[On The Map Download Page](https://onthemap.ces.census.gov/)  
+* **[Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/)** -  The LEHD program combines these administrative data, additional administrative data and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information:[On The Map Download Page](https://onthemap.ces.census.gov/).
  
 ## Equity/Environmental Justice
 
-* **EJ Screen**
-    * Description: EJSCREEN uses maps and reports to present three kinds of information: Environmental indicators, demographic indicators and EJ Indexes. 
-    * License: Public
-    * Geographic Coverage: United States
-    * Provider: US Environmental Protection Agency (EPA)
-    * Links : [About](https://www.epa.gov/ejscreen/understanding-ejscreen-results)/[Download](https://www.epa.gov/ejscreen/download-ejscreen-data)
+* **[EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results)** - EJSCREEN uses maps and reports to present three kinds of information: Environmental indicators, demographic indicators and EJ Indexes. Additional Information:[Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
    
-* **CDC Social Vulnerability Index**
-    * Description: CDC Social Vulnerability Index (CDC SVI) uses 15 U.S. census variables to help local officials identify communities that may need support before, during, or after disasters based on their level of social vulnerability. 
-    * License: Public
-    * Geographic Coverage: United States
-    * Provider: Center for Disease Control
-    * Links : [About](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)/[Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)
+* **[CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)** - CDC Social Vulnerability Index (CDC SVI) uses 15 U.S. census variables to help local officials identify communities that may need support before, during, or after disasters based on their level of social vulnerability. Additional Information: [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
 
 ## Environment/Ecosystem Services
 
-* **NLCD**
-    * Description: The National Land Cover Database is generated in cooperation with the Multi-Resolution Land Characteristics Consortium (MRLC), a partnership of Federal agencies working together to produce current, nationally consistent, land cover products for all 50 states and Puerto Rico. 
-    * License: Public
-    * Geographic Coverage: United States
-    * Provider: United States Geological Survey (USGS)
-    * Links : [About](https://www.usgs.gov/centers/eros/science/national-land-cover-database)
+* **[NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database)** - The National Land Cover Database is generated in cooperation with the Multi-Resolution Land Characteristics Consortium (MRLC), a partnership of Federal agencies working together to produce current, nationally consistent, land cover products for all 50 US states and Puerto Rico. 
 
-* **EnviroAtlas**
-    * Description: EnviroAtlas is a collection of interactive tools and resources that allows users to explore the many benefits people receive from nature, often referred to as ecosystem services.
-    * License: Public
-    * Geographic Coverage: United States
-    * Provider: US Environmental Protection Agency (EPA)
-    * Links : [About](https://www.epa.gov/enviroatlas)
+* **[EnviroAtlas](https://www.epa.gov/enviroatlas)** - EnviroAtlas is a collection of interactive tools and resources that allows users to explore the many benefits people receive from nature, often referred to as ecosystem services within the United States.
 
-* **National Hydrography**
-    * Description: The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
-    * License: Public
-    * Geographic Coverage: United States
-    * Provider: USGS
-    * Links : [About](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)
+
+* **[National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)**- The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
 
 ## Health
 
-* **County Health Rankings**
-    * Description: The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play. 
-    * License: Public
-    * Geographic Coverage: United States
-    * Provider: Robert Wood Johnson Foundation
-    * Links : [About](https://www.countyhealthrankings.org/)
- 
+* **[County Health Rankings](https://www.countyhealthrankings.org/)** - The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play.  
  
 ## Resilience & Natural Hazards
 
-* **Sea Level Rise Viewer**
-    * Description: The purpose of this map viewer is to provide federal, state, and local coastal resource managers and planners with a preliminary look at sea level rise and coastal flooding impacts.
-    * Geographic Coverage: United States
-    * Provider: NOAA
-    * Links : [About](https://coast.noaa.gov/slr/)
+* **[Sea Level Rise Viewer](https://coast.noaa.gov/slr/)** - NOAA provided map viewer is to provide federal, state, and local coastal resource managers and planners with a preliminary look at sea level rise and coastal flooding impacts.
 
 
 ## Transportation
 
-* **BTS Open Data Site**
-    * Description: On the BTS Open Data site, browse geospatial data that is part of the BTS National Transportation Atlas Database (NTAD) product. NTAD is a set of nationwide geographic databases of public spatial information for transportation facilities and networks; flows of people, goods, vehicles, and craft over the transportation networks; and social, economic, and environmental conditions that affect or are affected by the transportation networks.
-    * License: Public
-    * Geographic Coverage: United States
-    * Provider: Bureau of Transportation Statistics (BTS)
-    * Links : [Portal Gateway](https://data-usdot.opendata.arcgis.com/)
+* **[BTS Open Data Site](https://data-usdot.opendata.arcgis.com/)** - On the BTS Open Data site, browse geospatial data that is part of the BTS National Transportation Atlas Database (NTAD) product. NTAD is a set of nationwide (United States) geographic databases of public spatial information for transportation facilities and networks; flows of people, goods, vehicles, and craft over the transportation networks; and social, economic, and environmental conditions that affect or are affected by the transportation networks.
 
-* **Transitland**
-   * Description: Transitland is an open data platform that collects GTFS, GTFS Realtime, and other open data feeds from over 2,500 transit operators in over 55 countries. 
-   * Geographic Coverage: Global
-   * Provider: [Interline](https://www.interline.io/)
-   * Links: [Website](transit.land), [Github](github.com/transitland)
+* **[Transitland](transit.land)** -Transitland is an open data platform that collects GTFS, GTFS Realtime, and other open data feeds from over 2,500 transit operators in over 55 countries. Additional Information: [Interline](https://www.interline.io/),[Github](github.com/transitland).
 
-* **National Noise Map**
-    * Description: Data within the National Transportation Noise Map represent potential noise levels across the nation for an average annual day for the specified year. 
-    * License: Public
-    * Geographic Coverage: United States
-    * Provider: Bureau of Transportation Statistics (BTS)
-    * Links : [About](https://www.bts.gov/geospatial/national-transportation-noise-map)
+* **[National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map)** - Data within the National Transportation Noise Map represent potential noise levels across the nation for an average annual day for the specified year. 
 
-* **Global Urban Street Networks**
-    * Description: Ready‐to‐use global street network models and calculated indicators in a GIS format.  
-    * License: Open Database License/Public
-    * Geographic Coverage: Global
-    * Provider: Harvard Dataverse
-    * Links : [About](https://geoffboeing.com/publications/street-network-models-indicators-world/)/ [Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
+* **[Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/)** - Ready‐to‐use global street network models and calculated indicators in a GIS format. Additional Information:[Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
 
 
 # Vendor Data Resources
@@ -160,33 +83,21 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 ## Travel Behavior
 
-* **SafeGraph**
-    * Description:  Points of interest (POI) provider using mobile trace data to provide visitor insights data for commercial places in the U.S.  
-    * Geographic Coverage: United States
-    * Links : [Website](https://www.safegraph.com/)
 
-* **Replica**
-    * Description:  Replica is a data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
-    * Links : [Website](https://replicahq.com/platform)
+* **[Replica](https://replicahq.com/platform)** -  Replica is a data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
 
-* **StreetLight Data**
-   * Description: Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
-   * Geographic Coverage: United States   
-   * Links: [Website](https://www.streetlightdata.com/)
+* **[SafeGraph](https://www.safegraph.com/)** -  Points of interest (POI) provider using mobile trace data to provide visitor insights data for commercial places in the United States.
+
+* **[StreetLight Data](https://www.streetlightdata.com/)** -Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
 
 ## Demographic
 
-* **Esri Tapestry Segmentation**
-   * Description: Provides concise information on the demographic, economic, education and consumer characteristics of populations based on ZIP code.
-   * Geographic Coverage: United States   
-   * Links: [Website](https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup)
+* **[Esri Tapestry Segmentation](https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup)** -Provides concise information on the demographic, economic, education and consumer characteristics of populations based on ZIP code.
+
 
 ## Land Use
 
-* **CoreLogic**
-   * Description: Provides high quality parcel data, providing instant access to detailed property characteristics, sales records, valuation and digital copies of current county assessor documents.
-   * Geographic Coverage: United States   
-   * Links: [Website](https://www.corelogic.com/)
+* **[CoreLogic](https://www.corelogic.com/)** - Provides high quality parcel data, providing instant access to detailed property characteristics, sales records, valuation and digital copies of current county assessor documents.
 
 # Planning Data Specifications
 A collection of urban planning related data specifications and standards for use as part of programs & projects.
@@ -195,72 +106,27 @@ A collection of urban planning related data specifications and standards for use
 
 ## Transportation
 
-* **[SharedStreets](https://www.sharedstreets.io)**
-    * Description:  SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets.
-    * License: MIT
-    * Geographic Coverage: Global 
-    * Provider: Developed and currently maintained by [SharedStreets](https://www.sharedstreets.io)
-    * Links: [SharedStreets About](https://sharedstreets.io/) / [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
+* **[[SharedStreets](https://www.sharedstreets.io)**-  SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by [SharedStreets](https://www.sharedstreets.io). Additional Information: [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
 
-* **[CurbLR](https://www.curblr.org)**
-    * Description:  An open data specification for curb regulations 
-    * License: [CC0](https://github.com/sharedstreets/curblr/blob/master/LICENSE) 
-    * Geographic Coverage: Global 
-    * Provider: Developed and currently maintained by [SharedStreets](https://www.sharedstreets.io)
-    * Links : Full documentation on [Github](https://www.github.com/sharedstreets/curblr), Non-technical [landing site](https://www.curblr.org), Demo: interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148)
+* **[[CurbLR](https://www.curblr.org)** -  An open data specification for curb regulations maintained by [SharedStreets](https://www.sharedstreets.io). Additional Information: [Github](https://www.github.com/sharedstreets/curblr), Non-technical [landing site](https://www.curblr.org), Demo: interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).
     
-* **GTFS**
-    * Description: The General Transit Feed Specification is a popular standard for describing transit systems.
-    * License: CC4/Apache 2.0
-    * Geographic Coverage: Global 
-    * Provider: Google (Originally) - Developed in partnership with Trimet. 
-    * Links : [GTFS - Google Transit](https://developers.google.com/transit/gtfs) 
-    
-* **shared-row** 
-    * Description:    A data specification for representing street right of ways 
-    * License: CC4/Apache 2.0
-    * Geographic Coverage: Global 
-    * Provider: Opensource Collaborators	
-    * Links : [shared-row](https://github.com/d-wasserman/shared-row) 
-    
-    
-* **GBFS**
-    * Description: The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
-    * License: CC4/Apache 2.0
-    * Geographic Coverage: Global 
-    * Provider: North American Bike Share Association
-    * Links : [NABSA-GBFS](https://github.com/NABSA/gbfs) 
+* **[GTFS](https://developers.google.com/transit/gtfs)** - The General Transit Feed Specification is a popular standard for describing transit systems.
 
-* **MDS**
-    * Description: The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
-    * License: CC4
-    * Geographic Coverage: Global 
-    * Provider: Open Mobility Foundation
-    * Links : [OMF-MDS](https://github.com/openmobilityfoundation/mobility-data-specification)
+* **[shared-row](https://github.com/d-wasserman/shared-row)** - A data specification for representing street right of ways   
+    
+* **[GBFS](https://github.com/NABSA/gbfs)**- The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
 
-* **MTLFS**
-    * Description: The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
-    * License: MIT
-    * Geographic Coverage: Global
-    * Provider: Opensource Collaborators
-    * Links : [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification)
+* **[MDs](https://github.com/openmobilityfoundation/mobility-data-specification)**- The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
+
+* **[MTLFs](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification)** - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
+
 
 
 ## Built Environment
 
-* **DTDL**
-    * Description: The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies. 
-    * License: MIT
-    * Geographic Coverage: Global 
-    * Provider: Microsoft- Azure
-    * Links : [Azure-DTDL](https://github.com/Azure/opendigitaltwins-building) 
+* **[DTDL](https://github.com/Azure/opendigitaltwins-building)** - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies. 
 
-* **BLDS**
-    * Description: The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested partiesto create a shared data specification for building and construction permit data.
-    * License: Unknown
-    * Geographic Coverage: United States
-    * Provider: Opensource Collaborators
-    * Links : [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements)
+* **[BLDs](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements)** - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested partiesto create a shared data specification for building and construction permit data.
 
 # Planning Coding Resources
 This is a curated list of Python, R, or other open-source libraries or programming tools can be useful for urban planning applications. 
@@ -270,92 +136,43 @@ This is a curated list of Python, R, or other open-source libraries or programmi
 ## Python
 Python Libraries & Related Resources
 
-* **Pandas**
-    * Description: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-    * License: BSD-3-Clause License
-    * Provider: NumFocus Project (since 2015)
-    * Links: https://pandas.pydata.org/
+* **[Pandas](https://pandas.pydata.org/)** - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
-* **Arcpy**
-    * Description: ArcPy is a Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
-    * License: Proprietary
-    * Provider: Esri
-    * Links: https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm
+* **[Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm)**- ArcPy is a Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
 
-* **ArcGIS Python API**
-    * Description: The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library to perform GIS visualization and analysis, spatial data management and GIS system administration tasks that can run both interactively, and using scripts. This library enables easy use of pandas within the arcgis platform. 
-    * License: Proprietary
-    * Provider: Esri
-    * Links: https://developers.arcgis.com/python/api-reference/
+* **[ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)** - The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library to perform GIS visualization and analysis, spatial data management and GIS system administration tasks that can run both interactively, and using scripts. This library enables easy use of pandas within the ArcGIS platform. 
 
-* **Pandana**
-    * Description: Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths.
-    * License: AGPL-3.0 License
-    * Provider: UrbanSim Inc. (UDST) 
-    * Links: https://udst.github.io/pandana/
+* **[Pandana](https://udst.github.io/pandana/)** - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
  
-* **Geosnap**
-    * Description: Geospatial & temporal neighborhood analysis using Census Data
-    * License: BSD-3-Clause License 
-    * Provider: Center for Geospatial Sciences
-    * Links: https://github.com/spatialucr/geosnap
+* **[Geosnap](https://github.com/spatialucr/geosnap)**- Geospatial & temporal neighborhood analysis using US Census Data.
 
-* **Pybikes**
-   * Description: pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
-   * Links: [Github](https://github.com/eskerda/pybikes)
+* **[Pybikes](https://github.com/eskerda/pybikes)** -pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
+
 
 ## R
 R Packages & Related Resources
 
-* **R Shiny**
-    * Description: Create dynamic, web-friendly visualizations of data using R
-    * Provider: R Studio
-    * Links: [RStudio Shiny Homepage](https://shiny.rstudio.com/), [Shiny Tutorial](https://shiny.rstudio.com/tutorial/)
+* **[R Shiny](https://shiny.rstudio.com/)** - Create dynamic, web-friendly visualizations of data using R. Additional Information: [Shiny Tutorial](https://shiny.rstudio.com/tutorial/).
     
-* **simplefeatures(sf)**
-    * Description: Support for simple features, a standardized way to encode spatial vector data in R. 
-    * License: GPL 2 / MIT License
-    * Provider: Edzer Pebesma
-    * Links:[About- Docs](https://cran.r-project.org/web/packages/sf/index.html)
+* **[simplefeatures(sf)](https://cran.r-project.org/web/packages/sf/index.html)**- Support for simple features, a standardized way to encode spatial vector data in R. 
 
-* **ggplot2**
-    * Description: Resource for plotting a wide range of data (useful for visualizing survey data)
-    * License: GNU GENERAL PUBLIC LICENSE
-    * Provider: Tidyverse
-    * Links:[Overview and Tutorials](https://ggplot2.tidyverse.org/)    
+* **[ggplot2](https://ggplot2.tidyverse.org/)** - Resource for plotting a wide range of data (useful for visualizing survey data). Additional Information: GNU GENERAL PUBLIC LICENSE.
 
-* **tidytext**
-    * Description: Go-to library for text mining--often used in tandem with ggplot or other text mining libraries
-    * License: MIT
-    * Provider: Julia Silge and David Robinson
-    * Links:[Overview and Tutorials](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html)    
+* **[tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html)** - Go-to library for text mining--often used in tandem with ggplot or other text mining libraries
 
 ## JS/HTML/CSS
 Front-end web related packages and resources
 
-* **Turf.js**
-    * Description: Advanced geospatial analysis for browsers and Node.js. 
-    * License:  MIT License
-    * Provider: Turfjs
-    * Links: [About](https://turfjs.org/) / [GitHub](https://github.com/Turfjs/turf) 
+* **[Turf.js](https://turfjs.org/)** - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf).
 
-* **GTFS-JS**
-    * Description: JavaScript library for working with GTFS data.
-    * License: The Unlicense
-    * Provider: Washington DOT
-    * Links: [GitHub](https://github.com/WSDOT-GIS/GTFS-JS) 
+* **[GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) ** - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 
  
 
 ## Other
 Other coding libraries & resources.
 
-* **civic-tech-patterns**
-    * Description: Common patterns and anti-patterns for civic tech and civic applications.
-    * Provider: Code for America
-    * Links: [About](https://github.com/codeforamerica/civic-tech-patterns)
- 
-
+* **[civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns)**- Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
 
 # Platforms & Software Resources
 Software and platforms for planners. 
@@ -363,22 +180,15 @@ Software and platforms for planners.
 ### Geospatial Data & Visualization
 A a high-level category to classify the resource into related groups. Census data could be considered "Demographic" for example. 
 
-* **ArcGIS**
-    * Description: This platform is a geographic information system (GIS) for working with maps and geographic information maintained by the Environmental Systems Research Institute (Esri)
-    * Links: [About](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
+* **[ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview)** - This platform is a geographic information system (GIS) for working with maps and geographic information maintained by the Environmental Systems Research Institute (Esri).
     
-* **kepler.gl**
-    * Description: Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations.
-    * Links: [About](https://kepler.gl/)/[API Reference](https://docs.kepler.gl/docs/api-reference)
+* **[kepler.gl]((https://kepler.gl/)** - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
 
 ### Urban Planning Tools & Platforms
 
-* **UrbanFootPrint**
-    * Description: Web-based planning tool serving curated urban, environmental, and economic data to urban practitioners and equipping them with the analytic capabilities to plan and improve communities faster, better, and at lower cost.
-    * Links: [About](https://urbanfootprint.com/)
-* **Remix**
-   * Description: A platform to empower cities to plan the best possible transportation system — from public transit to safer streets to ever-increasing new modes of mobility. Remix provides tools to edit & test GTFS, generate multimodal streets, and explore relevant data. 
-   * Links: [About](https://www.remix.com/)
+* **[UrbanFootPrint](https://urbanfootprint.com/)** - Web-based planning tool serving curated urban, environmental, and economic data to urban practitioners and equipping them with the analytic capabilities to plan and improve communities faster, better, and at lower cost.
+
+* **[Remix](https://www.remix.com/)** -A platform to empower cities to plan the best possible transportation system — from public transit to safer streets to ever-increasing new modes of mobility. Remix provides tools to edit & test GTFS, generate multimodal streets, and explore relevant data. 
     
     
 # Other Resources
@@ -390,35 +200,19 @@ Other types of planning data & technology resources.
 
 These are other repositories that aggregate planning related tools, software, and related resources. They are a good source of inspiration to contribute to this repo for example, but we don't need to duplicate efforts. 
 
-* **awesome-transit**
-    * Description: A collection of transit data tools and resources. 
-    * Links: https://github.com/CUTR-at-USF/awesome-transit
+* **[awesome-transit](https://github.com/CUTR-at-USF/awesome-transit)** - A collection of transit data tools and resources.
   
-* **micromobility-tools-and-resources**
-    * Description: A collection of micromobility tools and data resources.
-    * Links: https://github.com/NABSA/micromobility-tools-and-resources
+* **[micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources)** - A collection of micromobility tools and data resources.
 
-* **awesome-sustainable-technology**
-    * Description: A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
-    * Links: https://github.com/protontypes/open-sustainable-technology
+* **[awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology)** - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
 
-* **awesome-gis**
-    * Description: Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
-    * Links: https://github.com/sshuair/awesome-gis
+* **[awesome-gis](https://github.com/sshuair/awesome-gis)** - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
 
-* **awesome-agriculture**
-    * Description: Open source technology for agriculture, farming, and gardening.
-    * Links: https://github.com/brycejohnston/awesome-agriculture
+* **[awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture)** - Open source technology for agriculture, farming, and gardening.
 
+* **[awesome-geojson](https://github.com/tmcw/awesome-geojson)**- GeoJSON utilities that will make your life easier.
 
-
-* **awesome-geojson**
-    * Description: GeoJSON utilities that will make your life easier.
-    * Links: https://github.com/tmcw/awesome-geojson
-    
-* **Urban Computing Foundation**
-  * Description: Accelerating open source and community development that improves mobility, safety, infrastructure, traffic, and energy consumption in connected cities.
-  * Links: https://github.com/ucfoundation, https://landscape.uc.foundation/ 
+* **[Urban Computing Foundation](https://github.com/ucfoundation)**- Accelerating open source and community development that improves mobility, safety, infrastructure, traffic, and energy consumption in connected cities. Additional Information: [Landscape](https://landscape.uc.foundation/). 
 
 
 ---
