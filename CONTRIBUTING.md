@@ -13,7 +13,7 @@ Below is the desired contribution format to APA's Technology Divisions technolog
 ### Type
 A a high-level category to classify the resource into related groups. Census data could be considered "Demographic" for example. 
 
-* **[Resource Name](www.github.com)** - Description of resource:License:Geographic Coverage:Provider:[Link1](www.github.com):[Link2](www.github.com). 
+* **[Resource Name](www.github.com)** - Description of resource. Additional Information:License:Geographic Coverage:Provider:[Link1](www.github.com):[Link2](www.github.com). 
 
 #### Legend
 * **[Resource Name](www.github.com)**[Required]: Name of the resoure with hyperlink to main page.
