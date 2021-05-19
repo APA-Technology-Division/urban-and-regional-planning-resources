@@ -29,7 +29,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 * [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs) - The American Community Survey (ACS) helps local officials, community leaders, and businesses understand the changes taking place in their communities. It is the premier source for detailed population and housing information for the United States. Additional Information: [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
 
-* [IPUMS National Historic GIS](https://www.nhgis.org/) -The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks.
+* [IPUMS National Historic GIS](https://www.nhgis.org/) - The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks.
    
 ### Built Environment
 
@@ -54,7 +54,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 * [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas is a collection of interactive tools and resources that allows users to explore the many benefits people receive from nature, often referred to as ecosystem services within the United States.
 
 
-* [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)- The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
+* [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products) - The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
 
 ### Health
 
@@ -88,7 +88,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 * [SafeGraph](https://www.safegraph.com/) -  Points of interest (POI) provider using mobile trace data to provide visitor insights data for commercial places in the United States.
 
-* [StreetLight Data](https://www.streetlightdata.com/) -Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
+* [StreetLight Data](https://www.streetlightdata.com/) - Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
 
 ### Demographic
 
@@ -106,7 +106,7 @@ A collection of urban planning related data specifications and standards for use
 
 ## Transportation
 
-* [SharedStreets](https://www.sharedstreets.io)-  SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by [SharedStreets](https://www.sharedstreets.io). Additional Information: [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
+* [SharedStreets](https://www.sharedstreets.io) - SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by [SharedStreets](https://www.sharedstreets.io). Additional Information: [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
 
 * [CurbLR](https://www.curblr.org) -  An open data specification for curb regulations maintained by [SharedStreets](https://www.sharedstreets.io). Additional Information: [GitHub](https://www.github.com/sharedstreets/curblr), Non-technical [landing site](https://www.curblr.org), Demo: interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).
     
@@ -114,9 +114,9 @@ A collection of urban planning related data specifications and standards for use
 
 * [shared-row](https://github.com/d-wasserman/shared-row) - A data specification for representing street right of ways   
     
-* [GBFS](https://github.com/NABSA/gbfs)- The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
+* [GBFS](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
 
-* [MDs](https://github.com/openmobilityfoundation/mobility-data-specification)- The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
+* [MDs](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
 
 * [MTLFs](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
 
@@ -138,13 +138,13 @@ Python Libraries & Related Resources
 
 * [Pandas](https://pandas.pydata.org/) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
-* [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm)- ArcPy is a Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
+* [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy is a Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
 
 * [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/) - The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library to perform GIS visualization and analysis, spatial data management and GIS system administration tasks that can run both interactively, and using scripts. This library enables easy use of pandas within the ArcGIS platform. 
 
 * [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
  
-* [Geosnap](https://github.com/spatialucr/geosnap)- Geospatial & temporal neighborhood analysis using US Census Data.
+* [Geosnap](https://github.com/spatialucr/geosnap) - Geospatial & temporal neighborhood analysis using US Census Data.
 
 * [Pybikes](https://github.com/eskerda/pybikes) -pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
 
@@ -154,7 +154,7 @@ R Packages & Related Resources
 
 * [R Shiny](https://shiny.rstudio.com/) - Create dynamic, web-friendly visualizations of data using R. Additional Information: [Shiny Tutorial](https://shiny.rstudio.com/tutorial/).
     
-* [simplefeatures(sf)](https://cran.r-project.org/web/packages/sf/index.html)- Support for simple features, a standardized way to encode spatial vector data in R. 
+* [simplefeatures(sf)](https://cran.r-project.org/web/packages/sf/index.html) - Support for simple features, a standardized way to encode spatial vector data in R. 
 
 * [ggplot2](https://ggplot2.tidyverse.org/) - Resource for plotting a wide range of data (useful for visualizing survey data). Additional Information: GNU GENERAL PUBLIC LICENSE.
 
@@ -172,7 +172,7 @@ Front-end web related packages and resources
 ### Other
 Other coding libraries & resources.
 
-* [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns)- Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
+* [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns) - Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
 
 ## Platforms & Software Resources
 Software and platforms for planners. 
@@ -210,9 +210,9 @@ These are other repositories that aggregate planning related tools, software, an
 
 * [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
 
-* [awesome-geojson](https://github.com/tmcw/awesome-geojson)- GeoJSON utilities that will make your life easier.
+* [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 
-* [Urban Computing Foundation](https://github.com/ucfoundation)- Accelerating open source and community development that improves mobility, safety, infrastructure, traffic, and energy consumption in connected cities. Additional Information: [Landscape](https://landscape.uc.foundation/). 
+* [Urban Computing Foundation](https://github.com/ucfoundation) - Accelerating open source and community development that improves mobility, safety, infrastructure, traffic, and energy consumption in connected cities. Additional Information: [Landscape](https://landscape.uc.foundation/). 
 
 
 ---
