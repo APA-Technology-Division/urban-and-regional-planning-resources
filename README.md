@@ -7,40 +7,42 @@
 
 This repository contains curated list of different urban & regional planning data &amp; technology resources. Those interested in the built environement are invited to review and contribute to this repository.
 
+---
+
 ## Table of Contents
 
----
 - [Public Data Resources](#public-data-resources)
-  * [Demographic](#demographic)
-  * [Built Environment](#built-environment)
-  * [Employment](#employment)
-  * [Equity/Environmental Justice](#equity-environmental-justice)
-  * [Environment/Ecosystem Services](#environment-ecosystem-services)
-  * [Health](#health)
-  * [Resilience & Natural Hazards](#resilience---natural-hazards)
-  * [Transportation](#transportation)
-  * [OpenStreetMap](#openstreetmap)
+  - [Demographic](#demographic)
+  - [Built Environment](#built-environment)
+  - [Employment](#employment)
+  - [Equity/Environmental Justice](#equity-environmental-justice)
+  - [Environment/Ecosystem Services](#environment-ecosystem-services)
+  - [Health](#health)
+  - [Resilience & Natural Hazards](#resilience---natural-hazards)
+  - [Transportation](#transportation)
+  - [OpenStreetMap](#openstreetmap)
 - [Vendor Data Resources](#vendor-data-resources)
-  * [Travel Behavior](#travel-behavior)
-  * [Demographic](#demographic-1)
-  * [Land Use](#land-use)
+  - [Travel Behavior](#travel-behavior)
+  - [Demographic](#demographic-1)
+  - [Land Use](#land-use)
 - [Planning Data Specifications](#planning-data-specifications)
 - [Transportation](#transportation-1)
 - [Built Environment](#built-environment-1)
 - [Planning Coding Resources](#planning-coding-resources)
-  * [Python](#python)
-  * [R](#r)
-  * [JS/HTML/CSS](#js-html-css)
-  * [Other](#other)
+  - [Python](#python)
+  - [R](#r)
+  - [JS/HTML/CSS](#js-html-css)
+  - [Other](#other)
 - [Platforms & Software Resources](#platforms---software-resources)
-  * [Geospatial Data & Visualization](#geospatial-data---visualization)
-  * [Urban Planning Tools & Platforms](#urban-planning-tools---platforms)
+  - [Geospatial Data & Visualization](#geospatial-data---visualization)
+  - [Urban Planning Tools & Platforms](#urban-planning-tools---platforms)
 - [Other Resources](#other-resources)
-  * [Other Technology Resource Aggregators](#other-technology-resource-aggregators)
+  - [Other Technology Resource Aggregators](#other-technology-resource-aggregators)
 - [Contributing](#contributing)
-  * [GitHub Contributions](#github-contributions)
-  * [Form Based Contributions](#form-based-contributions)
+  - [GitHub Contributions](#github-contributions)
+  - [Form Based Contributions](#form-based-contributions)
 - [License & Citation](#license---citation)
+
 ---
 
 ## Public Data Resources
