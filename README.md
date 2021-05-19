@@ -16,9 +16,9 @@ This repository contains curated list of different urban & regional planning dat
   - [Built Environment](#built-environment)
   - [Employment](#employment)
   - [Equity and Environmental Justice](#equity-and-environmental-justice)
-  - [Environment/Ecosystem Services](#environment-ecosystem-services)
+  - [Environment and Ecosystem Services](#environment-and-ecosystem-services)
   - [Health](#health)
-  - [Resilience & Natural Hazards](#resilience---natural-hazards)
+  - [Resilience and Natural Hazards](#resilience-and-natural-hazards)
   - [Transportation](#transportation)
   - [OpenStreetMap](#openstreetmap)
 - [Vendor Data Resources](#vendor-data-resources)
@@ -26,22 +26,22 @@ This repository contains curated list of different urban & regional planning dat
   - [Demographic](#demographic-1)
   - [Land Use](#land-use)
 - [Planning Data Specifications](#planning-data-specifications)
-- [Transportation](#transportation-1)
-- [Built Environment](#built-environment-1)
+  - [Transportation](#transportation-1)
+  - [Built Environment](#built-environment-1)
 - [Planning Coding Resources](#planning-coding-resources)
   - [Python](#python)
   - [R](#r)
   - [JS and Web](#js-and-web)
   - [Other](#other)
 - [Platforms and Software Resources](#platforms-and-software-resources)
-  - [Geospatial Data & Visualization](#geospatial-data---visualization)
-  - [Urban Planning Tools & Platforms](#urban-planning-tools---platforms)
+  - [Geospatial Data and Visualization](#geospatial-data-and-visualization)
+  - [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
 - [Other Resources](#other-resources)
   - [Other Technology Resource Aggregators](#other-technology-resource-aggregators)
 - [Contributing](#contributing)
   - [GitHub Contributions](#github-contributions)
   - [Form Based Contributions](#form-based-contributions)
-- [License & Citation](#license---citation)
+- [License and Citation](#license-and-citation)
 
 ---
 
@@ -74,7 +74,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
    
 - [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html) - CDC Social Vulnerability Index (CDC SVI) uses 15 U.S. census variables to help local officials identify communities that may need support before, during, or after disasters based on their level of social vulnerability. Additional Information: [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
 
-### Environment/Ecosystem Services
+### Environment and Ecosystem Services
 
 - [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database) - The National Land Cover Database is generated in cooperation with the Multi-Resolution Land Characteristics Consortium (MRLC), a partnership of Federal agencies working together to produce current, nationally consistent, land cover products for all 50 US states and Puerto Rico. 
 
@@ -87,7 +87,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [County Health Rankings](https://www.countyhealthrankings.org/) - The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play.  
  
-### Resilience & Natural Hazards
+### Resilience and Natural Hazards
 
 - [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA provided map viewer is to provide federal, state, and local coastal resource managers and planners with a preliminary look at sea level rise and coastal flooding impacts.
 
@@ -138,7 +138,7 @@ A collection of urban planning related data specifications and standards for use
 
 ---
 
-## Transportation
+### Transportation
 
 - [SharedStreets](https://www.sharedstreets.io) - SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by SharedStreets. Additional Information: [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
 
@@ -156,7 +156,7 @@ A collection of urban planning related data specifications and standards for use
 
 
 
-## Built Environment
+### Built Environment
 
 - [DTDL](https://github.com/Azure/opendigitaltwins-building) - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies. 
 
@@ -211,14 +211,14 @@ Other coding libraries & resources.
 ## Platforms and Software Resources
 Software and platforms for planners. 
 
-### Geospatial Data & Visualization
+### Geospatial Data and Visualization
 A a high-level category to classify the resource into related groups. Census data could be considered "Demographic" for example. 
 
 - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - This platform is a geographic information system (GIS) for working with maps and geographic information maintained by the Environmental Systems Research Institute (Esri).
     
 - [kepler.gl](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
 
-### Urban Planning Tools & Platforms
+### Urban Planning Tools and Platforms
 
 - [UrbanFootPrint](https://urbanfootprint.com/) - Web-based planning tool serving curated urban, environmental, and economic data to urban practitioners and equipping them with the analytic capabilities to plan and improve communities faster, better, and at lower cost.
 
@@ -260,7 +260,7 @@ We are actively looking for contributions from those interested in urban plannin
 If you don't have a GitHub, but have a resources that falls into the categories below you would like to contribute try putting the information in this Google Sheet here. We will look at incorporating it into the repository pending review. 
 https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0zo0ONDdV4w/viewform?usp=sf_link
 
-## License & Citation
+## License and Citation
 Similar to other [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md), this repository is released into CC 1.0. We do not require citation, but in order to generate more contributions for and understanding of this resource we do appreciate sharing this repository or citing it where appropriate. 
 
 
