@@ -10,15 +10,18 @@ project you agree to abide by its terms.
 
 Below is the desired contribution format to APA's Technology Divisions technology & data resources repository. 
 
-### Type 
+### Type
 A a high-level category to classify the resource into related groups. Census data could be considered "Demographic" for example. 
 
-* **Resource Name**[Required]: Name of the resoure
-    * Description [Required]: A description of what it provides to viewers in a sentence or two. 
-    * License [Optional]: The type of open source license applied to the resource if any. Non-opensource resources should be labled "Proprietary" or "Other".
-    * Geographic Coverage [Optional]: The reach and range of the resource in terms of Nations, States, or other recognizable geographic boundaries.
-    * Provider[Optional]: Who is the sponsor or provider of the resource. 
-    * Links [Required]: Hyper-Link(s) to the resource. 
+* **[Resource Name](www.github.com)** - Description of resource. Additional Information:License:Geographic Coverage:Provider:[Link1](www.github.com):[Link2](www.github.com). 
+
+#### Legend
+* **[Resource Name](www.github.com)**[Required]: Name of the resoure with hyperlink to main page.
+* Description of resource[Required]: A description of what it provides to viewers in a sentence or two. 
+* License [Optional]: The type of open source license applied to the resource if any. More important for restricted licenses. Non-opensource resources should be labled "Proprietary" or "Other".
+* Geographic Coverage [Optional]: The reach and range of the resource in terms of Nations, States, or other recognizable geographic boundaries.
+* Provider[Optional]: Who is the sponsor or provider of the resource. 
+* Additional Links[Optional]: Additional Hyper-Link(s) to the resource. 
  
  # GitHub For Planners
  If you are not familar with Git or GitHub, we highly recommend this webcast that accompanies this repo. This will cover the basics and discuss how to contribute to or build your own repositories. 
