@@ -8,7 +8,7 @@
 This repository contains curated list of different urban & regional planning data &amp; technology resources. Those interested in the built environement are invited to review and contribute to this repository.
 
 ---
-
+<!--lint disable remark-lint:awesome-toc-->
 ## Contents
 
 - [Public Data Resources](#public-data-resources)
