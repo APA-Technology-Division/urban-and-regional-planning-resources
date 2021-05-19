@@ -15,7 +15,7 @@ This repository contains curated list of different urban & regional planning dat
   - [Demographic](#demographic)
   - [Built Environment](#built-environment)
   - [Employment](#employment)
-  - [Equity/Environmental Justice](#equity-environmental-justice)
+  - [Equity and Environmental Justice](#equity-and-environmental-justice)
   - [Environment/Ecosystem Services](#environment-ecosystem-services)
   - [Health](#health)
   - [Resilience & Natural Hazards](#resilience---natural-hazards)
@@ -31,9 +31,9 @@ This repository contains curated list of different urban & regional planning dat
 - [Planning Coding Resources](#planning-coding-resources)
   - [Python](#python)
   - [R](#r)
-  - [JS/HTML/CSS](#js-html-css)
+  - [JS and Web](#js-and-web)
   - [Other](#other)
-- [Platforms & Software Resources](#platforms---software-resources)
+- [Platforms and Software Resources](#platforms-and-software-resources)
   - [Geospatial Data & Visualization](#geospatial-data---visualization)
   - [Urban Planning Tools & Platforms](#urban-planning-tools---platforms)
 - [Other Resources](#other-resources)
@@ -68,7 +68,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/) -  The LEHD program combines these administrative data, additional administrative data and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information:[On The Map Download Page](https://onthemap.ces.census.gov/).
  
-### Equity/Environmental Justice
+### Equity and Environmental Justice
 
 - [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results) - EJSCREEN uses maps and reports to present three kinds of information: Environmental indicators, demographic indicators and EJ Indexes. Additional Information:[Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
    
@@ -168,7 +168,7 @@ This is a curated list of Python, R, or other open-source libraries or programmi
 ---
 
 ### Python
-Python Libraries & Related Resources
+Python Libraries & Related Resources.
 
 - [Pandas](https://pandas.pydata.org/) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
 
@@ -184,7 +184,7 @@ Python Libraries & Related Resources
 
 
 ### R
-R Packages & Related Resources
+R Packages & Related Resources.
 
 - [R Shiny](https://shiny.rstudio.com/) - Create dynamic, web-friendly visualizations of data using R. Additional Information: [Shiny Tutorial](https://shiny.rstudio.com/tutorial/).
     
@@ -194,8 +194,8 @@ R Packages & Related Resources
 
 - [tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) - Go-to library for text mining--often used in tandem with ggplot or other text mining libraries.
 
-### JS/HTML/CSS
-Front-end web related packages and resources
+### JS and Web
+Front-end web related packages and resources.
 
 - [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf).
 
@@ -208,7 +208,7 @@ Other coding libraries & resources.
 
 - [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns) - Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
 
-## Platforms & Software Resources
+## Platforms and Software Resources
 Software and platforms for planners. 
 
 ### Geospatial Data & Visualization
