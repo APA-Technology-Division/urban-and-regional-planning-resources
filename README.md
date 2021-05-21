@@ -93,9 +93,12 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map. This colloborative project is one of the largest databases of volunteered geographic information in the world. Its contents include points of interest, routable networks, and other geodata. 
 
+- [Geofabrik](http://download.geofabrik.de/) - OpenStreetMap extracts prepared in either PBF or shapefile format for download daily.  
+
 - [MetroExtracts](https://www.interline.io/osm/extracts/) - Each day, OSM Extracts by Interline mirrors the entire OpenStreetMap planet and creates city and region sized extracts ready for download into formats ready for GIS. 
 
 - [Overpass Turbo](https://overpass-turbo.eu/) -  Overpass Turbo is a web-based data mining tool for OpenStreetMap. It runs any kind of Overpass API query, shows the results on an interactive map, and allows users to export query data in the form of GeoJSON files (which may be converted to Shapefiles). It also provides helpful support for new users in the form of the "Wizard" tool. Using Overpass Turbo, you can query virtually any location globally using dedicated tags in Open Street Map. 
+ 
  
 ### Resilience and Natural Hazards
 
@@ -130,9 +133,6 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 - [Mapillary](https://www.mapillary.com/) - Access street-level imagery and AI-derived map data from all over the world. Fill in the gaps by requesting new coverage or capturing your own with an easy to use mobile app.
 
-## Planning Data Specifications
-A collection of urban planning related data specifications and standards for use as part of programs & projects.
-
 ### Travel Behavior
 
 - [Replica](https://replicahq.com/platform) -  Replica is a data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
@@ -140,6 +140,10 @@ A collection of urban planning related data specifications and standards for use
 - [SafeGraph](https://www.safegraph.com/) -  Points of interest (POI) provider using mobile trace data to provide visitor insights data for commercial places in the United States.
 
 - [StreetLight Data](https://www.streetlightdata.com/) - Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
+
+## Planning Data Specifications
+A collection of urban planning related data specifications and standards for use as part of programs & projects.
+
 ---
 
 ### Transportation
