@@ -22,9 +22,11 @@ This repository contains curated list of different urban & regional planning dat
   - [Resilience and Natural Hazards](#resilience-and-natural-hazards)
   - [Transportation](#transportation)
 - [Vendor Data Resources](#vendor-data-resources)
-  - [Travel Behavior](#travel-behavior)
+
   - [Demographic](#demographic-1)
   - [Land Use](#land-use)
+  - [Infrastructure](#infrastructure)
+  - [Travel Behavior](#travel-behavior)
 - [Planning Data Specifications](#planning-data-specifications)
   - [Transportation](#transportation-1)
   - [Built Environment](#built-environment-1)
