@@ -244,8 +244,6 @@ A a high-level category to classify the resource into related groups. Census dat
 
 - [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
 
-Explore the data interactively.
-
 ### Urban Planning Tools and Platforms
 
 - [UrbanFootPrint](https://urbanfootprint.com/) - Web-based planning tool serving curated urban, environmental, and economic data to urban practitioners and equipping them with the analytic capabilities to plan and improve communities faster, better, and at lower cost.
