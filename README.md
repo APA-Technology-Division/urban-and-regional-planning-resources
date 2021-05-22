@@ -12,11 +12,12 @@ This repository contains curated list of different urban & regional planning dat
 ## Contents
 
 - [Public Data Resources](#public-data-resources)
-  - [Demographic](#demographic)
+
   - [Built Environment](#built-environment)
+  - [Demographic](#demographic)
   - [Employment](#employment)
-  - [Equity and Environmental Justice](#equity-and-environmental-justice)
   - [Environment and Ecosystem Services](#environment-and-ecosystem-services)
+  - [Equity and Environmental Justice](#equity-and-environmental-justice)
   - [Health](#health)
   - [OpenStreetMap](#openstreetmap)
   - [Resilience and Natural Hazards](#resilience-and-natural-hazards)
@@ -24,25 +25,30 @@ This repository contains curated list of different urban & regional planning dat
 - [Vendor Data Resources](#vendor-data-resources)
 
   - [Demographic](#demographic-1)
-  - [Land Use](#land-use)
   - [Infrastructure](#infrastructure)
+  - [Land Use](#land-use)
   - [Travel Behavior](#travel-behavior)
 - [Planning Data Specifications](#planning-data-specifications)
-  - [Transportation](#transportation-1)
+
   - [Built Environment](#built-environment-1)
+  - [Transportation](#transportation-1)
 - [Planning Coding Resources](#planning-coding-resources)
+
   - [Python](#python)
   - [R](#r)
-  - [JS and Web](#js-and-web)
   - [Other](#other)
+  - [Web and JS](#web-and-js)
 - [Platforms and Software Resources](#platforms-and-software-resources)
+
   - [Geospatial Data and Visualization](#geospatial-data-and-visualization)
   - [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
 - [Other Resources](#other-resources)
+
   - [Other Technology Resource Aggregators](#other-technology-resource-aggregators)
 - [Contributing](#contributing)
-  - [GitHub Contributions](#github-contributions)
+
   - [Form Based Contributions](#form-based-contributions)
+  - [GitHub Contributions](#github-contributions)
 - [License and Citation](#license-and-citation)
 
 ---
@@ -53,6 +59,11 @@ Data resources that are publicly available for use. Licenses may apply.
 Open Data Sites and national scale datasets should be near the top of each section.
 
 ---
+### Built Environment
+
+- [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD) -  The Smart Location Database is a nationwide geographic data resource for measuring location efficiency. It includes more than 90 attributes summarizing characteristics such as housing density, diversity of land use, neighborhood design, destination accessibility, transit service, employment, and demographics. Most attributes are available for every census block group in the United States. 
+    
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ### Demographic
 
@@ -60,21 +71,9 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [IPUMS National Historic GIS](https://www.nhgis.org/) - The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks.
    
-### Built Environment
-
-- [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD) -  The Smart Location Database is a nationwide geographic data resource for measuring location efficiency. It includes more than 90 attributes summarizing characteristics such as housing density, diversity of land use, neighborhood design, destination accessibility, transit service, employment, and demographics. Most attributes are available for every census block group in the United States. 
-    
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
-
 ### Employment
 
 - [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/) -  The LEHD program combines these administrative data, additional administrative data and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information:[On The Map Download Page](https://onthemap.ces.census.gov/).
- 
-### Equity and Environmental Justice
-
-- [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results) - EJSCREEN uses maps and reports to present three kinds of information: Environmental indicators, demographic indicators and EJ Indexes. Additional Information:[Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
-   
-- [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html) - CDC Social Vulnerability Index (CDC SVI) uses 15 U.S. census variables to help local officials identify communities that may need support before, during, or after disasters based on their level of social vulnerability. Additional Information: [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
 
 ### Environment and Ecosystem Services
 
@@ -84,6 +83,12 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products) - The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
+
+### Equity and Environmental Justice
+
+- [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results) - EJSCREEN uses maps and reports to present three kinds of information: Environmental indicators, demographic indicators and EJ Indexes. Additional Information:[Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
+   
+- [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html) - CDC Social Vulnerability Index (CDC SVI) uses 15 U.S. census variables to help local officials identify communities that may need support before, during, or after disasters based on their level of social vulnerability. Additional Information: [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
 
 ### Health
 
@@ -128,14 +133,13 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 - [Esri Tapestry Segmentation](https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup) - Provides concise information on the demographic, economic, education and consumer characteristics of populations based on ZIP code.
 
+### Infrastructure
+
+- [Mapillary](https://www.mapillary.com/) - Access street-level imagery and AI-derived map data from all over the world. Fill in the gaps by requesting new coverage or capturing your own with an easy to use mobile app.
 
 ### Land Use
 
 - [CoreLogic](https://www.corelogic.com/) - Provides high quality parcel data, providing instant access to detailed property characteristics, sales records, valuation and digital copies of current county assessor documents.
-
-### Infrastructure
-
-- [Mapillary](https://www.mapillary.com/) - Access street-level imagery and AI-derived map data from all over the world. Fill in the gaps by requesting new coverage or capturing your own with an easy to use mobile app.
 
 ### Travel Behavior
 
@@ -149,6 +153,12 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 A collection of urban planning related data specifications and standards for use as part of programs & projects.
 
 ---
+
+### Built Environment
+
+- [DTDL](https://github.com/Azure/opendigitaltwins-building) - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies. 
+
+- [BLDs](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested partiesto create a shared data specification for building and construction permit data.
 
 ### Transportation
 
@@ -165,14 +175,6 @@ A collection of urban planning related data specifications and standards for use
 - [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
 
 - [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
-
-
-
-### Built Environment
-
-- [DTDL](https://github.com/Azure/opendigitaltwins-building) - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies. 
-
-- [BLDs](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested partiesto create a shared data specification for building and construction permit data.
 
 ## Planning Coding Resources
 This is a curated list of Python, R, or other open-source libraries or programming tools can be useful for urban planning applications. 
@@ -208,19 +210,23 @@ R Packages & Related Resources.
 
 - [tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) - Go-to library for text mining--often used in tandem with ggplot or other text mining libraries.
 
-### JS and Web
-Front-end web related packages and resources.
-
-- [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf).
-
-- [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
-
- 
-
 ### Other
 Other coding libraries & resources.
 
 - [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns) - Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
+
+### Web and JS
+Front-end web related packages and resources.
+
+- [Bootstrap](https://getbootstrap.com/) - Widely-used, well documented library for quick design and customization of websites. Additional Information: [Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
+
+- [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [Github](https://github.com/chartjs/Chart.js).
+
+- [Leaflet](https://leafletjs.com/) - Open-source JavaScript library for mobile-friendly interactive maps. Plugins available to extend functionality (e.g., storymaps, heatmaps, animation). Additional Information: [Quickstart Guide](https://leafletjs.com/examples/quick-start/).
+
+- [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf).
+
+- [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 
 ## Platforms and Software Resources
 Software and platforms for planners. 
@@ -273,12 +279,12 @@ These are other repositories that aggregate planning related tools, software, an
 
 ## Contributing
 
-### GitHub Contributions
-We are actively looking for contributions from those interested in urban planning and technology. To find out more, visit the [Contribution](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/CONTRIBUTING.md) page to see our recommended format. For large contributions, file an issue first. The advantage of contributing to the repo in this manner is that your addition to this shared resource will be recorded. 
-
 ### Form Based Contributions
 If you don't have a GitHub, but have a resources that falls into the categories below you would like to contribute try putting the information in this Google Sheet here. We will look at incorporating it into the repository pending review. 
 https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0zo0ONDdV4w/viewform?usp=sf_link
+
+### GitHub Contributions
+We are actively looking for contributions from those interested in urban planning and technology. To find out more, visit the [Contribution](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/CONTRIBUTING.md) page to see our recommended format. For large contributions, file an issue first. The advantage of contributing to the repo in this manner is that your addition to this shared resource will be recorded. 
 
 ## License and Citation
 Similar to other [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md), this repository is released into CC 1.0. We do not require citation, but in order to generate more contributions for and understanding of this resource we do appreciate sharing this repository or citing it where appropriate. 
