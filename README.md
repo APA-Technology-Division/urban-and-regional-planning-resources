@@ -248,9 +248,9 @@ A a high-level category to classify the resource into related groups. Census dat
 
 ### Urban Design Tools and Platforms
 
-- CityEngine(https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - CityEngine is advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that work with them.
+- [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - CityEngine is advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that work with them.
 
-- SketchUp(https://www.sketchup.com/) - Easy to use interactive 3D modeling software for planning and design applications. Supported by a rich asset library for creating neighborhood designs. 
+- [SketchUp](https://www.sketchup.com/) - Easy to use interactive 3D modeling software for planning and design applications. Supported by a rich asset library for creating neighborhood designs. 
 
 ### Urban Planning Tools and Platforms
 
