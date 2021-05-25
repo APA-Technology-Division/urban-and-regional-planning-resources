@@ -41,6 +41,7 @@ This repository contains curated list of different urban & regional planning dat
 - [Platforms and Software Resources](#platforms-and-software-resources)
 
   - [Geospatial Data and Visualization](#geospatial-data-and-visualization)
+  - [Urban Design Tools and Platforms](#urban-design-tools-and-platforms)
   - [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
 - [Other Resources](#other-resources)
 
@@ -244,12 +245,18 @@ A a high-level category to classify the resource into related groups. Census dat
 
 - [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
 
+
+### Urban Design Tools and Platforms
+
+- CityEngine(https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - CityEngine is advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that work with them.
+
+- SketchUp(https://www.sketchup.com/) - Easy to use interactive 3D modeling software for planning and design applications. Supported by a rich asset library for creating neighborhood designs. 
+
 ### Urban Planning Tools and Platforms
 
 - [UrbanFootPrint](https://urbanfootprint.com/) - Web-based planning tool serving curated urban, environmental, and economic data to urban practitioners and equipping them with the analytic capabilities to plan and improve communities faster, better, and at lower cost.
 
 - [Remix](https://www.remix.com/) - A platform to empower cities to plan the best possible transportation system — from public transit to safer streets to ever-increasing new modes of mobility. Remix provides tools to edit & test GTFS, generate multimodal streets, and explore relevant data. 
-    
     
 ## Other Resources
 Other types of planning data & technology resources. 
