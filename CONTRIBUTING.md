@@ -6,6 +6,9 @@ Please note that this project is released with a
 [Contributor Code of Conduct](code-of-conduct.md). By participating in this
 project you agree to abide by its terms.
 
+# Contribution Flowchart
+![Contribution Flowchart](/resources/apa_planning_tech_repoflow-02-01.png)
+
 # Contribution Format
 
 Below is the desired contribution format to APA's Technology Divisions technology & data resources repository. 
