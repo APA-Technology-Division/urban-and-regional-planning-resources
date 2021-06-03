@@ -181,6 +181,8 @@ A collection of urban planning related data specifications and standards for use
 
 - [GMNS](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
+- [Strava](https://developers.strava.com/) - API for a popular tracking app for runners and cyclists. Data can be used to understand active transportation usage and patterns.
+
 ## Planning Coding Resources
 This is a curated list of Python, R, or other open-source libraries or programming tools can be useful for urban planning applications. 
 
