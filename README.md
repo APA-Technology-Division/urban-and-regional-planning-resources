@@ -152,6 +152,8 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 - [StreetLight Data](https://www.streetlightdata.com/) - Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
 
+- [Strava](https://developers.strava.com/) - API for a popular tracking app for runners and cyclists. Data can be used to understand active transportation usage and patterns.
+
 ## Planning Data Specifications
 A collection of urban planning related data specifications and standards for use as part of programs & projects.
 
@@ -180,8 +182,6 @@ A collection of urban planning related data specifications and standards for use
 - [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
 
 - [GMNS](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
-
-- [Strava](https://developers.strava.com/) - API for a popular tracking app for runners and cyclists. Data can be used to understand active transportation usage and patterns.
 
 ## Planning Coding Resources
 This is a curated list of Python, R, or other open-source libraries or programming tools can be useful for urban planning applications. 
