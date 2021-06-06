@@ -14,6 +14,7 @@ This repository contains curated list of different urban & regional planning dat
 - [Public Data Resources](#public-data-resources)
 
   - [Built Environment](#built-environment)
+  - [Climate](#climate)
   - [Demographic](#demographic)
   - [Employment](#employment)
   - [Environment and Ecosystem Services](#environment-and-ecosystem-services)
@@ -43,6 +44,7 @@ This repository contains curated list of different urban & regional planning dat
   - [Geospatial Data and Visualization](#geospatial-data-and-visualization)
   - [Urban Design Tools and Platforms](#urban-design-tools-and-platforms)
   - [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
+  - [Environmental and Climate Planning Tools and Platforms](#environmental-and-climate-planning-tools-and-platforms)
 - [Other Resources](#other-resources)
 
   - [Other Technology Resource Aggregators](#other-technology-resource-aggregators)
@@ -65,6 +67,10 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD) -  The Smart Location Database is a nationwide geographic data resource for measuring location efficiency. It includes more than 90 attributes summarizing characteristics such as housing density, diversity of land use, neighborhood design, destination accessibility, transit service, employment, and demographics. Most attributes are available for every census block group in the United States. 
     
 - [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+
+### Climate
+
+- [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory) - The Severe Weather Data Inventory (SWDI) is an integrated database of severe weather records for the United States. The formats currently supported are Shapefile (for GIS), KMZ (for Google Earth), CSV (comma-separated), and XML.
 
 ### Demographic
 
@@ -269,6 +275,10 @@ A a high-level category to classify the resource into related groups. Census dat
 - [UrbanFootPrint](https://urbanfootprint.com/) - Web-based planning tool serving curated urban, environmental, and economic data to urban practitioners and equipping them with the analytic capabilities to plan and improve communities faster, better, and at lower cost.
 
 - [Remix](https://www.remix.com/) - A platform to empower cities to plan the best possible transportation system — from public transit to safer streets to ever-increasing new modes of mobility. Remix provides tools to edit & test GTFS, generate multimodal streets, and explore relevant data. 
+
+### Environmental Planning & Climate Tools and Platforms
+
+- [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
     
 ## Other Resources
 Other types of planning data & technology resources. 
