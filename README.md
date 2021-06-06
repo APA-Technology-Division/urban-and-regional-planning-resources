@@ -94,6 +94,8 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States. 
 
+- [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands. 
+
 ### Equity and Environmental Justice
 
 - [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results) - EJSCREEN uses maps and reports to present three kinds of information: Environmental indicators, demographic indicators and EJ Indexes. Additional Information:[Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
