@@ -283,7 +283,7 @@ A a high-level category to classify the resource into related groups. Census dat
 
 - [Remix](https://www.remix.com/) - A platform to empower cities to plan the best possible transportation system — from public transit to safer streets to ever-increasing new modes of mobility. Remix provides tools to edit & test GTFS, generate multimodal streets, and explore relevant data. 
 
-### Environmental Planning and Climate Tools and Platforms
+### Environmental and Climate Planning Tools and Platforms
 
 - [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
 
