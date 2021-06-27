@@ -288,11 +288,11 @@ A a high-level category to classify the resource into related groups. Census dat
 
 - [Rhino](https://www.rhino3d.com/) - This is a commercial 3D computer graphics and computer-aided design application software. Rhino has had multiple plug-ins built on top of it including Grasshopper and the Urban Network Analysis toolbox to enable complex modeling and analysis. 
 
-- [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) -  Adobe's collection of 20+ desktop and mobile apps and services for photography, design, video, web, UX, and more. Popular products include Photoshop, Adobe Illustrator, and others. 
+- [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - Adobe's collection of 20+ desktop and mobile apps and services for photography, design, video, web, UX, and more. Popular products include Photoshop, Adobe Illustrator, and others. 
 
 - [GIMP](https://www.gimp.org/) - GIMP is an open cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.
 
-- [Inkscape](https://inkscape.org/) -  Inkscape is vector-based, open graphic manipulation tool often used as a counterpart to GIMP.
+- [Inkscape](https://inkscape.org/) - Inkscape is vector-based, open graphic manipulation tool often used as a counterpart to GIMP.
 
 ### Urban Planning Tools and Platforms
 - [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban enables planners and design professionals to publish living plans and collaborate across teams with a web-based 3D application that supports scenario planning and impact assessment. 
