@@ -290,7 +290,7 @@ A a high-level category to classify the resource into related groups. Census dat
 
 - [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - Adobe's collection of 20+ desktop and mobile apps and services for photography, design, video, web, UX, and more. Popular products include Photoshop, Adobe Illustrator, and others. 
 
-- [GIMP](https://www.gimp.org/) - GIMP is an open cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.
+- [GIMP](https://www.gimp.org/) - GIMP is an open cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems.
 
 - [Inkscape](https://inkscape.org/) - Inkscape is vector-based, open graphic manipulation tool often used as a counterpart to GIMP.
 
