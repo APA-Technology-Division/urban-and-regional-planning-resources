@@ -65,7 +65,6 @@ Open Data Sites and national scale datasets should be near the top of each secti
 ### Built Environment
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD) -  The Smart Location Database is a nationwide geographic data resource for measuring location efficiency. It includes more than 90 attributes summarizing characteristics such as housing density, diversity of land use, neighborhood design, destination accessibility, transit service, employment, and demographics. Most attributes are available for every census block group in the United States. 
-    
 - [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ### Climate
@@ -75,7 +74,6 @@ Open Data Sites and national scale datasets should be near the top of each secti
 ### Demographic
 
 - [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs) - The American Community Survey (ACS) helps local officials, community leaders, and businesses understand the changes taking place in their communities. It is the premier source for detailed population and housing information for the United States. Additional Information: [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
-
 - [IPUMS National Historic GIS](https://www.nhgis.org/) - The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks.
    
 ### Employment
@@ -85,43 +83,30 @@ Open Data Sites and national scale datasets should be near the top of each secti
 ### Environment and Ecosystem Services
 
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas is a collection of interactive tools and resources that allows users to explore the many benefits people receive from nature, often referred to as ecosystem services within the United States.
-
 - [Park Score](https://www.tpl.org/parkscore) - The Trust for Public Land curates a comprehensive evaluation of park access and quality in the 100 largest U.S. cities.
-
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products) - The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
-
 - [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database) - The National Land Cover Database is generated in cooperation with the Multi-Resolution Land Characteristics Consortium (MRLC), a partnership of Federal agencies working together to produce current, nationally consistent, land cover products for all 50 US states and Puerto Rico. 
-
 - [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States. 
-
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands. 
 
 ### Equity and Environmental Justice
 
 - [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results) - EJSCREEN uses maps and reports to present three kinds of information: Environmental indicators, demographic indicators and EJ Indexes. Additional Information:[Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
-   
 - [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html) - CDC Social Vulnerability Index (CDC SVI) uses 15 U.S. census variables to help local officials identify communities that may need support before, during, or after disasters based on their level of social vulnerability. Additional Information: [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
-
 - [Location Affordability Index](https://www.hudexchange.info/programs/location-affordability-index/) - The Location Affordability Index (LAI) works to close this gap by providing estimates of household housing and transportation costs at the neighborhood level along with constituent data on the built environment and demographics. 
- 
 - [H+T Index](https://htaindex.cnt.org/) - The Housing and Transportation (H+T®) Affordability Index provides a comprehensive view of affordability that includes both the cost of housing and the cost of transportation at the neighborhood level. Provided by the Center for Neighborhood Technology. 
 
 ### Health
 
 - [HealthData.gov](https://healthdata.gov/) - This site is dedicated to making high value health data in the United States more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all.
-
 - [County Health Rankings](https://www.countyhealthrankings.org/) - The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play.  
 
 ### OpenStreetMap
 
 - [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map. This colloborative project is one of the largest databases of volunteered geographic information in the world. Its contents include points of interest, routable networks, and other geodata. 
-
 - [BBBike](https://download.bbbike.org/osm/bbbike/) - Provides shapefiles and raw OSM format for cities around the world, extracted weekly. This is useful if you are looking for data extracts for a single city.
-
 - [Geofabrik](http://download.geofabrik.de/) - OpenStreetMap extracts prepared in either PBF or shapefile format for download daily.  
-
 - [MetroExtracts](https://www.interline.io/osm/extracts/) - Each day, OSM Extracts by Interline mirrors the entire OpenStreetMap planet and creates city and region sized extracts ready for download into formats ready for GIS. 
-
 - [Overpass Turbo](https://overpass-turbo.eu/) -  Overpass Turbo is a web-based data mining tool for OpenStreetMap. It runs any kind of Overpass API query, shows the results on an interactive map, and allows users to export query data in the form of GeoJSON files (which may be converted to Shapefiles). It also provides helpful support for new users in the form of the "Wizard" tool. Using Overpass Turbo, you can query virtually any location globally using dedicated tags in Open Street Map. 
  
  
@@ -134,17 +119,11 @@ Open Data Sites and national scale datasets should be near the top of each secti
 ### Transportation
 
 - [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/) - On the BTS Open Data site, browse geospatial data that is part of the BTS National Transportation Atlas Database (NTAD) product. NTAD is a set of nationwide (United States) geographic databases of public spatial information for transportation facilities and networks; flows of people, goods, vehicles, and craft over the transportation networks; and social, economic, and environmental conditions that affect or are affected by the transportation networks.
-
 - [Transitland](https://transit.land) - Transitland is an open data platform that collects GTFS, GTFS Realtime, and other open data feeds from over 2,500 transit operators in over 55 countries. Additional Information: [Interline](https://www.interline.io/),[GitHub](https://github.com/transitland).
-
 - [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - Data within the National Transportation Noise Map represent potential noise levels across the nation for an average annual day for the specified year. 
-
 - [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - Repository of operations, financial, and asset data that US transit agencies are required to report to the Federal Transit Administration. 
-
 - [Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/) - Ready‐to‐use global street network models and calculated indicators in a GIS format. Additional Information:[Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
-
 - [Rapid Transit Database](https://www.itdp.org/rapid-transit-database/) - Collection of all rapid transit corridors worldwide, including bus rapid transit, light rail, and subway, published by the Institute for Transportation & Development Policy. 
-
 - [Transit Equity Dashboards](https://dashboard.transitcenter.org/) - Equity analysis of transit systems in seven (and counting) US cities, published by TransitCenter.
 
 ## Vendor Data Resources
@@ -155,13 +134,11 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 ### Demographic
 
 - [Esri Tapestry Segmentation](https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup) - Provides concise information on the demographic, economic, education and consumer characteristics of populations based on ZIP code.
-
 - [Data Axle](https://www.data-axle.com/) - Data Axle offers some of the most comprehensive and accurate business and consumer databases, boasting almost 400 distinct attributes across businesses and consumers in the United States and Canada.  
 
 ### Infrastructure
 
 - [Mapillary](https://www.mapillary.com/) - Access street-level imagery and AI-derived map data from all over the world. Fill in the gaps by requesting new coverage or capturing your own with an easy to use mobile app.
-
 - [Ecopia](https://www.ecopiatech.com/) - Ecopia AI leverages AI to convert high resolution images of the earth into HD Vector Maps and to digitize infrastructure assets in a geospatial format. 
 
 ### Land Use
@@ -171,11 +148,8 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 ### Travel Behavior
 
 - [Replica](https://replicahq.com/platform) -  Replica is a data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
-
 - [SafeGraph](https://www.safegraph.com/) -  Points of interest (POI) provider using mobile trace data to provide visitor insights data for commercial places in the United States.
-
 - [StreetLight Data](https://www.streetlightdata.com/) - Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
-
 - [Strava](https://developers.strava.com/) - API for a popular tracking app for runners and cyclists. Data can be used to understand active transportation usage and patterns.
 
 ## Planning Data Specifications
@@ -186,25 +160,17 @@ A collection of urban planning related data specifications and standards for use
 ### Built Environment
 
 - [DTDL](https://github.com/Azure/opendigitaltwins-building) - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies. 
-
 - [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested partiesto create a shared data specification for building and construction permit data.
 
 ### Transportation
 
 - [SharedStreets](https://www.sharedstreets.io) - SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by SharedStreets. Additional Information: [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
-
-- [CurbLR](https://www.curblr.org) -  An open data specification for curb regulations maintained by SharedStreets. Additional Information: [GitHub](https://www.github.com/sharedstreets/curblr), Demo: interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).
-    
+- [CurbLR](https://www.curblr.org) -  An open data specification for curb regulations maintained by SharedStreets. Additional Information: [GitHub](https://www.github.com/sharedstreets/curblr), Demo: interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).    
 - [GTFS](https://developers.google.com/transit/gtfs) - The General Transit Feed Specification is a popular standard for describing transit systems.
-
 - [shared-row](https://github.com/d-wasserman/shared-row) - A data specification for representing street right of ways. 
-    
 - [GBFS](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
-
 - [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
-
 - [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
-
 - [GMNS](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
 ## Planning Coding Resources
@@ -216,23 +182,14 @@ This is a curated list of Python, R, or other open-source libraries or programmi
 Python Libraries & Related Resources.
 
 - [Pandas](https://pandas.pydata.org/) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
-
 - [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy is a Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
-
 - [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/) - The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library to perform GIS visualization and analysis, spatial data management and GIS system administration tasks that can run both interactively, and using scripts. This library enables easy use of pandas within the ArcGIS platform. 
-
 - [Geopandas](https://geopandas.org/) - GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types.
-
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge is a Python 3.6+ library for working with GTFS feeds using pandas DataFrames.
-
 - [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
- 
 - [UrbanSim](https://github.com/udst/urbansim) - UrbanSim is a platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
- 
 - [Geosnap](https://github.com/spatialucr/geosnap) - Geospatial & temporal neighborhood analysis using US Census Data.
-
 - [OSMnx](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
-
 - [Pybikes](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
 
 
@@ -240,11 +197,8 @@ Python Libraries & Related Resources.
 R Packages & Related Resources.
 
 - [R Shiny](https://shiny.rstudio.com/) - Create dynamic, web-friendly visualizations of data using R. Additional Information: [Shiny Tutorial](https://shiny.rstudio.com/tutorial/).
-    
 - [simplefeatures(sf)](https://cran.r-project.org/web/packages/sf/index.html) - Support for simple features, a standardized way to encode spatial vector data in R. 
-
 - [ggplot2](https://ggplot2.tidyverse.org/) - Resource for plotting a wide range of data (useful for visualizing survey data). Additional Information: GNU GENERAL PUBLIC LICENSE.
-
 - [tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) - Go-to library for text mining--often used in tandem with ggplot or other text mining libraries.
 
 ### Other
@@ -256,13 +210,9 @@ Other coding libraries & resources.
 Front-end web related packages and resources.
 
 - [Bootstrap](https://getbootstrap.com/) - Widely-used, well documented library for quick design and customization of websites. Additional Information: [Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
-
 - [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [GitHub](https://github.com/chartjs/Chart.js).
-
 - [Leaflet](https://leafletjs.com/) - Open-source JavaScript library for mobile-friendly interactive maps. Plugins available to extend functionality (e.g., storymaps, heatmaps, animation). Additional Information: [Quickstart Guide](https://leafletjs.com/examples/quick-start/).
-
 - [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf).
-
 - [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 
 ## Platforms and Software Resources
@@ -272,41 +222,28 @@ Software and platforms for planners.
 A a high-level category to classify the resource into related groups. Census data could be considered "Demographic" for example. 
 
 - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - This platform is a geographic information system (GIS) for working with maps and geographic information maintained by the Environmental Systems Research Institute (Esri).
-
 - [QGIS](https://qgis.org/en/site/) - This open source GIS suite allows users to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD and mobile devices.
-
 - [CARTO](https://carto.com/) - CARTO is a world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
-    
 - [kepler.gl](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
-
 - [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
-
 
 ### Urban Design Tools and Platforms
 
 - [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - CityEngine is advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that work with them.
-
 - [SketchUp](https://www.sketchup.com/) - Easy to use interactive 3D modeling software for planning and design applications. Supported by a rich asset library for creating neighborhood designs. 
-
 - [Rhino](https://www.rhino3d.com/) - This is a commercial 3D computer graphics and computer-aided design application software. Rhino has had multiple plug-ins built on top of it including Grasshopper and the Urban Network Analysis toolbox to enable complex modeling and analysis. 
-
 - [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - Adobe's collection of 20+ desktop and mobile apps and services for photography, design, video, web, UX, and more. Popular products include Photoshop, Adobe Illustrator, and others. 
-
 - [GIMP](https://www.gimp.org/) - GIMP is an open cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems.
-
 - [Inkscape](https://inkscape.org/) - Inkscape is vector-based, open graphic manipulation tool often used as a counterpart to GIMP.
 
 ### Urban Planning Tools and Platforms
 - [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban enables planners and design professionals to publish living plans and collaborate across teams with a web-based 3D application that supports scenario planning and impact assessment. 
-
 - [UrbanFootPrint](https://urbanfootprint.com/) - Web-based planning tool serving curated urban, environmental, and economic data to urban practitioners and equipping them with the analytic capabilities to plan and improve communities faster, better, and at lower cost.
-
 - [Remix](https://www.remix.com/) - A platform to empower cities to plan the best possible transportation system — from public transit to safer streets to ever-increasing new modes of mobility. Remix provides tools to edit & test GTFS, generate multimodal streets, and explore relevant data. 
 
 ### Environmental and Climate Planning Tools and Platforms
 
 - [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
-
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus) - FEMA's Hazus Program provides standardized tools and data for estimating risk from earthquakes, floods, tsunamis, and hurricanes. Risk assessment resources and tools from the Hazus program are always freely available and transparently developed. 
     
 ## Other Resources
@@ -319,19 +256,12 @@ Other types of planning data & technology resources.
 These are other repositories that aggregate planning related tools, software, and related resources. They are a good source of inspiration to contribute to this repo for example, but we don't need to duplicate efforts. 
 
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
-  
 - [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) - A collection of micromobility tools and data resources.
-
 - [awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
-
 - [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
-
 - [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
-
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
-
 - [Urban Computing Foundation](https://github.com/ucfoundation) - Accelerating open source and community development that improves mobility, safety, infrastructure, traffic, and energy consumption in connected cities. Additional Information: [Landscape](https://landscape.uc.foundation/). 
-
 
 ---
 
