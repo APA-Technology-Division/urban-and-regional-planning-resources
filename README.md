@@ -253,7 +253,7 @@ Other types of planning data & technology resources.
 
 ### Other Technology Resource Aggregators
 
-These are other repositories that aggregate planning related tools, software, and related resources. They are a good source of inspiration to contribute to this repo for example, but we don't need to duplicate efforts. 
+These are other aggregators that bring together different planning related tools, software, data, and related resources. They are a good source of inspiration to contribute to this repo for example, but we don't need to duplicate efforts. 
 
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
 - [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) - A collection of micromobility tools and data resources.
@@ -262,6 +262,7 @@ These are other repositories that aggregate planning related tools, software, an
 - [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [Urban Computing Foundation](https://github.com/ucfoundation) - Accelerating open source and community development that improves mobility, safety, infrastructure, traffic, and energy consumption in connected cities. Additional Information: [Landscape](https://landscape.uc.foundation/). 
+- [Data.Gov](https://www.data.gov/) - United States federal repository of data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
 
 ---
 
