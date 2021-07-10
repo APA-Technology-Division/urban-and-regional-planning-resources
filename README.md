@@ -233,6 +233,7 @@ A a high-level category to classify the resource into related groups. Census dat
 - [CARTO](https://carto.com/) - CARTO is a world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
 - [kepler.gl](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
 - [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
+- [ScapeToad](http://scapetoad.choros.place/index.php) - ScapeToad is a cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data. 
 
 ### Urban Design Tools and Platforms
 
