@@ -152,6 +152,8 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 ### Resilience and Natural Hazards
 
+- [FloodFactor](https://firststreet.org/flood-factor/) - Provided by the First Street Foundation, this tool makes it easy to determine if a property has flooded from major events in the past, is currently at risk, and how that risk changes over time. It can also help estimate damage costs associated with flooding.
+
 ### Travel Behavior
 
 - [Replica](https://replicahq.com/platform) -  Replica is a data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
