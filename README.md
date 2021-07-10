@@ -28,6 +28,7 @@ This repository contains curated list of different urban & regional planning dat
   - [Demographic](#demographic-1)
   - [Infrastructure](#infrastructure)
   - [Land Use](#land-use)
+  - [Resilience and Natural Hazards](#resilience-and-natural-hazards-1)
   - [Travel Behavior](#travel-behavior)
 - [Planning Data Specifications](#planning-data-specifications)
 
@@ -66,7 +67,6 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD) -  The Smart Location Database is a nationwide geographic data resource for measuring location efficiency. It includes more than 90 attributes summarizing characteristics such as housing density, diversity of land use, neighborhood design, destination accessibility, transit service, employment, and demographics. Most attributes are available for every census block group in the United States. 
 - [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
-- [CoStar](https://www.costar.com/) - A commercial real estate information and analytics provider serving the UK, US, and Canada. 
 
 ### Climate
 
@@ -148,6 +148,9 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 ### Land Use
 
 - [CoreLogic](https://www.corelogic.com/) - Provides high quality parcel data, providing instant access to detailed property characteristics, sales records, valuation and digital copies of current county assessor documents.
+- [CoStar](https://www.costar.com/) - A commercial real estate information and analytics provider serving the UK, US, and Canada. 
+
+### Resilience and Natural Hazards
 
 ### Travel Behavior
 
