@@ -269,7 +269,7 @@ Collections of planning related literature, information aggregators, or similar 
 ---
 
 ### AICP Resources
-Resources pertaining to AICP certification test preparation and registration
+Resources pertaining to AICP certification test preparation, continuing education, and other resources.
 
 - [AICP Get Certified! Webpage](https://www.planning.org/certification/) - The American Institute of Certified Planners's (AICP) offical resource repository that provides details on eligibility, registration, and preparation. Important dates for upcoming AICP "Certification Cycles" are also listed.
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - Details the AICP's "Five-Step Approach" for exam preparation and lists resources/materials to help you succeed on the AICP exam.
