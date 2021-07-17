@@ -229,7 +229,9 @@ Front-end web related packages and resources.
 - [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 
 ## Platforms and Software Resources
-Software and platforms for planners. 
+Software and platforms for planners.
+
+---
 
 ### Geospatial Data and Visualization
 A a high-level category to classify the resource into related groups. Census data could be considered "Demographic" for example. 
@@ -272,7 +274,6 @@ Resources pertaining to AICP certification test preparation and registration
 - [AICP Get Certified! Webpage](https://www.planning.org/certification/) - The American Institute of Certified Planners's (AICP) offical resource repository that provides details on eligibility, registration, and preparation. Important dates for upcoming AICP "Certification Cycles" are also listed.
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - Details the AICP's "Five-Step Approach" for exam preparation and lists resources/materials to help you succeed on the AICP exam.
 - [PlanningPrep](https://www.planningprep.com/) - A free web-based study resource to help planners prepare for the American Institute of Certified Planners’ certification exam. As of summer 2021, the site contains 1668 practice questions and 12 practice exams.
-
 
 ## Other Resources
 Other types of planning data & technology resources. 
