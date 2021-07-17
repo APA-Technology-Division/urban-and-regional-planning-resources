@@ -28,6 +28,7 @@ This repository contains curated list of different urban & regional planning dat
   - [Demographic](#demographic-1)
   - [Infrastructure](#infrastructure)
   - [Land Use](#land-use)
+  - [Resilience and Natural Hazards](#resilience-and-natural-hazards-1)
   - [Travel Behavior](#travel-behavior)
 - [Planning Data Specifications](#planning-data-specifications)
 
@@ -150,11 +151,17 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 ### Land Use
 
 - [CoreLogic](https://www.corelogic.com/) - Provides high quality parcel data, providing instant access to detailed property characteristics, sales records, valuation and digital copies of current county assessor documents.
+- [CoStar](https://www.costar.com/) - A commercial real estate information and analytics provider serving the UK, US, and Canada. 
+
+### Resilience and Natural Hazards
+
+- [FloodFactor](https://firststreet.org/flood-factor/) - Provided by the First Street Foundation, this tool makes it easy to determine if a property has flooded from major events in the past, is currently at risk, and how that risk changes over time. It can also help estimate damage costs associated with flooding.
 
 ### Travel Behavior
 
 - [Replica](https://replicahq.com/platform) -  Replica is a data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
 - [SafeGraph](https://www.safegraph.com/) -  Points of interest (POI) provider using mobile trace data to provide visitor insights data for commercial places in the United States.
+- [WeJo](https://www.wejo.com/) - Wejo has made it simple and secure to share and access connected car data, on a global scale. This data can be used for everything from origin-destination analysis, safety & speed studies, and more. 
 - [StreetLight Data](https://www.streetlightdata.com/) - Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
 - [Strava](https://developers.strava.com/) - API for a popular tracking app for runners and cyclists. Data can be used to understand active transportation usage and patterns.
 
@@ -232,6 +239,7 @@ A a high-level category to classify the resource into related groups. Census dat
 - [CARTO](https://carto.com/) - CARTO is a world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
 - [kepler.gl](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
 - [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
+- [ScapeToad](http://scapetoad.choros.place/index.php) - ScapeToad is a cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data. 
 
 ### Urban Design Tools and Platforms
 
