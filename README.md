@@ -46,7 +46,7 @@ This repository contains curated list of different urban & regional planning dat
   - [Urban Design Tools and Platforms](#urban-design-tools-and-platforms)
   - [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
   - [Environmental and Climate Planning Tools and Platforms](#environmental-and-climate-planning-tools-and-platforms)
-- [Educational & Informational Resources](#educational-&-informational-resources)
+- [Educational and Informational Resources](#educational-and-informational-resources)
 
   - [AICP Resources](#aicp-resources)
 - [Other Resources](#other-resources)
@@ -264,10 +264,15 @@ A a high-level category to classify the resource into related groups. Census dat
 - [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus) - FEMA's Hazus Program provides standardized tools and data for estimating risk from earthquakes, floods, tsunamis, and hurricanes. Risk assessment resources and tools from the Hazus program are always freely available and transparently developed. 
 
-## Educational & Informational Resources
+## Educational and Informational Resources
 Collections of planning related literature, information aggregators, or similar resources.
 
 ---
+
+### Literature Resources
+Resources linking to peer-reviewed journals or federal research aggregators of interest. These are not specific papers, but their curators. 
+
+- [TCRP](http://www.trb.org/TCRP/TCRP.aspx) - Sponsored by the Federal Transit Administration, the Transit Cooperative Research Program (TCRP) serves as one of the principal means by which the public transportation industry can develop innovative near-term solutions to meet demands placed on it. The TCRP has an established reputation for providing useful reports and other tools to help public transportation practitioners solve problems and inform decision makers.
 
 ### AICP Resources
 Resources pertaining to AICP certification test preparation, continuing education, and other resources.
