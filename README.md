@@ -29,6 +29,7 @@ This repository contains curated list of different urban & regional planning dat
   - [Infrastructure](#infrastructure)
   - [Land Use](#land-use)
   - [Resilience and Natural Hazards](#resilience-and-natural-hazards-1)
+  - [Urban Observation](#urban-observation)
   - [Travel Behavior](#travel-behavior)
 - [Planning Data Specifications](#planning-data-specifications)
 
@@ -158,6 +159,12 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 ### Resilience and Natural Hazards
 
 - [FloodFactor](https://firststreet.org/flood-factor/) - Provided by the First Street Foundation, this tool makes it easy to determine if a property has flooded from major events in the past, is currently at risk, and how that risk changes over time. It can also help estimate damage costs associated with flooding.
+
+### Urban Observation
+
+- [Numina](https://numina.co/) - Utilizes edge computing devices that measures all kinds of curb-level activity. Anonymously and in aggregate, Numina delivers the volume counts, paths, and traffic behaviors of travelers and objects in streets.
+- [Transoft](https://safety.transoftsolutions.com/) - Transfoft ITS Safety solutions utilize computer vision to identify 'near-miss' behavior on streets. This technology was featured Planning Magazine in the [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
+- [Automotus](https://www.automotus.co/) - Computer vision based platform that helps cities, airports, fleets, and businesses monitor the curb in real time. Enables curbside management policies that increase revenue while making streets less congested, more sustainable, and more equitable. 
 
 ### Travel Behavior
 
