@@ -307,6 +307,7 @@ These are other aggregators that bring together different planning related tools
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [Urban Computing Foundation](https://github.com/ucfoundation) - Accelerating open source and community development that improves mobility, safety, infrastructure, traffic, and energy consumption in connected cities. Additional Information: [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - United States federal repository of data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
+- [Harvard Dataverse](https://dataverse.harvard.edu/) - Harvard Dataverse is a repository for research data. It contains a wide variety of datasets spanning the sciences, many with public domain dedications. 
 
 ---
 
