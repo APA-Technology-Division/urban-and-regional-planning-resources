@@ -291,6 +291,7 @@ Resources pertaining to AICP certification test preparation, continuing educatio
 Resources linking to peer-reviewed journals or federal research aggregators of interest. These are not specific papers, but their curators. 
 
 - [TCRP](http://www.trb.org/TCRP/TCRP.aspx) - Sponsored by the Federal Transit Administration, the Transit Cooperative Research Program (TCRP) serves as one of the principal means by which the public transportation industry can develop innovative near-term solutions to meet demands placed on it. The TCRP has an established reputation for providing useful reports and other tools to help public transportation practitioners solve problems and inform decision makers.
+- [Planning Advisory Service (PAS)](https://www.planning.org/pas/reports/) - The Planning Advisory Service (PAS) is the American Planning Association's (APA) flagship research brand which is responsible for the following publications: [PAS Reports](https://www.planning.org/pas/reports) (quarterly), [*PAS Memo*](https://www.planning.org/pas/memo) (bimonthly), and [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes) (bimonthly). Current publications and archives of previous issues are available for free download for APA members.
 
 ## Other Resources
 Other types of planning data & technology resources. 
