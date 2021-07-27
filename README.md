@@ -16,6 +16,7 @@ This repository contains curated list of different urban & regional planning dat
   - [Built Environment](#built-environment)
   - [Climate](#climate)
   - [Demographic](#demographic)
+  - [Education](#education)
   - [Employment](#employment)
   - [Environment and Ecosystem Services](#environment-and-ecosystem-services)
   - [Equity and Environmental Justice](#equity-and-environmental-justice)
@@ -85,6 +86,10 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs) - The American Community Survey (ACS) helps local officials, community leaders, and businesses understand the changes taking place in their communities. It is the premier source for detailed population and housing information for the United States. Additional Information: [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
 - [Census Reporter](https://censusreporter.org/) - Census Reporter is an open-source website that makes it easy to explore and report census data. Census Reporter automatically provides descriptive statistics, downloadable tabular data, and interactive visualizations of American Community Survey (ACS) data for the United States. Visualizations can be [embedded as HTML](https://censusreporter.org/examples/embed-charts/) iframes. Additional Information:License: MIT License Geographic Coverage: Contains geographies matching the coverage and scale of the [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) Provider: [About Page.](https://censusreporter.org/about/) Additional Links: [GitHub Repository.](https://github.com/censusreporter/censusreporter)
 - [IPUMS National Historic GIS](https://www.nhgis.org/) - The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks.
+
+### Education 
+
+- [National Center for Educational Statistics](https://nces.ed.gov/datalab/index.aspx) - The National Center for Education Statistics (NCES) is the primary federal entity for collecting and analyzing data related to education. Their data lab provides access to other 30+ education datasets and provides quick reporting and charting functionality for users. 
    
 ### Employment
 
