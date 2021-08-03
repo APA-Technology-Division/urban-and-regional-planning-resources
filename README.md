@@ -293,6 +293,7 @@ Resources pertaining to AICP certification test preparation, continuing educatio
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - Details the AICP's "Five-Step Approach" for exam preparation and lists resources/materials to help you succeed on the AICP exam.
 - [APA Knowledge Base](https://www.planning.org/knowledgebase/) - APA's Research KnowledgeBase connects APA members to curated collections of topically related resources — including plans, regulations, model codes, guides, articles, reports, and multimedia files. Each collection provides commentary and thematic groupings of resource records with bibliographic information, short descriptions, and links to the resources themselves. 
 - [PlanningPrep](https://www.planningprep.com/) - A free web-based study resource to help planners prepare for the American Institute of Certified Planners' certification exam. As of summer 2021, the site contains 1668 practice questions and 12 practice exams.
+- 
 
 
 ### Literature Resources
@@ -300,6 +301,7 @@ Resources linking to peer-reviewed journals or federal research aggregators of i
 - [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx) - The National Cooperative Highway Research Program is developed on the basis of research needs identified by chief administrators and other staff of the highway and transportation departments, by committees of AASHTO, and by FHWA. Topics of the highest merit are selected by the AASHTO Special Committee on Research and Innovation (R&I), and each year R&I's recommendations are proposed to the AASHTO Board of Directors, the National Academies, and FHWA.
 - [TCRP](http://www.trb.org/TCRP/TCRP.aspx) - Sponsored by the Federal Transit Administration, the Transit Cooperative Research Program (TCRP) serves as one of the principal means by which the public transportation industry can develop innovative near-term solutions to meet demands placed on it. The TCRP has an established reputation for providing useful reports and other tools to help public transportation practitioners solve problems and inform decision makers.
 - [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - The Planning Advisory Service (PAS) is the American Planning Association's (APA) flagship research brand which is responsible for the following publications: [PAS Reports](https://www.planning.org/pas/reports) (quarterly), [*PAS Memo*](https://www.planning.org/pas/memo) (bimonthly), and [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes) (bimonthly). Current publications and archives of previous issues are available for free download for APA members.
+- [Policy Guides](https://www.planning.org/policy/guides/) - Policy Guides represent APA's official position on critical planning issues and arm planners with the tools to advocate for policies that create great communities for all.
 
 ## Other Resources
 Other types of planning data & technology resources. 
