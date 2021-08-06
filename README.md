@@ -308,7 +308,7 @@ Resources linking to peer-reviewed journals or federal research aggregators of i
 
 ### General Planning Information and News
 
-- [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator (Planetizen)[https://www.planetizen.com/] this mini-planning encyclopedia explores various urban planning concepts and terms.
+- [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) this mini-planning encyclopedia explores various urban planning concepts and terms.
 - [ULI](https://uli.org/) - ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world.
 
 ## Other Resources
@@ -329,7 +329,6 @@ These are other aggregators that bring together different planning related tools
 - [Urban Computing Foundation](https://github.com/ucfoundation) - Accelerating open source and community development that improves mobility, safety, infrastructure, traffic, and energy consumption in connected cities. Additional Information: [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - United States federal repository of data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
 - [Harvard Dataverse](https://dataverse.harvard.edu/) - Harvard Dataverse is a repository for research data. It contains a wide variety of datasets spanning the sciences, many with public domain dedications. 
-- 
 
 ---
 
