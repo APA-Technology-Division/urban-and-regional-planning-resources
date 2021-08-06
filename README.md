@@ -52,7 +52,7 @@ This repository contains curated list of different urban & regional planning dat
 
   - [AICP Resources](#aicp-resources)
   - [Literature Resources](#literature-resources)
-  - [General Planning Information and News](#genera-planning-information-and-news)
+  - [General Planning Information and News](#general-planning-information-and-news)
 - [Other Resources](#other-resources)
 
   - [Other Technology Resource Aggregators](#other-technology-resource-aggregators)
