@@ -21,6 +21,7 @@ This repository contains curated list of different urban & regional planning dat
   - [Environment and Ecosystem Services](#environment-and-ecosystem-services)
   - [Equity and Environmental Justice](#equity-and-environmental-justice)
   - [Health](#health)
+  - [Historic Preservation](#historic-preservation)
   - [OpenStreetMap](#openstreetmap)
   - [Resilience and Natural Hazards](#resilience-and-natural-hazards)
   - [Transportation](#transportation)
@@ -117,6 +118,11 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [County Health Rankings](https://www.countyhealthrankings.org/) - The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play.
 - [HealthData.gov](https://healthdata.gov/) - This site is dedicated to making high value health data in the United States more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all.  
+
+### Historic Preservation
+
+- [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - The National Register of Historic Places is the official list of the Nation's historic places worthy of preservation.
+- [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - A World Heritage Site is a site on a list of properties maintained by the World Heritage Committee of UNESCO and called the World Heritage List "forming part of the cultural heritage and natural heritage...which it considers as having outstanding universal value in terms of such criteria as it shall have established".
 
 ### OpenStreetMap
 
