@@ -246,6 +246,7 @@ R Packages & Related Resources.
 - [simplefeatures(sf)](https://cran.r-project.org/web/packages/sf/index.html) - Support for simple features, a standardized way to encode spatial vector data in R. 
 - [ggplot2](https://ggplot2.tidyverse.org/) - Resource for plotting a wide range of data (useful for visualizing survey data). Additional Information: GNU GENERAL PUBLIC LICENSE.
 - [tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) - Go-to library for text mining--often used in tandem with ggplot or other text mining libraries.
+- [leafgl](https://github.com/r-spatial/leafgl) - R package for fast web-gl rendering for leaflet maps.
 
 ### Other
 Other coding libraries & resources.
