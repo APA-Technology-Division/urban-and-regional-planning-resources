@@ -248,6 +248,7 @@ R Packages & Related Resources.
 - [tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) - Go-to library for text mining--often used in tandem with ggplot or other text mining libraries.
 - [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - Tools for transportation planning and modeling with an emphasis on spatial data and non-motorized modes.
 - [tidyverse](https://www.tidyverse.org/) - A powerful collection of packages that share a common design structure for data science.
+- [r5r](https://github.com/ipeaGIT/r5r) - For rapid realistic routing on multimodal transport networks.
 
 
 ### Other
