@@ -123,6 +123,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [County Health Rankings](https://www.countyhealthrankings.org/) - The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play.
 - [HealthData.gov](https://healthdata.gov/) - This site is dedicated to making high value health data in the United States more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all.  
+- [CDC Places](https://www.cdc.gov/places/index.html) - A CDC colloboration that allows local health departments and jurisdictions regardless of population size and urban-rural status to better understand the burden and geographic distribution of health-related outcomes in their areas and assist them in planning public health interventions.
 
 ### Historic Preservation
 
@@ -197,6 +198,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 - [WeJo](https://www.wejo.com/) - Wejo has made it simple and secure to share and access connected car data, on a global scale. This data can be used for everything from origin-destination analysis, safety & speed studies, and more.
 - [StreetLight Data](https://www.streetlightdata.com/) - Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
 - [Strava](https://developers.strava.com/) - API for a popular tracking app for runners and cyclists. Data can be used to understand active transportation usage and patterns.
+- [Teralytics](https://www.teralytics.net/) - Provides data and insights on mobility patterns based on cellular trace data using a global network of telecom providers. 
 
 ## Planning Data Specifications
 A collection of urban planning related data specifications and standards for use as part of programs & projects.
@@ -246,10 +248,10 @@ R Packages & Related Resources.
 - [simplefeatures(sf)](https://cran.r-project.org/web/packages/sf/index.html) - Support for simple features, a standardized way to encode spatial vector data in R.
 - [ggplot2](https://ggplot2.tidyverse.org/) - Resource for plotting a wide range of data (useful for visualizing survey data). Additional Information: GNU GENERAL PUBLIC LICENSE.
 - [tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) - Go-to library for text mining--often used in tandem with ggplot or other text mining libraries.
+- [leafgl](https://github.com/r-spatial/leafgl) - R package for fast web-gl rendering for leaflet maps.
 - [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - Tools for transportation planning and modeling with an emphasis on spatial data and non-motorized modes.
 - [tidyverse](https://www.tidyverse.org/) - A powerful collection of packages that share a common design structure for data science.
 - [r5r](https://github.com/ipeaGIT/r5r) - For rapid realistic routing on multimodal transport networks.
-
 
 ### Other
 Other coding libraries & resources.
@@ -278,7 +280,8 @@ A a high-level category to classify the resource into related groups. Census dat
 - [CARTO](https://carto.com/) - CARTO is a world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
 - [kepler.gl](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
 - [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
-- [ScapeToad](http://scapetoad.choros.place/index.php) - ScapeToad is a cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data.
+- [ScapeToad](http://scapetoad.choros.place/index.php) - ScapeToad is a cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data. 
+- [Omnisci](https://www.omnisci.com/) - Geotemporal enabled high performance database capable of doing GPU accelerated queries. 
 
 ### Urban Design Tools and Platforms
 
@@ -369,4 +372,4 @@ Similar to other [resources aggregators](https://github.com/NABSA/micromobility-
 
 If you do cite this repository you can as:
 
-planning-technology-resources. (2020) APA Technology Division. Taken from: from https://github.com/APA-Technology-Division
+urban-and-regional-planning-resources. (2020) APA Technology Division. Taken from: from https://github.com/APA-Technology-Division
