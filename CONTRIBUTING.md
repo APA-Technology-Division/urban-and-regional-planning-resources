@@ -1,6 +1,6 @@
 # Contributors
 
-This page is intended to provide guidance on how to format a contribution to the repository. If there is a collection of resources you wish to commit, please file an issue before submitting a commit. 
+This page is intended to provide guidance on how to format a contribution to the repository. If this is your first time contributing to the repo, we would prefer single contributions per pull request. If there is a collection of resources you wish to contribute, please file an issue before submitting a pull request. 
 
 Please note that this project is released with a
 [Contributor Code of Conduct](code-of-conduct.md). By participating in this
