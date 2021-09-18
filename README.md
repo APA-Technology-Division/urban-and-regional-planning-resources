@@ -265,6 +265,10 @@ Front-end web related packages and resources.
 - [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf).
 - [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 
+### Learning to Code
+Resources for planners learning coding and urban informatics
+- [Coding for Planners: Up and Running with Python](https://courses.planetizen.com/course/coding-for-planners-python) - Planetizen course teaching basics of Python with planning applications through 10 video lessons. Monthly subscription required. 
+
 ## Platforms and Software Resources
 Software and platforms for planners.
 
