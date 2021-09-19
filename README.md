@@ -43,7 +43,7 @@ This repository contains curated list of different urban & regional planning dat
   - [R](#r)
   - [Other](#other)
   - [Web and JS](#web-and-js)
-  - [Learning to Code](#learning)
+  - [Learning to Code](#learning-to-code)
 - [Platforms and Software Resources](#platforms-and-software-resources)
 
   - [Geospatial Data and Visualization](#geospatial-data-and-visualization)
@@ -267,7 +267,7 @@ Front-end web related packages and resources.
 - [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 
 ### Learning to Code
-Resources for planners learning coding and urban informatics
+Resources for planners learning coding and urban informatics.
 - [Coding for Planners: Up and Running with Python](https://courses.planetizen.com/course/coding-for-planners-python) - Planetizen course teaching basics of Python with planning applications through 10 video lessons. Monthly subscription required. 
 
 ## Platforms and Software Resources
