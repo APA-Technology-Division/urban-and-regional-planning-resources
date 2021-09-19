@@ -43,6 +43,7 @@ This repository contains curated list of different urban & regional planning dat
   - [R](#r)
   - [Other](#other)
   - [Web and JS](#web-and-js)
+  - [Learning to Code](#learning)
 - [Platforms and Software Resources](#platforms-and-software-resources)
 
   - [Geospatial Data and Visualization](#geospatial-data-and-visualization)
