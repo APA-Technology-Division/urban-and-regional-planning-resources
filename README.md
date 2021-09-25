@@ -268,6 +268,7 @@ Front-end web related packages and resources.
 
 ### Learning to Code
 Resources for planners learning coding and urban informatics.
+- [Urban Informatics & Visualization-Berkeley](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Noteboom examples. Provides various resources to applied Python in planning contexts.  
 - [Coding for Planners: Up and Running with Python](https://courses.planetizen.com/course/coding-for-planners-python) - Planetizen course teaching basics of Python with planning applications through 10 video lessons. Monthly subscription required. 
 
 ## Platforms and Software Resources
