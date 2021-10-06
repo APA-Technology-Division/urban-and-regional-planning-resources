@@ -241,6 +241,7 @@ Python Libraries & Related Resources.
 - [Geosnap](https://github.com/spatialucr/geosnap) - Geospatial & temporal neighborhood analysis using US Census Data.
 - [OSMnx](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [Pybikes](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
+- [Leafmap](https://github.com/giswqs/leafmap) - Leafmap is a free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment, such as Google Colab, Jupyter Notebook, and JupyterLab. Leafmap's interactive GUI allows users to load vector and raster data onto the map without coding. In addition, Leafmap sports a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)) which performs geospatial analysis directly within the leafmap user interface without writing a single line of code. Additional Information: License: MIT License Provider: [Dr. Qiusheng Wu](https://github.com/giswqs) Additional Links: [leafmap.org](https://leafmap.org/), [Journal of Open Source Software (JOSS) Article](https://joss.theoj.org/papers/10.21105/joss.03414)
 
 
 ### R
