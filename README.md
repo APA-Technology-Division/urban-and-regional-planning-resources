@@ -139,7 +139,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Geofabrik](http://download.geofabrik.de/) - OpenStreetMap extracts prepared in either PBF or shapefile format for download daily.  
 - [MetroExtracts](https://www.interline.io/osm/extracts/) - Each day, OSM Extracts by Interline mirrors the entire OpenStreetMap planet and creates city and region sized extracts ready for download into formats ready for GIS. 
 - [Overpass Turbo](https://overpass-turbo.eu/) -  Overpass Turbo is a web-based data mining tool for OpenStreetMap. It runs any kind of Overpass API query, shows the results on an interactive map, and allows users to export query data in the form of GeoJSON files (which may be converted to Shapefiles). It also provides helpful support for new users in the form of the "Wizard" tool. Using Overpass Turbo, you can query virtually any location globally using dedicated tags in Open Street Map. 
-- [Humanitarian OpenStreetMap Tools & Data](https://www.hotosm.org/tools-and-data) - HOT provides a rich set of tools for the OSM community. An especially helpful tool is the [Export Tool](https://export.hotosm.org/en/v3/)
+- [Humanitarian OpenStreetMap Tools & Data](https://www.hotosm.org/tools-and-data) - HOT provides a rich set of tools for the OSM community. An especially helpful tool is the [Export Tool](https://export.hotosm.org/en/v3/).
  
 ### Resilience and Natural Hazards
 
