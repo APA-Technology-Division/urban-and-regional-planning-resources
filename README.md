@@ -86,6 +86,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - Census Tract level temperature data derived from a [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) use remotely sensed land surface temperature measurements to explore the distribution of the United States urban heating burden by demographic group.
 - [MACA](https://climate.northwestknowledge.net/MACA/) - The MACA method is a statistical downscaling method for removing biases from global climate model outputs. 
 - [IPCC Atlas](https://interactive-atlas.ipcc.ch/) - A novel tools & data for flexible spatial and temporal analyses of much of the observed and projected climate change information underpinning the Working Group I contribution to the Sixth Assessment Report, including regional synthesis for Climatic Impact-Drivers (CIDs).
+- [WUDAPT](https://www.wudapt.org/) - This database intends to make accessible coherent and consistent descriptions and information on form and function of urban morphology relevant to climate & environment studies on a worldwide basis.
 
 ### Demographic
 
