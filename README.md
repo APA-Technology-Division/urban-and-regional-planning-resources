@@ -290,7 +290,7 @@ Software and platforms for planners.
 - [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
 - [ScapeToad](http://scapetoad.choros.place/index.php) - ScapeToad is a cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data. 
 - [Omnisci](https://www.omnisci.com/) - Geotemporal enabled high performance database capable of doing GPU accelerated queries.
-- [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS is a free and open source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI. Accessable datasets include Google Maps, Google Satalite, NASA SRTM Elevation Data, and OpenStreetMap Building Data. Additional Information: License: GPL-3.0, [YouTube Tutorial](https://youtu.be/Mj7Z1P2hUWk). 
+- [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS is a free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
 
 ### Urban Design Tools and Platforms
 
