@@ -331,6 +331,7 @@ Resources pertaining to AICP certification test preparation, continuing educatio
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - Details the AICP's "Five-Step Approach" for exam preparation and lists resources/materials to help you succeed on the AICP exam.
 - [APA Knowledge Base](https://www.planning.org/knowledgebase/) - APA's Research KnowledgeBase connects APA members to curated collections of topically related resources — including plans, regulations, model codes, guides, articles, reports, and multimedia files. Each collection provides commentary and thematic groupings of resource records with bibliographic information, short descriptions, and links to the resources themselves. 
 - [PlanningPrep](https://www.planningprep.com/) - A free web-based study resource to help planners prepare for the American Institute of Certified Planners' certification exam. As of summer 2021, the site contains 1668 practice questions and 12 practice exams.
+- [APA Florida Examp Prep Webpage](https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/) - Comprehensive collection of study materials compiled by APA Florida. APA members can also email Henry Bittaker at the address given for access to recordings of exam prep and practice question study sessions led by him. 
 
 
 ### Literature Resources
