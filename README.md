@@ -347,6 +347,7 @@ Resources linking to peer-reviewed journals or federal research aggregators of i
 
 - [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) this mini-planning encyclopedia explores various urban planning concepts and terms.
 - [ULI](https://uli.org/) - ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world.
+- [Tasking Manager](https://tasks.hotosm.org/) - Tasking Manager is a platform where anybody can learn to use Open Street Map and contribute to mapping undermapped areas of the world. This work is critical for disaster preparation and resiliency in developing countries, so that aid workers and community members have access to accurate maps when disasters strike.
 
 ## Other Resources
 Other types of planning data & technology resources. 
