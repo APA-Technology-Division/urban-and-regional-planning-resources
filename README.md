@@ -22,6 +22,7 @@ This repository contains curated list of different urban & regional planning dat
   - [Equity and Environmental Justice](#equity-and-environmental-justice)
   - [Health](#health)
   - [Historic Preservation](#historic-preservation)
+  - [Land Use and Land Cover](#land-use-and-land-cover)
   - [OpenStreetMap](#openstreetmap)
   - [Resilience and Natural Hazards](#resilience-and-natural-hazards)
   - [Transportation](#transportation)
@@ -29,7 +30,7 @@ This repository contains curated list of different urban & regional planning dat
 
   - [Demographic](#demographic-1)
   - [Infrastructure](#infrastructure)
-  - [Land Use](#land-use)
+  - [Land Use and Land Cover](#land-use-and-land-cover-1)
   - [Resilience and Natural Hazards](#resilience-and-natural-hazards-1)
   - [Urban Observation](#urban-observation)
   - [Travel Behavior](#travel-behavior)
@@ -108,7 +109,6 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas is a collection of interactive tools and resources that allows users to explore the many benefits people receive from nature, often referred to as ecosystem services within the United States.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products) - The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
-- [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database) - The National Land Cover Database is generated in cooperation with the Multi-Resolution Land Characteristics Consortium (MRLC), a partnership of Federal agencies working together to produce current, nationally consistent, land cover products for all 50 US states and Puerto Rico. 
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands.
 - [Park Score](https://www.tpl.org/parkscore) - The Trust for Public Land curates a comprehensive evaluation of park access and quality in the 100 largest U.S. cities. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - The U.S. Forest Service (USFS) Geospatial Technology and Applications Center (GTAC) builds and maintains tree canopy cover (TCC) datasets.
@@ -133,6 +133,10 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - The National Register of Historic Places is the official list of the Nation's historic places worthy of preservation.
 - [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - A World Heritage Site is a site on a list of properties maintained by the World Heritage Committee of UNESCO and called the World Heritage List "which it considers as having outstanding universal value".
+
+### Land Use and Land Cover
+
+- [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database) - The National Land Cover Database is generated in cooperation with the Multi-Resolution Land Characteristics Consortium (MRLC), a partnership of Federal agencies working together to produce current, nationally consistent, land cover products for all 50 US states and Puerto Rico. 
 
 ### OpenStreetMap
 
@@ -179,7 +183,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 - [Mapillary](https://www.mapillary.com/) - Access street-level imagery and AI-derived map data from all over the world. Fill in the gaps by requesting new coverage or capturing your own with an easy to use mobile app.
 - [Ecopia](https://www.ecopiatech.com/) - Ecopia AI leverages AI to convert high resolution images of the earth into HD Vector Maps and to digitize infrastructure assets in a geospatial format. 
 
-### Land Use
+### Land Use and Land Cover
 
 - [CoreLogic](https://www.corelogic.com/) - Provides high quality parcel data, providing instant access to detailed property characteristics, sales records, valuation and digital copies of current county assessor documents.
 - [CoStar](https://www.costar.com/) - A commercial real estate information and analytics provider serving the UK, US, and Canada. 
