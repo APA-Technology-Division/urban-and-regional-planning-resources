@@ -50,14 +50,17 @@ This repository contains curated list of different urban & regional planning dat
   - [Geospatial Data and Visualization](#geospatial-data-and-visualization)
   - [Urban Design Tools and Platforms](#urban-design-tools-and-platforms)
   - [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
+  - [Transportation Planning Tools and Platforms](#transportation-planning-tools-and-platforms)
   - [Environmental and Climate Planning Tools and Platforms](#environmental-and-climate-planning-tools-and-platforms)
 - [Educational and Informational Resources](#educational-and-informational-resources)
 
   - [AICP Resources](#aicp-resources)
   - [Literature Resources](#literature-resources)
   - [General Planning Information and News](#general-planning-information-and-news)
-- [Other Resources](#other-resources)
-
+  - [Podcasts](#podcasts)
+  
+- [Other Resources](#other-resources)   
+  - [Other GitHub Resource Lists](#other-github-resource-lists)
   - [Other Technology Resource Aggregators](#other-technology-resource-aggregators)
 - [Contributing](#contributing)
 
@@ -287,12 +290,12 @@ Resources for planners learning coding and urban informatics.
 - [Introduction to Urban Informatics](https://courses.planetizen.com/course/urban-informatics) - Planetizen course teaching the basics of big data processing, analysis, and visualization. Monthly subscription required. 
 
 ## Platforms and Software Resources
-Software and platforms for planners.
+Software and platforms for planners and those interested in the built environment. 
 
 ---
 
 ### Geospatial Data and Visualization
-
+Software, tools, and platforms for geospatial visualization. 
 
 - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - This platform is a geographic information system (GIS) for working with maps and geographic information maintained by the Environmental Systems Research Institute (ESRI).
 - [QGIS](https://qgis.org/en/site/) - This open source GIS suite allows users to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD and mobile devices.
@@ -304,6 +307,7 @@ Software and platforms for planners.
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS is a free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
 
 ### Urban Design Tools and Platforms
+Software, tools, and platforms to assist with urban design and similar creative applications in built environments. 
 
 - [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - CityEngine is advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that can help quickly create [streets](https://github.com/d-wasserman/Complete_Street_Rule) & [buildings](https://www.arcgis.com/home/group.html?id=01695af30a384c1e823fa4d72497309d#overview).
 - [SketchUp](https://www.sketchup.com/) - Easy to use interactive 3D modeling software for planning and design applications. Supported by a rich asset library for creating neighborhood designs. 
@@ -315,15 +319,21 @@ Software and platforms for planners.
 - [Delve](https://www.sidewalklabs.com/products/delve) - Delve uses generative design and AI to reveal the very best options for your project priorities and site design metrics. 
 
 ### Urban Planning Tools and Platforms
+Software, tools, and platforms intended to assist general urban planning tasks and processes. 
+
 - [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban enables planners and design professionals to publish living plans and collaborate across teams with a web-based 3D application that supports scenario planning and impact assessment. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - Web-based planning tool serving curated urban, environmental, and economic data to urban practitioners and equipping them with the analytic capabilities to plan and improve communities faster, better, and at lower cost.
-- [Remix](https://www.remix.com/) - A platform to empower cities to plan the best possible transportation system — from public transit to safer streets to ever-increasing new modes of mobility. Remix provides tools to edit & test GTFS, generate multimodal streets, and explore relevant data.
-- [Streetmix](https://streetmix.net/) - A collaborative civic engagement platform for urban design. Design, remix, and share your neighborhood street with Streetmix.
-- [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use. 
-- [A/B Street](https://www.abstreet.org) - Edit streets and intersections, explore the effects through traffic simulation on all modes, and use the resulting visualizations to communicate a proposal. Apache licensed, runs anywhere with OpenStreetMap, and works on the web or as an offline download.
 - [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler is a web-based platform designed for planners and modelers to generate long-range, small area socioeconomic forecasts using [UrbanSim](https://github.com/UDST/urbansim) to inform Regional Transportation Plans. 
 
+### Transportation Planning Tools and Platforms
+Software, tools, and platforms intended to assist with transportation planning tasks and processes. 
+- [Remix](https://www.remix.com/) - A platform to empower cities to plan the best possible transportation system — from public transit to safer streets to ever-increasing new modes of mobility. Remix provides tools to edit & test GTFS, generate multimodal streets, and explore relevant data.
+- [Streetmix](https://streetmix.net/) - A collaborative civic engagement platform for urban design. Design, remix, and share your neighborhood street with Streetmix.
+- [A/B Street](https://www.abstreet.org) - Edit streets and intersections, explore the effects through traffic simulation on all modes, and use the resulting visualizations to communicate a proposal. Apache licensed, runs anywhere with OpenStreetMap, and works on the web or as an offline download.
+- [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use. 
+
 ### Environmental and Climate Planning Tools and Platforms
+Software, tools, and platforms intended to aid environmental planning or climate adaptation & mitigation planning. 
 
 - [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus) - FEMA's Hazus Program provides standardized tools and data for estimating risk from earthquakes, floods, tsunamis, and hurricanes. Risk assessment resources and tools from the Hazus program are always freely available and transparently developed. 
@@ -333,7 +343,6 @@ Software and platforms for planners.
 Collections of planning related literature, information aggregators, or similar resources.
 
 ---
-
 
 ### AICP Resources
 Resources pertaining to AICP certification test preparation, continuing education, and other resources.
@@ -355,18 +364,21 @@ Resources linking to peer-reviewed journals or federal research aggregators of i
 - [Repository and Open Science Access Portal (ROSA P)](https://rosap.ntl.bts.gov/welcome) - Provides access to a range of full-text current and historical documents from the National Transportation Library. Resources are available from all modes of transportation as well as related disciplines such as climate change research. 
 
 ### General Planning Information and News
-
+Websites and news resources for urban planning, the built environment, or communities.
 - [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) this mini-planning encyclopedia explores various urban planning concepts and terms.
 - [ULI](https://uli.org/) - ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world.
 
+### Podcasts
+Podcasts touching on the built environment or communities. 
+
 ## Other Resources
-Other types of planning data & technology resources. 
+Other types of planning data & technology resources. They are a good source of inspiration to contribute to this repo for example, but we don't need to duplicate efforts. 
 
 ---
 
-### Other Technology Resource Aggregators
 
-These are other aggregators that bring together different planning related tools, software, data, and related resources. They are a good source of inspiration to contribute to this repo for example, but we don't need to duplicate efforts. 
+### Other GitHub Resource Lists
+This page is registered as an [awesome-list](https://github.com/topics/awesome-list), but similar GitHub repositories can be listed here. These are managed curations of resources that relate to different topics. 
 
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
 - [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) - A collection of micromobility tools and data resources.
@@ -374,6 +386,10 @@ These are other aggregators that bring together different planning related tools
 - [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
 - [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
+
+### Other Technology Resource Aggregators
+These are other aggregators that bring together different planning related tools, software, data, and related resources.
+
 - [Urban Computing Foundation](https://github.com/ucfoundation) - Accelerating open source and community development that improves mobility, safety, infrastructure, traffic, and energy consumption in connected cities. Additional Information: [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - United States federal repository of data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
 - [Harvard Dataverse](https://dataverse.harvard.edu/) - Harvard Dataverse is a repository for research data. It contains a wide variety of datasets spanning the sciences, many with public domain dedications. 
