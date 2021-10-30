@@ -370,12 +370,17 @@ Websites and news resources for urban planning, the built environment, or commun
 
 ### Podcasts
 Podcasts touching on the built environment or communities. 
+- [Talking Headways](https://streetsblog.libsyn.com/) - The Talking Headways podcast is a weekly podcast about transportation and urban design.
+- [99% Invisible](https://99percentinvisible.org/) - 99% Invisible is a sound-rich, narrative podcast about all the thought that goes into the things we don’t think about — the unnoticed architecture and design that shape our world.
+- [APA Podcast](https://www.planning.org/podcast/) - American Planning Association's podcast with content going back to 2010. 
+- [Strong Towns Podcast](https://www.strongtowns.org/podcast) - The podcast explores how we can financially strengthen our cities, towns, and neighborhoods and, in the process, make them better places to live. 
+- [The Urban Planner's Podcast](https://www.gigitheplanner.com/podcast) - This podcast is for urban planners, urban planning students and those interested in the topic of urban planning.
+
 
 ## Other Resources
 Other types of planning data & technology resources. They are a good source of inspiration to contribute to this repo for example, but we don't need to duplicate efforts. 
 
 ---
-
 
 ### Other GitHub Resource Lists
 This page is registered as an [awesome-list](https://github.com/topics/awesome-list), but similar GitHub repositories can be listed here. These are managed curations of resources that relate to different topics. 
