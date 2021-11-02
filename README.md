@@ -399,6 +399,7 @@ These are other aggregators that bring together different planning related tools
 - [Data.Gov](https://www.data.gov/) - United States federal repository of data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
 - [Harvard Dataverse](https://dataverse.harvard.edu/) - Harvard Dataverse is a repository for research data. It contains a wide variety of datasets spanning the sciences, many with public domain dedications. 
 - [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - Similar to this repo, a collection of resources of the Civic Tech Field Guide have been crowdsourced by civic tech practitioners from over 100 countries around the world.
+- [The Nexus](https://www.urbanismnext.org/the-nexus) - The Nexus examines the potential impacts that new mobility, autonomous vehicles, e-commerce, and other innovations will have on cities and communities and catalogues various resources and tools related to them. 
 
 ---
 
