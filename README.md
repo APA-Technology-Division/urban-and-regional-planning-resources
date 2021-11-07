@@ -203,6 +203,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 - [Transoft](https://safety.transoftsolutions.com/) - Transfoft ITS Safety solutions utilize computer vision to identify 'near-miss' behavior on streets. This technology was featured Planning Magazine in the [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 - [Automotus](https://www.automotus.co/) - Computer vision based platform that helps cities, airports, fleets, and businesses monitor the curb in real time. Enables curbside management policies that increase revenue while making streets less congested, more sustainable, and more equitable. 
 - [Vade](https://www.vadepark.com/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queriable via web-based API's. 
+- [StreetsSimplified](https://www.streetsimplified.com/) - Deploys temporary cameras utilizing computer vision to examine various transportation behaviors such as speeding, crossing rule compliance, and red-light running.  
 
 ### Travel Behavior
 
