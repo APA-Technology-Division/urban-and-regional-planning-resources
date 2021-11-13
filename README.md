@@ -52,6 +52,8 @@ This repository contains curated list of different urban & regional planning dat
   - [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
   - [Transportation Planning Tools and Platforms](#transportation-planning-tools-and-platforms)
   - [Environmental and Climate Planning Tools and Platforms](#environmental-and-climate-planning-tools-and-platforms)
+  - [Public Engagement Tools and Platforms](#public-engagement-tools-and-platforms)
+  
 - [Educational and Informational Resources](#educational-and-informational-resources)
 
   - [AICP Resources](#aicp-resources)
@@ -341,6 +343,11 @@ Software, tools, and platforms intended to aid environmental planning or climate
 - [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus) - FEMA's Hazus Program provides standardized tools and data for estimating risk from earthquakes, floods, tsunamis, and hurricanes. Risk assessment resources and tools from the Hazus program are always freely available and transparently developed. 
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts. 
+
+### Public Engagement Tools and Platforms
+Software, tools, and platforms intended to aid with public engagement and outreach activities. 
+- [bangthetable](https://www.bangthetable.com/) - Provides access to a platform that centralizes community engagement, making it easy to capture, analyze, and report on city-wide engagement through one single platform.
+
 
 ## Educational and Informational Resources
 Collections of planning related literature, information aggregators, or similar resources.
