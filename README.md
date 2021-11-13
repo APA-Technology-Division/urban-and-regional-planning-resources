@@ -347,6 +347,7 @@ Software, tools, and platforms intended to aid environmental planning or climate
 ### Public Engagement Tools and Platforms
 Software, tools, and platforms intended to aid with public engagement and outreach activities. 
 - [bangthetable](https://www.bangthetable.com/) - Provides access to a platform that centralizes community engagement, making it easy to capture, analyze, and report on city-wide engagement through one single platform.
+- [PollEverywhere](https://www.polleverywhere.com/) - Provides the ability to generate polls and questions for interactive engagement on multiple platforms. 
 
 
 ## Educational and Informational Resources
