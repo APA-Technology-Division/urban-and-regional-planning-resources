@@ -23,6 +23,7 @@ This repository contains curated list of different urban & regional planning dat
   - [Historic Preservation](#historic-preservation)
   - [Land Use and Land Cover](#land-use-and-land-cover)
   - [OpenStreetMap](#openstreetmap)
+  - [Politics](#politics)
   - [Resilience and Natural Hazards](#resilience-and-natural-hazards)
   - [Transportation](#transportation)
   
@@ -152,7 +153,8 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Overpass Turbo](https://overpass-turbo.eu/) -  Overpass Turbo is a web-based data mining tool for OpenStreetMap. It runs any kind of Overpass API query, shows the results on an interactive map, and allows users to export query data in the form of GeoJSON files (which may be converted to Shapefiles). It also provides helpful support for new users in the form of the "Wizard" tool. Using Overpass Turbo, you can query virtually any location globally using dedicated tags in Open Street Map. 
 - [Humanitarian OpenStreetMap Tools & Data](https://www.hotosm.org/tools-and-data) - HOT provides a rich set of tools for the OSM community. An especially helpful tool is the [Export Tool](https://export.hotosm.org/en/v3/).
 - [Tasking Manager](https://tasks.hotosm.org/) - Tasking Manager is a platform where anybody can learn to use Open Street Map and contribute to mapping undermapped areas of the world. This work is critical for disaster preparation and resiliency in developing countries, so that aid workers and community members have access to accurate maps when disasters strike.
- 
+### Politics
+- [OpenPrecincts](https://openprecincts.org/) - OpenPrecincts is a data and software resource to open the redistricting process to all citizens and ensure that the next decade’s district boundaries are fair for all voters.
 ### Resilience and Natural Hazards
 
 - [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA provided map viewer is to provide federal, state, and local coastal resource managers and planners with a preliminary look at sea level rise and coastal flooding impacts.
