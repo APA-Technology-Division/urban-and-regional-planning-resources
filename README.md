@@ -156,7 +156,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 ### Politics
 
-- [OpenPrecincts](https://openprecincts.org/) - OpenPrecincts is a data and software resource to open the redistricting process to all citizens and ensure that the next decade’s district boundaries are fair for all voters.
+- [OpenPrecincts](https://openprecincts.org/) - OpenPrecincts is a data and software resource to open the redistricting process to all citizens and ensure that district boundaries are fair for all voters.
 
 ### Resilience and Natural Hazards
 
