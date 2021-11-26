@@ -385,6 +385,7 @@ Resources linking to peer-reviewed journals or federal research aggregators of i
 Websites and news resources for urban planning, the built environment, or communities.
 - [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) this mini-planning encyclopedia explores various urban planning concepts and terms.
 - [ULI](https://uli.org/) - ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world.
+- [Streetsblog](https://www.streetsblog.org/) Blog for news related to walking, biking, and transit. 
 
 ### Podcasts
 Podcasts touching on the built environment or communities. 
