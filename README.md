@@ -421,6 +421,10 @@ These are other aggregators that bring together different planning related tools
 - [Data Standards Directory](http://datastandards.directory/) - This open directory of data standards aggregates known data standard examples and features a taxonomy on how to understand their application. 
 - [Digital.Gov](https://digital.gov/) - Guidance and resources on building better digital services in government.
 
+### Networking Opportunities and Communities
+These are groups that may offer opportunities for giving back and meeting other people in the civic technology field.
+
+- [TRB Standing Committee on Transit Data](http://www.trb-transit-data.org/) - Committee of the Transporation Research Board dedicated to fostering collaboration among transit agencies and researchers with regards to data. 
 ---
 
 ## Contributing
