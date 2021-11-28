@@ -328,6 +328,7 @@ Software, tools, and platforms for geospatial visualization.
 Software, tools, and platforms intended to aid with public engagement and outreach activities. 
 - [bangthetable](https://www.bangthetable.com/) - Provides access to a platform that centralizes community engagement, making it easy to capture, analyze, and report on city-wide engagement through one single platform.
 - [PollEverywhere](https://www.polleverywhere.com/) - Provides the ability to generate polls and questions for interactive engagement on multiple platforms. 
+- [Ushahidi](https://www.ushahidi.com/) - Open-source crowdsourced mapping tool with the aim to empower communities around the world to tackle their own problems by collecting citizen input. 
 - [Metroquest](https://metroquest.com/) - Comprehensive community engagement platform, providing surveys, games, and interactive maps to engage the public around planning issues. 
 
 ### Urban Design Tools and Platforms
