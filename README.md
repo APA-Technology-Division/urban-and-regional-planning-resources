@@ -332,6 +332,7 @@ Software, tools, and platforms intended to aid with public engagement and outrea
 - [NJTPA Engage](https://engage.njtpa.org/) - Database of 300 + public engagement tools, techniques, and software. Searchable on multiple levels. 
 - [Ushahidi](https://www.ushahidi.com/) - Open-source crowdsourced mapping tool with the aim to empower communities around the world to tackle their own problems by collecting citizen input.
 - [Social Pinpoint](https://www.socialpinpoint.com/) - Social Pinpoint is a proprietary digital public engagement tool that allows users to give feedback and share their inspirations through interactive maps, surveys, participatory budgeting exercises, and idea wall forums.
+- [Hello Lamp Post](https://www.hellolamppost.co.uk/) - Hello Lamp Post is a proprietary text and SMS-based on-street public engagement tool that uses physical signage and mobile devices to get citizen feedback, improve wayfinding, promote local events and services, or provide creative educational content.
 
 ### Urban Design Tools and Platforms
 Software, tools, and platforms to assist with urban design and similar creative applications in built environments. 
