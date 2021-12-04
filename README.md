@@ -133,6 +133,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [County Health Rankings](https://www.countyhealthrankings.org/) - The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play.
 - [HealthData.gov](https://healthdata.gov/) - This site is dedicated to making high value health data in the United States more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all.  
 - [CDC Places](https://www.cdc.gov/places/index.html) - A CDC colloboration that allows local health departments and jurisdictions regardless of population size and urban-rural status to better understand the burden and geographic distribution of health-related outcomes in their areas and assist them in planning public health interventions.
+- [WHO Data](https://www.who.int/data) - The World Health Organization's (WHO) health data collections featuring international datasets on health indicators and related data. 
 
 ### Historic Preservation
 
