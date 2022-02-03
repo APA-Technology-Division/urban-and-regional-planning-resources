@@ -179,6 +179,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/) - Ready‐to‐use global street network models and calculated indicators in a GIS format. Additional Information: [Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
 - [Rapid Transit Database](https://www.itdp.org/rapid-transit-database/) - Collection of all rapid transit corridors worldwide, including bus rapid transit, light rail, and subway, published by the Institute for Transportation & Development Policy. 
 - [Transit Equity Dashboards](https://dashboard.transitcenter.org/) - Equity analysis of transit systems in seven (and counting) US cities, published by TransitCenter.
+- [Accessibility Observatory](http://access.umn.edu/data/datasets/index.html) - The Accessibility Observatory makes selected data sets available in the University of Minnesota's Digital Conservatory under the Creative Commons Attribution 4.0 International License.
 
 ## Vendor Data Resources
 Vendors that can provide purchased or licensed data for a variety of uses. 
