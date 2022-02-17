@@ -232,6 +232,7 @@ A collection of urban planning related data specifications and standards for use
 
 ### Built Environment
 
+- [CityGML](https://www.ogc.org/standards/citygml) - The CityGML standard defines a conceptual model and exchange format for the representation, storage and exchange of virtual 3D city models. It enables an interdiciplinary common operating platform for civic systems. 
 - [LBCS](https://www.planning.org/lbcs/standards/) - The [American Planning Assoication's](https://www.planning.org/) Land Based Classification Standards classifies land uses across five dimensions (Activity, Function, Structure, Site, and Ownership). 
 - [DTDL](https://github.com/Azure/opendigitaltwins-building) - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies. 
 - [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested partiesto create a shared data specification for building and construction permit data.
