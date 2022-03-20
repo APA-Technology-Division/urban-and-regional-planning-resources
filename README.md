@@ -237,6 +237,7 @@ A collection of urban planning related data specifications and standards for use
 - [DTDL](https://github.com/Azure/opendigitaltwins-building) - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies. 
 - [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested partiesto create a shared data specification for building and construction permit data.
 - [HouseFacts](https://sites.google.com/site/housefactsdatastandard/home) - The House Facts data standard is a uniform format for reporting government data on the operation, safety, and performance of residential buildings.
+- [IFC](https://technical.buildingsmart.org/standards/ifc/) - is a standardized, digital description of the built environment, including buildings and civil infrastructure. It is an open, international standard (ISO 16739-1:2018).
 
 ### Transportation
 
