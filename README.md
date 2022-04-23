@@ -241,6 +241,9 @@ A collection of urban planning related data specifications and standards for use
 - [HouseFacts](https://sites.google.com/site/housefactsdatastandard/home) - The House Facts data standard is a uniform format for reporting government data on the operation, safety, and performance of residential buildings.
 - [IFC](https://technical.buildingsmart.org/standards/ifc/) - IFC is a standardized, digital description of the built environment, including buildings and civil infrastructure. It is an open, international standard (ISO 16739-1:2018).
 
+### Environmental 
+- [EPA Data Standards](https://www.epa.gov/data-standards/epa-data-standards) - A chart with links to the diversity of data standards adopted by EPA.
+
 ### Transportation
 
 - [SharedStreets](https://www.sharedstreets.io) - SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by SharedStreets. Additional Information: [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
