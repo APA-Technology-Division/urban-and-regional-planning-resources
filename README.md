@@ -53,6 +53,7 @@ This repository contains curated list of different urban & regional planning dat
   - [Urban Design Tools and Platforms](#urban-design-tools-and-platforms)
   - [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
   - [Transportation Planning Tools and Platforms](#transportation-planning-tools-and-platforms)
+  - [Planning Management and Administrative Tools and Platforms](#planning-management-and-administrative-tools-and-platforms)
   
 - [Educational and Informational Resources](#educational-and-informational-resources)
   - [AICP Resources](#aicp-resources)
@@ -375,6 +376,11 @@ Software, tools, and platforms intended to assist with transportation planning t
 - [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use. 
 - [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim) - Integrated Transport and Health Impact Model (ITHIM) refers to a range of related models and tools developed to perform integrated assessment of the health effects of transport scenarios and policies at the urban and national level. This page points to different literature, R code, and [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
 
+### Planning Management and Administrative Tools and Platforms
+Software, tools, and platforms intended to help assist with planning management and adminstration. This includes software for permitting, development review, digital plan development, and other planning management tasks. 
+- [Encode Plus](https://www.encodeplus.com/) - Software to help modernize planning and zoning ordinances and streamline county or municipal code and by-law management.
+- [MyGovernmentOnline](https://www.mygovernmentonline.org/) - Digital government solutions for permitting and in-office processes designed by government for goverment (provider is technically a public agency).
+- [Digiplan](https://digeplan.com/) - Provides software for fully integrated electronic plan review and intake processes.
 
 ## Educational and Informational Resources
 Collections of planning related literature, information aggregators, or similar resources.
