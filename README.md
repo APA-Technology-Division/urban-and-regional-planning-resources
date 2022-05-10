@@ -381,6 +381,7 @@ Software, tools, and platforms intended to help assist with planning management 
 - [Encode Plus](https://www.encodeplus.com/) - Software to help modernize planning and zoning ordinances and streamline county or municipal code and by-law management.
 - [MyGovernmentOnline](https://www.mygovernmentonline.org/) - Digital government solutions for permitting and in-office processes designed by government for goverment (provider is technically a public agency).
 - [Digiplan](https://digeplan.com/) - Provides software for fully integrated electronic plan review and intake processes.
+- [OpenGov](https://opengov.com/products/citizen-services/) - Cloud solution to power every permit, license, and inspection with user-friendly workflows. 
 
 ## Educational and Informational Resources
 Collections of planning related literature, information aggregators, or similar resources.
