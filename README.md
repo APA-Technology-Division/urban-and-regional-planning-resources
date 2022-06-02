@@ -283,7 +283,7 @@ Python Libraries & Related Resources.
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data.
 - [HerePy](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs. 
 - [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
-
+- [PySAL](https://pysal.org) - The Python Spatial Analysis Library is a collection of algorithms for exploring spatial correlations and other spatial relationships.
 
 ### R
 R Packages & Related Resources.
