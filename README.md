@@ -284,6 +284,7 @@ Python Libraries & Related Resources.
 - [HerePy](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs. 
 - [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
 - [PySAL](https://pysal.org) - The Python Spatial Analysis Library is a collection of algorithms for exploring spatial correlations and other spatial relationships.
+- [city-seer-api](https://cityseer.benchmarkurbanism.com/) - A package for pedestrian-scale network-based urban analysis: network analysis, landuse accessibilities and mixed uses, statistical aggregations.
 
 ### R
 R Packages & Related Resources.
