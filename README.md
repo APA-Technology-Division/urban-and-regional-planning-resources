@@ -285,14 +285,13 @@ Python Libraries & Related Resources.
 - [OSMnx](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
 - [Pandas](https://pandas.pydata.org/) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
-- [Pandana](https://udst.github.io/pandana/) - Pandana is a Python library for network analysis that uses contraction hierarchies to calculate super-fast travel accessibility metrics and shortest paths. 
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge is a Python 3.6+ library for working with GTFS feeds using pandas DataFrames.
 - [peartree](https://github.com/kuanb/peartree) - A library for converting transit data into a directed graph for sketch network analysis.
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data.
 - [Pybikes](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
 - [PySAL](https://pysal.org) - The Python Spatial Analysis Library is a collection of algorithms for exploring spatial correlations and other spatial relationships.
 - [Rasterio](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models. Rasterio reads and writes these formats and provides a Python API based on Numpy N-dimensional arrays and GeoJSON.
-- [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility) - scikit-mobility: mobility analysis in Python
+- [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility) - A package for mobility analysis based on trace data.
 - [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
 - [UrbanAccess](https://udst.github.io/urbanaccess/index.html) - A tool for computing GTFS transit and OSM pedestrian networks for accessibility analysis.
 - [UrbanSim](https://github.com/udst/urbansim) - UrbanSim is a platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
@@ -305,7 +304,7 @@ R Packages & Related Resources.
 - [Foot](https://wpgp.github.io/foot/) - The foot package is designed to provide a set of consistent and flexible tools for processing 2D vector representations of buildings and calculating urban morphology measurements.
 - [ggplot2](https://ggplot2.tidyverse.org/) - Resource for plotting a wide range of data (useful for visualizing survey data). Additional Information: GNU GENERAL PUBLIC LICENSE.
 - [leafgl](https://github.com/r-spatial/leafgl) - R package for fast web-gl rendering for leaflet maps.
-- [Motif](https://cran.r-project.org/web/packages/motif/index.html) - Describes spatial patterns of categorical raster data for any defined regular and irregular areas. Patterns are described quantitatively using built-in signatures based on co-occurrence matrices but also allows for any user-defined functions. It enables spatial analysis such as search, change detection, and clustering to be performed on spatial patterns 
+- [Motif](https://cran.r-project.org/web/packages/motif/index.html) - Describes spatial patterns of categorical raster data for any defined regular and irregular areas. It enables spatial analysis such as search, change detection, and clustering to be performed on spatial patterns.
 - [Opentripplanner](https://github.com/opentripplanner) - An open source multi-modal trip planner
 - [Raster](https://cran.r-project.org/web/packages/raster/index.html) - Reading, writing, manipulating, analyzing and modeling of spatial data. The package implements basic and high-level functions for raster data and for vector data operations such as intersections. 
 - [Rgee](https://github.com/r-spatial/rgee) - rgee is an R binding package for calling Google Earth Engine API from within R. Various functions are implemented to simplify the connection with the R spatial ecosystem.
@@ -328,7 +327,7 @@ Front-end web related packages and resources.
 - [Bootstrap](https://getbootstrap.com/) - Widely-used, well documented library for quick design and customization of websites. Additional Information: [Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 - [Cesium](https://cesium.com/) - Cesium is the open platform for software applications designed to unleash the power of 3D data.
 - [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [GitHub](https://github.com/chartjs/Chart.js).
-- [graphhopper](https://www.graphhopper.com/) - API route planner
+- [graphhopper](https://www.graphhopper.com/) - A free API route planner.
 - [Leaflet](https://leafletjs.com/) - Open-source JavaScript library for mobile-friendly interactive maps. Plugins available to extend functionality (e.g., storymaps, heatmaps, animation). Additional Information: [Quickstart Guide](https://leafletjs.com/examples/quick-start/).
 - [Maptalk.js](https://maptalks.org/) - Maptalks integrates 2D/3D maps together by pitching and rotating 2D maps. Get one more dimension for mapping, visualizing and analyzing, with simplicity of 2D maps.
 - [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf).
@@ -403,7 +402,6 @@ Software, tools, and platforms intended to assist general urban planning tasks a
 ### Transportation Planning Tools and Platforms
 Software, tools, and platforms intended to assist with transportation planning tasks and processes. 
 - [AequilibraE](http://www.aequilibrae.com/python/latest/overview.html) - AequilibraE is the first comprehensive Python package for transportation modeling, and it aims to provide all the resources not easily available from other open-source packages in the Python (NumPy, really) ecosystem.
-- [Continuity in Street Networks](http://docs.momepy.org/en/stable/index.html) - Momepy is a library for quantitative analysis of urban form - urban morphometrics. It is part of PySAL (Python Spatial Analysis Library) and is built on top of GeoPandas, other PySAL modules and networkX.
 - [Remix](https://www.remix.com/) - A platform to empower cities to plan the best possible transportation system — from public transit to safer streets to ever-increasing new modes of mobility. Remix provides tools to edit & test GTFS, generate multimodal streets, and explore relevant data.
 - [Streetmix](https://streetmix.net/) - A collaborative civic engagement platform for urban design. Design, remix, and share your neighborhood street with Streetmix.
 - [A/B Street](https://www.abstreet.org) - Edit streets and intersections, explore the effects through traffic simulation on all modes, and use the resulting visualizations to communicate a proposal. Apache licensed, runs anywhere with OpenStreetMap, and works on the web or as an offline download.
