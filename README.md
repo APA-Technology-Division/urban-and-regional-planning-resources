@@ -296,6 +296,13 @@ R Packages & Related Resources.
 - [ggplot2](https://ggplot2.tidyverse.org/) - Resource for plotting a wide range of data (useful for visualizing survey data). Additional Information: GNU GENERAL PUBLIC LICENSE.
 - [tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) - Go-to library for text mining--often used in tandem with ggplot or other text mining libraries.
 - [leafgl](https://github.com/r-spatial/leafgl) - R package for fast web-gl rendering for leaflet maps.
+- [Motif](https://cran.r-project.org/web/packages/motif/index.html) - Describes spatial patterns of categorical raster data for any defined regular and irregular areas. It enables spatial analysis such as search, change detection, and clustering to be performed on spatial patterns.
+- [Raster](https://cran.r-project.org/web/packages/raster/index.html) - Reading, writing, manipulating, analyzing and modeling of spatial data. The package implements basic and high-level functions for raster data and for vector data operations such as intersections. 
+- [Rgee](https://github.com/r-spatial/rgee) - rgee is an R binding package for calling Google Earth Engine API from within R. Various functions are implemented to simplify the connection with the R spatial ecosystem.
+- [Sfnetworks](https://cran.r-project.org/web/packages/sfnetworks/index.html) - Provides a tidy approach to spatial network analysis, in the form of classes and functions that enable a seamless interaction between the network analysis package 'tidygraph' and the spatial analysis package 'sf'.
+- [Stars](https://cran.r-project.org/web/packages/stars/index.html) - Reading, manipulating, writing and plotting spatiotemporal arrays (raster and vector data cubes) in 'R', using 'GDAL' bindings provided by 'sf', and 'NetCDF' bindings by 'ncmeta' and 'RNetCDF'
+- [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - Tools for transport planning with an emphasis on spatial transport data and non-motorized modes. Enables common transport planning tasks including: downloading and cleaning transport datasets; creating geographic "desire lines" from origin-destination (OD) data; route assignment, locally and via interfaces to routing services.
+- [Tmap](https://cran.r-project.org/web/packages/tmap/) - Thematic maps are geographical maps in which spatial data distributions are visualized. This package offers a flexible, layer-based, and easy to use approach to create thematic maps, such as choropleths and bubble maps.
 
 ### Other
 Other coding libraries & resources.
