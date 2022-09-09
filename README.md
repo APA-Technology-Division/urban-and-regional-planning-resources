@@ -211,6 +211,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 ### Resilience and Natural Hazards
 
+- [Climate Engine](https://climateengine.com/) - Provides data and insights to support financial and operational resilience for a changing planet across a variety of climate related hazards.
 - [FloodFactor](https://firststreet.org/flood-factor/) - Provided by the First Street Foundation, this tool makes it easy to determine if a property has flooded from major events in the past, is currently at risk, and how that risk changes over time. It can also help estimate damage costs associated with flooding.
 - [Jupiter Intelligence](https://jupiterintel.com/) - Provides global high resolution climate projections out to 2100 for a variety of hazards (flood, precipitation, wind, heat/cold, wildfire, thunderstorms, drought) as well as asset-level estimates of damage and financial loss.
 
