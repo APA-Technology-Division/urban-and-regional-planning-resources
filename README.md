@@ -235,6 +235,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 - [Strava](https://developers.strava.com/) - API for a popular tracking app for runners and cyclists. Data can be used to understand active transportation usage and patterns.
 - [Teralytics](https://www.teralytics.net/) - Provides data and insights on mobility patterns based on cellular trace data using a global network of telecom providers. 
 - [Inrix](https://inrix.com/) - Delivers innovative data products for the automotive and transportation industries such as real-time parking and traffic information solutions. 
+- [Unacast](https://www.unacast.com/) - Provides location based analytics related to how people move across 80+ countries ranging from foot-traffic metrics to cross-visitation. 
 
 ## Planning Data Specifications
 A collection of urban planning related data specifications and standards for use as part of programs & projects.
