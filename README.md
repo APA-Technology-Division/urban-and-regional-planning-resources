@@ -105,6 +105,8 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 ### Education 
 
+-[Education Demographics & Geographic Estimates (EDGE)](https://nces.ed.gov/programs/edge/Home) - EDGE provides access to demographic and school related geographic data such as locations and districts. 
+
 - [National Center for Educational Statistics](https://nces.ed.gov/datalab/index.aspx) - The National Center for Education Statistics (NCES) is the primary federal entity for collecting and analyzing data related to education. Their data lab provides access to other 30+ education datasets and provides quick reporting and charting functionality for users. 
   
 ### Employment
