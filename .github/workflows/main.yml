@@ -21,11 +21,4 @@ jobs:
         with:
           fetch-depth: 0
       - run: npx awesome-lint
- Link_Check:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: filiph/linkcheck@v2.0.15+1
-        with:
-            arguments: https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/README.md
-
     
