@@ -1,24 +1,37 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
+name: Check Lint
 # Controls when the action will run. 
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
+  workflow_dispatch:
   push:
-    branches: 
-     - main
-     - awesome-compliance
-  pull_request:
     branches:
-     - main
-     - awesome-compliance
+    - main
+  schedule:
+  # Run every first day at 00:00 AM every month.
+    - cron: "0 0 * * *"
+  pull_request:
+    branches: [main]
+    paths:
+      - 'readme.md'
+
 jobs:
-  Awesome_Lint:
+  main:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - run: npx awesome-lint
+      - name: Check_Links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          retry-after: 10
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'yes'
+          config-file: '.github/workflows/markdown.links.config.json'
+      - name: Awesome_Linter
+        steps:
+        - uses: actions/checkout@v2
+          with:
+            fetch-depth: 0
+        run: npx awesome-lint
     
