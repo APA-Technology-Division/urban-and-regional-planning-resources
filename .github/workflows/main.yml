@@ -29,9 +29,5 @@ jobs:
           use-verbose-mode: 'yes'
           config-file: '.github/workflows/markdown.links.config.json'
       - name: Awesome_Linter
-        steps:
-        - uses: actions/checkout@v2
-          with:
-            fetch-depth: 0
         run: npx awesome-lint
     
