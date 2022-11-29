@@ -457,7 +457,7 @@ Podcasts touching on the built environment or communities.
 - [99% Invisible](https://99percentinvisible.org/) - 99% Invisible is a sound-rich, narrative podcast about all the thought that goes into the things we don't think about — the unnoticed architecture and design that shape our world.
 - [APA Podcast](https://www.planning.org/podcast/) - American Planning Association's podcast with interviews and discussions on planning topics going back to 2010. 
 - [Strong Towns Podcast](https://www.strongtowns.org/podcast) - The podcast explores how we can financially strengthen our cities, towns, and neighborhoods and, in the process, make them better places to live. 
-- [The Urban Planner's Podcast](https://www.gigitheplanner.com/podcast) - This podcast is for urban planners, urban planning students and those interested in the topic of urban planning.
+- [The Urban Planner's Podcast](https://podcasts.apple.com/us/podcast/the-urban-planners-podcast/id1502943446) - This podcast is for urban planners, urban planning students and those interested in the topic of urban planning.
 
 
 ## Other Resources
