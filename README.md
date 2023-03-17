@@ -390,11 +390,11 @@ Software, tools, and platforms designed to create digital replicas of our world,
 
 - [Arkio](https://www.arkio.is/) - Arkio is a new cloud-based collaborative spatial design software that allows planners, designers, and stakeholders to create 3-D models of buildings and neighborhoods over VR and other devices. 
 - [InCitu](https://www.incitu.us/) - InCitu is an AR platform designed to support urban planners in the analysis and visualization of urban data by representing scale models of buildings, affordable housing, mixed-use development, parks, and bridges. 
-- [Polycam](https://poly.cam/ ) - Polycam is a mobile application that allows planners to scan and digitize objects and places from the real world for use in 3-D models, making photogrammetry easy with the use of their smartphone’s camera. 
+- [Polycam](https://poly.cam/ ) - Polycam is a mobile application that allows planners to scan and digitize objects and places from the real world for use in 3-D models, making photogrammetry easy with the use of their smartphone's camera. 
 - [Spatial](https://www.spatial.io) - Spatial is a highly collaborative web, mobile, and VR application planners use to create immersive co-experiences and spaces in environments including the Metaverse. 
 - [Spectracities](https://www.spectracities.com/ ) - Spectra is an open source VR and mixed reality platform that allows planners and designers to combine physical placemaking and digital worldbuilding to reimagine the city making process, from single projects and infill development to large-scale immersive environments.   
 - [TwinMotion](https://www.twinmotion.com/en-US) - TwinMotion is an easy to use real-time visualization software that creates offline renderer-quality images, animations, and panoramas, together with interactive 360° videos and VR presentations built on Unreal Engine. 
-- [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games’ Unreal 5 is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.   
+- [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal 5 is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.   
 
 
 ### Public Engagement Tools and Platforms
