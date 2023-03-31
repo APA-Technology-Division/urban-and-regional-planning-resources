@@ -507,6 +507,8 @@ These are other aggregators that bring together different planning related tools
 - [The Nexus](https://www.urbanismnext.org/the-nexus) - The Nexus examines the potential impacts that new mobility, autonomous vehicles, e-commerce, and other innovations will have on cities and communities and catalogues various resources and tools related to them.
 - [Data Standards Directory](http://datastandards.directory/) - This open directory of data standards aggregates known data standard examples and features a taxonomy on how to understand their application. 
 - [Digital.Gov](https://digital.gov/) - Guidance and resources on building better digital services in government.
+- [AI Tools & Applications](https://favird.com/l/ai-tools-and-applications) - A comprehensive list of AI Tools & Applications on Favird by user onebird. 
+- 
 
 ---
 
