@@ -508,7 +508,6 @@ These are other aggregators that bring together different planning related tools
 - [Data Standards Directory](http://datastandards.directory/) - This open directory of data standards aggregates known data standard examples and features a taxonomy on how to understand their application. 
 - [Digital.Gov](https://digital.gov/) - Guidance and resources on building better digital services in government.
 - [AI Tools & Applications](https://favird.com/l/ai-tools-and-applications) - A comprehensive list of AI Tools & Applications on Favird by user onebird. 
-- 
 
 ---
 
