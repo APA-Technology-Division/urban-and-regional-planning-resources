@@ -498,6 +498,7 @@ This page is registered as an [awesome-list](https://github.com/topics/awesome-l
 - [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
 - [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
+- [ai-collection](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities. 
 
 ### Other Technology Resource Aggregators
 These are other aggregators that bring together different planning related tools, software, data, and related resources.
