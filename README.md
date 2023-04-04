@@ -310,6 +310,7 @@ Python Libraries & Related Resources.
 - [city-seer-api](https://cityseer.benchmarkurbanism.com/) - A package for pedestrian-scale network-based urban analysis: network analysis, urban morphology, land use, accessibility, and statistical aggregations.
 - [Geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 - [Geoplot](https://residentmario.github.io/geoplot/) - Geoplot is a high-level Python geospatial plotting library. It is an extension to cartopy and matplotlib which makes mapping easy: like seaborn for geospatial.
+- [Gleam](https://github.com/dgrtwo/gleam) - A plotting library inspired by R-Shiny to create interactive plots. 
 - [Urbansprawl](https://github.com/lgervasoni/urbansprawl) - The urbansprawl project provides an open source framework for assessing urban sprawl using open data. It uses OpenStreetMap (OSM) data to calculate its sprawling indices, divided in Accessibility, Land use mix, and Dispersion.
 - [Xarray-spatial](https://xarray-spatial.org/) - Xarray-Spatial implements common raster analysis functions using Numba and provides an easy-to-install, easy-to-extend codebase for raster analysis.
 - [Momepy](http://docs.momepy.org/en/stable/) - Momepy is a library for quantitative analysis of urban form - urban morphometrics. It is part of PySAL (Python Spatial Analysis Library) and is built on top of GeoPandas, other PySAL modules and networkX.
