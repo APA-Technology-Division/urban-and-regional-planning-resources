@@ -366,12 +366,10 @@ Software and platforms for planners and those interested in the built environmen
 
 ---
 ### AI in Planning Tools and Platforms
-Software, tools, and platforms that employ artificial intelligence that can be utilized by planners.
+Software, tools, and platforms that employ models that draw inferences from data that have specific utility for urban planning applications. The American Planning Association's Technology Division authored an [open letter](https://apa-technology-division.github.io/2023-ai-ethics-letter) identifing the neet for ethical use of these tools. 
 
-- [An Open Letter to the Planning Community Regarding the Ethical Use of Artificial Intelligence in Planning](https://apa-technology-division.github.io/2023-ai-ethics-letter) - In light of advancements in artificial intelligence (AI) technology over the span of the last year, the American Planning Association’s Technology Division has authored the following open letter to the planning community regarding the ethical use of ChatGPT, and AI more broadly in the planning practice. Additional Information: [Act Like a Planner](https://apa-technology-division.github.io/like-a-planner) 
-- [ChatGPT](https://chat.openai.com/) - 
-ChatGPT is an advanced language model designed to generate human-like text responses and engage in conversational interactions.
-- [University of Oregon, AI Software List](https://blogs.uoregon.edu/artificialintelligence/ai-software/) - A blog cataloguing existing AI resources compiled by university researchers and local policy experts
+- [ChatGPT](https://chat.openai.com/) - ChatGPT is an advanced language model designed to generate human-like text responses and engage in conversational interactions. Additional Information: [Act Like a Planner](https://apa-technology-division.github.io/like-a-planner).
+- [University of Oregon, AI Software List](https://blogs.uoregon.edu/artificialintelligence/ai-software/) - A blog cataloguing existing AI resources compiled by university researchers and local policy experts.
 
 ### Environmental and Climate Planning Tools and Platforms
 Software, tools, and platforms intended to aid environmental planning or climate adaptation & mitigation planning. 
@@ -520,7 +518,6 @@ These are other aggregators that bring together different planning related tools
 - [The Nexus](https://www.urbanismnext.org/the-nexus) - The Nexus examines the potential impacts that new mobility, autonomous vehicles, e-commerce, and other innovations will have on cities and communities and catalogues various resources and tools related to them.
 - [Data Standards Directory](http://datastandards.directory/) - This open directory of data standards aggregates known data standard examples and features a taxonomy on how to understand their application. 
 - [Digital.Gov](https://digital.gov/) - Guidance and resources on building better digital services in government.
-- [AI Tools & Applications](https://favird.com/l/ai-tools-and-applications) - A comprehensive list of AI Tools & Applications on Favird by user onebird. 
 
 ---
 
