@@ -48,14 +48,15 @@ This repository contains curated list of different urban & regional planning dat
   - [Learning to Code](#learning-to-code)
   
 - [Platforms and Software Resources](#platforms-and-software-resources)
+  - [AI in Planning Tools and Platforms](#ai-in-planning-tools-and-platforms) 
   - [Environmental and Climate Planning Tools and Platforms](#environmental-and-climate-planning-tools-and-platforms)
   - [Geospatial Data and Visualization](#geospatial-data-and-visualization)
   - [Immersive Planning and Design Platforms](#immersive-planning-and-design-platforms)
+  - [Planning Management and Administrative Tools and Platforms](#planning-management-and-administrative-tools-and-platforms)
   - [Public Engagement Tools and Platforms](#public-engagement-tools-and-platforms)
   - [Urban Design Tools and Platforms](#urban-design-tools-and-platforms)
   - [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
   - [Transportation Planning Tools and Platforms](#transportation-planning-tools-and-platforms)
-  - [Planning Management and Administrative Tools and Platforms](#planning-management-and-administrative-tools-and-platforms)
   
 - [Educational and Informational Resources](#educational-and-informational-resources)
   - [AICP Resources](#aicp-resources)
@@ -364,6 +365,14 @@ Resources for planners learning coding and urban informatics.
 Software and platforms for planners and those interested in the built environment. 
 
 ---
+### AI in Planning Tools and Platforms
+Software, tools, and platforms that employ artificial intelligence that can be utilized by planners.
+
+- [An Open Letter to the Planning Community Regarding the Ethical Use of Artificial Intelligence in Planning](https://apa-technology-division.github.io/2023-ai-ethics-letter) - In light of advancements in artificial intelligence (AI) technology over the span of the last year, the American Planning Association’s Technology Division has authored the following open letter to the planning community regarding the ethical use of ChatGPT, and AI more broadly in the planning practice. Additional Information: [Act Like a Planner](https://apa-technology-division.github.io/like-a-planner) 
+- [ChatGPT](https://chat.openai.com/) - 
+ChatGPT is an advanced language model designed to generate human-like text responses and engage in conversational interactions.
+- [University of Oregon, AI Software List](https://blogs.uoregon.edu/artificialintelligence/ai-software/) - A blog cataloguing existing AI resources compiled by university researchers and local policy experts
+
 ### Environmental and Climate Planning Tools and Platforms
 Software, tools, and platforms intended to aid environmental planning or climate adaptation & mitigation planning. 
 
@@ -400,6 +409,12 @@ Software, tools, and platforms designed to create digital replicas of our world,
 - [Unity](https://unity.com/) - A powerful and popular cross-platform game engine for creating 2D and 3D interactive experiences and games.
 - [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal Engine is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.   
 
+### Planning Management and Administrative Tools and Platforms
+Software, tools, and platforms intended to help assist with planning management and adminstration. This includes software for permitting, development review, digital plan development, and other planning management tasks. 
+- [Encode Plus](https://www.encodeplus.com/) - Software to help modernize planning and zoning ordinances and streamline county or municipal code and by-law management.
+- [MyGovernmentOnline](https://www.mygovernmentonline.org/) - Digital government solutions for permitting and in-office processes designed by government for goverment (provider is technically a public agency).
+- [Digiplan](https://digeplan.com/) - Provides software for fully integrated electronic plan review and intake processes.
+- [OpenGov](https://opengov.com/products/citizen-services/) - Cloud solution to power every permit, license, and inspection with user-friendly workflows. 
 
 ### Public Engagement Tools and Platforms
 Software, tools, and platforms intended to aid with public engagement and outreach activities. 
@@ -438,13 +453,6 @@ Software, tools, and platforms intended to assist with transportation planning t
 - [A/B Street](https://www.abstreet.org) - Edit streets and intersections, explore the effects through traffic simulation on all modes, and use the resulting visualizations to communicate a proposal. Apache licensed, runs anywhere with OpenStreetMap, and works on the web or as an offline download.
 - [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use. 
 - [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim) - Integrated Transport and Health Impact Model (ITHIM) refers to a range of related models and tools developed to perform integrated assessment of the health effects of transport scenarios and policies at the urban and national level. This page points to different literature, R code, and [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
-
-### Planning Management and Administrative Tools and Platforms
-Software, tools, and platforms intended to help assist with planning management and adminstration. This includes software for permitting, development review, digital plan development, and other planning management tasks. 
-- [Encode Plus](https://www.encodeplus.com/) - Software to help modernize planning and zoning ordinances and streamline county or municipal code and by-law management.
-- [MyGovernmentOnline](https://www.mygovernmentonline.org/) - Digital government solutions for permitting and in-office processes designed by government for goverment (provider is technically a public agency).
-- [Digiplan](https://digeplan.com/) - Provides software for fully integrated electronic plan review and intake processes.
-- [OpenGov](https://opengov.com/products/citizen-services/) - Cloud solution to power every permit, license, and inspection with user-friendly workflows. 
 
 ## Educational and Informational Resources
 Collections of planning related literature, information aggregators, or similar resources.
