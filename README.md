@@ -116,7 +116,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
   
 ### Employment
 
-- [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/) -  The LEHD program combines these administrative data, and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information: [On The Map Download Page](https://onthemap.ces.census.gov/).
+- [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/) -  The LEHD program combines administrative data, and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information: [On The Map Download Page](https://onthemap.ces.census.gov/).
 - [Bureau of Labor Statistics](https://www.bls.gov/) - The Bureau of Labor Statistics measures and provides access to data on labor market activity, working conditions, price changes, and productivity in the U.S. economy to support public and private decision making.
 
 ### Environment and Ecosystem Services
