@@ -11,6 +11,7 @@ This repository contains curated list of different urban & regional planning dat
 <!--lint disable awesome-toc-->
 ## Contents
 
+- [Contents](#contents)
 - [Public Data Resources](#public-data-resources)
   - [Built Environment](#built-environment)
   - [Climate](#climate)
@@ -27,7 +28,6 @@ This repository contains curated list of different urban & regional planning dat
   - [Politics](#politics)
   - [Resilience and Natural Hazards](#resilience-and-natural-hazards)
   - [Transportation](#transportation)
-  
 - [Vendor Data Resources](#vendor-data-resources)
   - [Demographic](#demographic-1)
   - [Infrastructure](#infrastructure)
@@ -35,20 +35,18 @@ This repository contains curated list of different urban & regional planning dat
   - [Resilience and Natural Hazards](#resilience-and-natural-hazards-1)
   - [Urban Observation](#urban-observation)
   - [Travel Behavior](#travel-behavior)
-  
 - [Planning Data Specifications](#planning-data-specifications)
   - [Built Environment](#built-environment-1)
+  - [Environmental](#environmental)
   - [Transportation](#transportation-1)
-  
 - [Planning Coding Resources](#planning-coding-resources)
   - [Python](#python)
   - [R](#r)
   - [Other](#other)
   - [Web and JS](#web-and-js)
   - [Learning to Code](#learning-to-code)
-  
 - [Platforms and Software Resources](#platforms-and-software-resources)
-  - [AI in Planning Tools and Platforms](#ai-in-planning-tools-and-platforms) 
+  - [AI in Planning Tools and Platforms](#ai-in-planning-tools-and-platforms)
   - [Environmental and Climate Planning Tools and Platforms](#environmental-and-climate-planning-tools-and-platforms)
   - [Geospatial Data and Visualization](#geospatial-data-and-visualization)
   - [Immersive Planning and Design Platforms](#immersive-planning-and-design-platforms)
@@ -57,21 +55,17 @@ This repository contains curated list of different urban & regional planning dat
   - [Urban Design Tools and Platforms](#urban-design-tools-and-platforms)
   - [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
   - [Transportation Planning Tools and Platforms](#transportation-planning-tools-and-platforms)
-  
 - [Educational and Informational Resources](#educational-and-informational-resources)
   - [AICP Resources](#aicp-resources)
   - [Literature Resources](#literature-resources)
   - [General Planning Information and News](#general-planning-information-and-news)
   - [Podcasts](#podcasts)
-  
-- [Other Resources](#other-resources)   
+- [Other Resources](#other-resources)
   - [Other GitHub Resource Lists](#other-github-resource-lists)
   - [Other Technology Resource Aggregators](#other-technology-resource-aggregators)
-  
 - [Contributing](#contributing)
   - [Form Based Contributions](#form-based-contributions)
   - [GitHub Contributions](#github-contributions)
-  
 - [License and Citation](#license-and-citation)
 
 ---
@@ -128,6 +122,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Park Score](https://www.tpl.org/parkscore) - The Trust for Public Land curates a comprehensive evaluation of park access and quality in the 100 largest U.S. cities. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - The U.S. Forest Service (USFS) Geospatial Technology and Applications Center (GTAC) builds and maintains tree canopy cover (TCC) datasets.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - The Nature Conservancy's geospatial portal includes web maps, apps, a map gallery, local initiative portals, conservation data, and other resources.
+- [TerraVide](https://pypi.org/project/TerraVide/) - TerraVide is an open source python package to process large urban environments mapped with LiDAR (Light Detection and Ranging) data. As of v0.1.6, focuses on tree extraction.
 
 ### Equity and Environmental Justice
 
