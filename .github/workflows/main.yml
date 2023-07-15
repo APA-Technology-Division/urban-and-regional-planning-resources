@@ -30,5 +30,6 @@ jobs:
           use-quiet-mode: 'yes'
           use-verbose-mode: 'yes'
           config-file: '.github/workflows/markdown.links.config.json'
-      
-    
+      - name: MarkdownLint mdl Action
+        uses: actionshub/markdownlint@v2.1.2
+        
