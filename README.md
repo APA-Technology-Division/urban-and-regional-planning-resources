@@ -439,6 +439,7 @@ Software, tools, and platforms to assist with urban design and similar creative 
 - [Inkscape](https://inkscape.org/) - Inkscape is vector-based, open graphic manipulation tool often used as a counterpart to GIMP.
 - [TestFit](https://testfit.io/) - TestFit features algorithms and co-creation tools help developers, architects, urban planners and more to solve hotel, parking or multifamily building site plans in seconds.
 - [Delve](https://www.sidewalklabs.com/products/delve) - Delve uses generative design and AI to reveal the very best options for your project priorities and site design metrics.
+- [3D House Planner](https://3dhouseplanner.com/) - 3D House Planner is the professional 3D modeling web application that allows users to design houses and apartments.
 
 ### Urban Planning Tools and Platforms
 Software, tools, and platforms intended to assist general urban planning tasks and processes.
