@@ -18,8 +18,6 @@ The Technology's Division's Resource Repository is sponsored by the following co
 			<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Esri_logo.svg/2880px-Esri_logo.svg.png" width="160"/>
 		</a>
     <br>
-    <br>
-    <br>
 
 </div>
 
