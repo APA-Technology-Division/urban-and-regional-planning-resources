@@ -1,3 +1,17 @@
+<div style=text-align:center;>
+		<sup><b>Special thanks to:</b></sup>
+		<br>
+		<br>
+		<a href="https://www.esri.com/en-us/home">
+			<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Esri_logo.svg/2880px-Esri_logo.svg.png" width="160"/>
+		</a>
+    <br>
+    <br>
+    <br>
+
+</div>
+
+---
 # Urban & Regional Planning Resources [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 [![GitHub stars](https://img.shields.io/github/stars/APA-Technology-Division/planning-technology-resources)](https://github.com/APA-Technology-Division/planning-technology-resources/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/APA-Technology-Division/planning-technology-resources)](https://github.com/APA-Technology-Division/planning-technology-resources)
