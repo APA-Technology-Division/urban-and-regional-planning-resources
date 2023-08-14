@@ -10,16 +10,19 @@ This repository contains curated list of different urban & regional planning dat
 
 ---
 #### Sponsors
+
+The Technology's Division's Resource Repository is sponsored by the following companies and organizations. 
 <div style=text-align:center;>
 		<br>
 		<a href="https://www.esri.com/en-us/home">
-			<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Esri_logo.svg/2880px-Esri_logo.svg.png" width="160" color="white"/>
+			<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Esri_logo.svg/2880px-Esri_logo.svg.png" width="160"/>
 		</a>
     <br>
     <br>
     <br>
 
 </div>
+
 ---
 
 <!--lint disable awesome-toc-->
