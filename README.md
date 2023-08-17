@@ -11,14 +11,16 @@ This repository contains curated list of different urban & regional planning dat
 ---
 #### Sponsors
 
-The Technology's Division's Resource Repository is sponsored by the following companies and organizations. 
-<div style=text-align:center;>
+The Technology's Division's Resource Repository is sponsored by the following companies and organizations.
+<div align="center">
 		<br>
 		<a href="https://www.esri.com/en-us/home">
 			<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Esri_logo.svg/2880px-Esri_logo.svg.png" width="160"/>
 		</a>
     <br>
-
+	<br>
+<a align="center" href="https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/ed5aeb33507cf32b478a664bbb2d43dd29a1da2f/resources/Division_Sponsorship_Package_22.pdf">Click here to learn more about sponsorship opportunities</a>
+	<br>
 </div>
 
 ---
