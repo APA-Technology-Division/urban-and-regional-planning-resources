@@ -450,7 +450,7 @@ Software, tools, and platforms intended to aid with public engagement and outrea
 - [Social Pinpoint](https://www.socialpinpoint.com/) - Social Pinpoint is a proprietary digital public engagement tool that allows users to give feedback and share their inspirations through interactive maps, surveys, participatory budgeting exercises, and idea wall forums.
 - [Hello Lamp Post](https://www.hellolamppost.co.uk/) - Hello Lamp Post is a proprietary text and SMS-based on-street public engagement tool that uses physical signage and mobile devices to get citizen feedback, improve wayfinding, promote local events and services, or provide creative educational content.
 - [Maptionnaire](https://www.maptionnaire.com) - Provides map-based tools for designing questionnaires, collecting survey data, and conveying information.
-- [SurveyMonkey](https://www.surveymonkey.com/mp/take-a-tour/) - a cloud-based survey tool that helps users create, send and analyze surveys. Users can email surveys to respondents and/or embed them on their websites and social media profiles to increase response rate.
+- [SurveyMonkey](https://www.surveymonkey.com/mp/take-a-tour/) - A cloud-based survey tool that helps users create, send and analyze surveys. Users can email surveys to respondents and/or embed them on their websites and social media profiles to increase response rate.
 
 ### Urban Design Tools and Platforms
 Software, tools, and platforms to assist with urban design and similar creative applications in built environments. This includes 3D modeling tools, rendering, and different XR applications.
