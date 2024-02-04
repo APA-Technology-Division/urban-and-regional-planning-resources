@@ -53,7 +53,7 @@ The Technology's Division's Resource Repository is [sponsored](https://github.co
   - [Travel Behavior](#travel-behavior)
 
 - [Planning Data Specifications](#planning-data-specifications)
-  - [Built Environment](#built-environment-1)
+  - [Built Environment](#built-environment-2)
   - [Transportation](#transportation-1)
 
 - [Planning Coding Resources](#planning-coding-resources)
