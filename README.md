@@ -44,6 +44,7 @@ The Technology's Division's Resource Repository is [sponsored](https://github.co
   - [Transportation](#transportation)
 
 - [Vendor Data Resources](#vendor-data-resources)
+  - [Built Environment](#built-environment-1) 
   - [Demographic](#demographic-1)
   - [Infrastructure](#infrastructure)
   - [Land Use and Land Cover](#land-use-and-land-cover-1)
@@ -228,6 +229,9 @@ Open Data Sites and national scale datasets should be near the top of each secti
 Vendors that can provide purchased or licensed data for a variety of uses.
 
 ---
+### Built Environment
+- [CyberCity3d](https://www.cybercity3d.com/) - CyberCity3D offers a diverse range of digital city models from stero imagery and keeps an extensive library in 130 cities. 
+- [PLW Model Works](https://plwmodelworks.com/industries/) -  PLW Model Works combines geospatial modeling expertise to create highly detailed, photo-accurate 3D polygonal city models for different industries.
 
 ### Demographic
 
