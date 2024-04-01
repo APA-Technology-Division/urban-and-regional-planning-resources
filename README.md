@@ -148,6 +148,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - The Nature Conservancy's geospatial portal includes web maps, apps, a map gallery, local initiative portals, conservation data, and other resources.
 
 ### Energy and Natural Resources
+- [Low-Income Energy Affordability Data](https://data.openei.org/submissions/573) - LEAD was created by the Better Building's Clean Energy for Low Income Communities Accelerator (CELICA) to help state and local partners understand housing and energy characteristics for the low- and moderate-income (LMI) communities they serve.
 -[State and Local Planning for Energy (SLOPE) Platform](https://www.energy.gov/scep/slsc/state-and-local-planning-energy-slope-platform) - Is a free, easy-to-use online platform to support data-driven state and local energy and decarbonization planning. SLOPE is a collaboration between nine U.S. Department of Energy (DOE) offices and the National Renewable Energy Laboratory (NREL) designed to support state and local governments and other key energy planning stakeholders in building a clean energy economy. 
 
 ### Equity and Environmental Justice
