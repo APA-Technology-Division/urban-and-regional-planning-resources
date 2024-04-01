@@ -33,6 +33,7 @@ The Technology's Division's Resource Repository is [sponsored](https://github.co
   - [Education](#education)
   - [Employment](#employment)
   - [Environment and Ecosystem Services](#environment-and-ecosystem-services)
+  - [Energy and Natural Resources](#energy-and-natural-resources)
   - [Equity and Environmental Justice](#equity-and-environmental-justice)
   - [Health](#health)
   - [Historic Preservation](#historic-preservation)
@@ -145,6 +146,9 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Park Score](https://www.tpl.org/parkscore) - The Trust for Public Land curates a comprehensive evaluation of park access and quality in the 100 largest U.S. cities.
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - The U.S. Forest Service (USFS) Geospatial Technology and Applications Center (GTAC) builds and maintains tree canopy cover (TCC) datasets.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - The Nature Conservancy's geospatial portal includes web maps, apps, a map gallery, local initiative portals, conservation data, and other resources.
+
+### Energy and Natural Resources
+-[State and Local Planning for Energy (SLOPE) Platform](https://www.energy.gov/scep/slsc/state-and-local-planning-energy-slope-platform) - Is a free, easy-to-use online platform to support data-driven state and local energy and decarbonization planning. SLOPE is a collaboration between nine U.S. Department of Energy (DOE) offices and the National Renewable Energy Laboratory (NREL) designed to support state and local governments and other key energy planning stakeholders in building a clean energy economy. 
 
 ### Equity and Environmental Justice
 
