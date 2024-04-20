@@ -272,6 +272,8 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 - [curbFlow](https://www.curbflow.com/) - Computer vision based services to quantify events occurring in the built environment affordably and quickly.
 - [Vade](https://www.vade.ai/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queryable via web-based API's.
 - [StreetSimplified](https://www.streetsimplified.com/) - Deploys temporary cameras utilizing computer vision to examine various transportation behaviors such as speeding, crossing rule compliance, and red-light running.
+- [EcoCounter](https://www.eco-counter.com/) - Since 1997, Eco-Counter has developed unique and innovative solutions to count pedestrians and cyclists that vary infrared sensors to computer vision based counters.
+- [VivaCity](https://vivacitylabs.com/north-america/) - Viva provies transportation monitoring solutions that help identify near-miss behavior on streets and multimodal counts. 
 
 ### Travel Behavior
 
