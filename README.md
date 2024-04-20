@@ -458,6 +458,7 @@ Software, tools, and platforms intended to help assist with planning management 
 - [MyGovernmentOnline](https://www.mygovernmentonline.org/) - Digital government solutions for permitting and in-office processes designed by government for goverment (provider is technically a public agency).
 - [Digiplan](https://digeplan.com/) - Provides software for fully integrated electronic plan review and intake processes.
 - [OpenGov](https://opengov.com/products/citizen-services/) - Cloud solution to power every permit, license, and inspection with user-friendly workflows.
+- [GeoCivix](https://geocivix.com/state-local-government-agencies/) - A user friendly citizen access, plan review, permit, and inspection solution built to drive efficiency, organization, and communication.
 
 ### Public Engagement Tools and Platforms
 Software, tools, and platforms intended to aid with public engagement and outreach activities.
