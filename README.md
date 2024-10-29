@@ -55,6 +55,7 @@ The Technology's Division's Resource Repository is [sponsored](https://github.co
 
 - [Planning Data Specifications](#planning-data-specifications)
   - [Built Environment](#built-environment-2)
+  - [Environmental](#environmental)
   - [Transportation](#transportation-1)
 
 - [Planning Coding Resources](#planning-coding-resources)
