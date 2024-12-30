@@ -67,6 +67,7 @@ The Technology's Division's Resource Repository is [sponsored](https://github.co
 
 - [Platforms and Software Resources](#platforms-and-software-resources)
   - [AI in Planning Tools and Platforms](#ai-in-planning-tools-and-platforms)
+  - [Digital Twin Tools and Platforms](#digital-twin-tools-and-platforms)
   - [Economic Development and Econometric Platforms](#economic-development-and-econometric-platforms)
   - [Environmental and Climate Planning Tools and Platforms](#environmental-and-climate-planning-tools-and-platforms)
   - [Geospatial Data and Visualization](#geospatial-data-and-visualization)
@@ -422,7 +423,12 @@ Software, tools, and platforms that employ models that draw inferences from data
 - [University of Oregon, AI Software List](https://blogs.uoregon.edu/artificialintelligence/ai-software/) - A blog cataloguing existing AI resources compiled by university researchers and local policy experts.
 - [OECD AI Policy Observatory](https://oecd.ai/en/) - OECD AI Policy Observatory provides a platform for resources on applications, poicy implications, and literature regarding Artificial Intelligence.
 - [LM Studio](https://lmstudio.ai/) - This [free for personal use](https://lmstudio.ai/terms) software enables users to download large language models and run them locally within a desktop chat interface.
-- [Tune Studio](https://studio.tune.app/) - Playground for software developers to finetune and deploy large language models. 
+- [Tune Studio](https://studio.tune.app/) - Playground for software developers to finetune and deploy large language models.
+
+### Digital Twins Tools and Platforms
+Software, tools, and platforms specifically marketed as helping support the creation, visualization, operation, or maintenance of [smart city digital twins](https://www.planning.org/publications/document/9209455/).
+- [OpenTwins](https://ertis-research.github.io/opentwins/) - An open source platform designed to facilitate the development of digital twins and is characterised by the exclusive use of open source components.
+- [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/) - Omiverse is a platform of APIs, SDKs, and services that enable developers to easily integrate Universal Scene Description (OpenUSD) and NVIDIA RTX rendering technologies into existing software tools and simulation workflows 
 
 ### Economic Development and Econometric Platforms
 Software, tools, and platforms that help planners understanding the economic impacts of decisions, from fiscal impact analysis to employment forecasting. 
