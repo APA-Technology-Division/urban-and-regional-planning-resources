@@ -67,7 +67,7 @@ The Technology's Division's Resource Repository is [sponsored](https://github.co
 
 - [Platforms and Software Resources](#platforms-and-software-resources)
   - [AI in Planning Tools and Platforms](#ai-in-planning-tools-and-platforms)
-  - [Digital Twin Tools and Platforms](#digital-twin-tools-and-platforms)
+  - [Digital Twin Tools and Platforms](#digital-twins-tools-and-platforms)
   - [Economic Development and Econometric Platforms](#economic-development-and-econometric-platforms)
   - [Environmental and Climate Planning Tools and Platforms](#environmental-and-climate-planning-tools-and-platforms)
   - [Geospatial Data and Visualization](#geospatial-data-and-visualization)
