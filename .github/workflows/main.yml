@@ -24,7 +24,7 @@ jobs:
       - name: Awesome_Linter
         run: npx awesome-lint
       - name: Check_Links
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        uses: tcort/github-action-markdown-link-check@v1
         with:
           retry-after: 10
           use-quiet-mode: 'yes'
