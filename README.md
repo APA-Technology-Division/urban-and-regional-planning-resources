@@ -15,7 +15,7 @@ The Technology's Division's Resource Repository is [sponsored](https://github.co
 <div style=text-align:center;>
 		<br>
 		<a href="https://www.esri.com/en-us/home">
-			<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Esri_logo.svg/2560px-Esri_logo.svg.png" width="160"/>
+			<img src="https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/assets/Esri%20Logo%20PNG%20SVG%20Vector-01.svg" width="160"/>
 		</a>
     <br>
 
