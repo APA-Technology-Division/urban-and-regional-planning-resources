@@ -517,7 +517,8 @@ Software, tools, and platforms to assist with urban design and similar creative 
 - [TestFit](https://testfit.io/) - Features algorithms and co-creation tools help developers, architects, urban planners and more to solve hotel, parking or multifamily building site plans in seconds.
 - [Delve](https://www.sidewalklabs.com/products/delve) - Uses generative design and AI to reveal the very best options for your project priorities and site design metrics.
 - [Enscape](https://enscape3d.com/) - An easy-to-use rendering software that produces quick, realistic and customizable rendering images for urban design and architectural visualization. The tool integrates well with commonly used 3D modeling softwares such as Rhino, SketchUp, etc.
-- [Forma](https://www.autodesk.com/products/forma/overview) - Autodesk Forma is a cloud based platform that enables architects and designers to conduct pre-design and schematic design evaluations and environmental impact simulations. 
+- [Forma](https://www.autodesk.com/products/forma/overview) - Autodesk Forma is a cloud based platform that enables architects and designers to conduct pre-design and schematic design evaluations and environmental impact simulations.
+- [ArchiWise](https://archiwise.ai) - AI-powered real estate pre-development and site selection platform that helps developers, architects, brokers, and planning consultants analyze zoning, feasibility, and site data quickly.
 
 ### Urban Planning Tools and Platforms
 Software, tools, and platforms intended to assist general urban planning tasks and processes.
