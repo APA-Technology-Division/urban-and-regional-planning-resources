@@ -120,6 +120,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - The Temperature Severity Indicator data distills observational information of prolonged temperature events to inform housing and community development policy and decision making provided by US HUD.
 - [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - Census Tract level temperature data derived from a [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) use remotely sensed land surface temperature measurements to explore the distribution of the United States urban heating burden by demographic group.
 - [WUDAPT](https://www.wudapt.org/) - This database intends to make accessible coherent and consistent descriptions and information on form and function of urban morphology relevant to climate & environment studies on a worldwide basis.
+- [Adaptbase](https://www.adaptbase.us/) - This knowledge graph resource seeks to organize the worlds climate adaptation knowledge based on climate publications from a range of resources. Enables the ability to look at adaptation by topic, city, or system. 
 
 ### Demographic
 
