@@ -1,4 +1,5 @@
 {
-    "aliveStatusCodes": [503, 0, 200, 206, 429, 400, 403,202]
-
+    "aliveStatusCodes": [503, 0, 200, 206, 429, 400, 403, 202, 307],
+    "ignorePatterns": ["https://github.com/APA-Technology-Division/urban-and-regional-planning-resources*"]
+        
   }
