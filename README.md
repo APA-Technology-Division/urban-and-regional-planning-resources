@@ -1,10 +1,10 @@
 # Urban & Regional Planning Resources [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 
-[![GitHub stars](https://img.shields.io/github/stars/APA-Technology-Division/planning-technology-resources)](https://github.com/APA-Technology-Division/planning-technology-resources/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/APA-Technology-Division/planning-technology-resources)](https://github.com/APA-Technology-Division/planning-technology-resources)
-![GitHub contributors](https://img.shields.io/github/contributors/APA-Technology-Division/planning-technology-resources)
-![GitHub last commit](https://img.shields.io/github/last-commit/APA-Technology-Division/planning-technology-resources)
-[![GitHub license](https://img.shields.io/github/license/APA-Technology-Division/planning-technology-resources)](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources)
+![GitHub contributors](https://img.shields.io/github/contributors/APA-Technology-Division/urban-and-regional-planning-resources)
+![GitHub last commit](https://img.shields.io/github/last-commit/APA-Technology-Division/urban-and-regional-planning-resources)
+[![GitHub license](https://img.shields.io/github/license/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/LICENSE)
 
 This repository contains a curated list of different urban & regional planning data &amp; technology resources. Those interested in the built environment are invited to review and contribute to this repository.
 
@@ -26,6 +26,7 @@ The Technology's Division's Resource Repository is [sponsored](https://github.co
 <!--lint disable awesome-toc-->
 ## Contents
 
+- [Contents](#contents)
 - [Public Data Resources](#public-data-resources)
   - [Built Environment](#built-environment)
   - [Climate](#climate)
@@ -43,31 +44,27 @@ The Technology's Division's Resource Repository is [sponsored](https://github.co
   - [Politics](#politics)
   - [Resilience and Natural Hazards](#resilience-and-natural-hazards)
   - [Transportation](#transportation)
-
 - [Vendor Data Resources](#vendor-data-resources)
-  - [Built Environment](#built-environment-1) 
+  - [Built Environment](#built-environment-1)
   - [Demographic](#demographic-1)
   - [Infrastructure](#infrastructure)
   - [Land Use and Land Cover](#land-use-and-land-cover-1)
   - [Resilience and Natural Hazards](#resilience-and-natural-hazards-1)
   - [Urban Observation](#urban-observation)
   - [Travel Behavior](#travel-behavior)
-
 - [Planning Data Specifications](#planning-data-specifications)
   - [Built Environment](#built-environment-2)
   - [Environmental](#environmental)
   - [Transportation](#transportation-1)
-
 - [Planning Coding Resources](#planning-coding-resources)
   - [Python](#python)
   - [R](#r)
   - [Other](#other)
   - [Web and JS](#web-and-js)
   - [Learning to Code](#learning-to-code)
-
 - [Platforms and Software Resources](#platforms-and-software-resources)
   - [AI in Planning Tools and Platforms](#ai-in-planning-tools-and-platforms)
-  - [Digital Twin Tools and Platforms](#digital-twins-tools-and-platforms)
+  - [Digital Twins Tools and Platforms](#digital-twins-tools-and-platforms)
   - [Economic Development and Econometric Platforms](#economic-development-and-econometric-platforms)
   - [Environmental and Climate Planning Tools and Platforms](#environmental-and-climate-planning-tools-and-platforms)
   - [Geospatial Data and Visualization](#geospatial-data-and-visualization)
@@ -77,21 +74,17 @@ The Technology's Division's Resource Repository is [sponsored](https://github.co
   - [Urban Design Tools and Platforms](#urban-design-tools-and-platforms)
   - [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
   - [Transportation Planning Tools and Platforms](#transportation-planning-tools-and-platforms)
-
 - [Educational and Informational Resources](#educational-and-informational-resources)
   - [AICP Resources](#aicp-resources)
   - [Literature Resources](#literature-resources)
   - [General Planning Information and News](#general-planning-information-and-news)
   - [Podcasts](#podcasts)
-
 - [Other Resources](#other-resources)
   - [Other GitHub Resource Lists](#other-github-resource-lists)
   - [Other Technology Resource Aggregators](#other-technology-resource-aggregators)
-
 - [Contributing](#contributing)
   - [Form Based Contributions](#form-based-contributions)
   - [GitHub Contributions](#github-contributions)
-
 - [License and Citation](#license-and-citation)
 
 ---
@@ -621,7 +614,7 @@ If you don't have a GitHub, but have a resources that falls into the categories 
 https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0zo0ONDdV4w/viewform?usp=sf_link
 
 ### GitHub Contributions
-We are actively looking for contributions from those interested in urban planning and technology. To find out more, visit the [Contribution](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/CONTRIBUTING.md) page to see our recommended format. For large contributions, file an issue first. The advantage of contributing to the repo in this manner is that your addition to this shared resource will be recorded.
+We are actively looking for contributions from those interested in urban planning and technology. To find out more, visit the [Contribution](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/CONTRIBUTING.md) page to see our recommended format. For large contributions, file an issue first. The advantage of contributing to the repo in this manner is that your addition to this shared resource will be recorded.
 
 ## License and Citation
 Similar to other [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md), this repository is released into CC 1.0. We do not require citation, but in order to generate more contributions for and understanding of this resource we do appreciate sharing this repository or citing it where appropriate.
