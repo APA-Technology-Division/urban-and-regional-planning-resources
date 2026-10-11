@@ -248,6 +248,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 - [Esri Tapestry Segmentation](https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup) - Provides concise information on the demographic, economic, education and consumer characteristics of populations based on ZIP code.
 - [Data Axle](https://www.data-axle.com/) - Offers some of the most comprehensive and accurate business and consumer databases, boasting almost 400 distinct attributes across businesses and consumers in the United States and Canada.
+- [Invokely](https://invokely.ai) - Hosted REST API for querying official statistics by place and period, with a source and citation on every figure. Coverage includes U.S. states and counties, EU countries and regions, Spanish municipalities, and World Bank data for each country and the world; the free plan includes 500 calls per month without a card. Additional Information: License: Proprietary API; underlying reuse terms vary by publisher. Geographic Coverage: United States, European Union, Spain, and worldwide. Provider: Invokely. Additional Links: [Documentation](https://invokely.ai/docs), [Sources](https://invokely.ai/sources), [Pricing](https://invokely.ai/pricing).
 
 ### Infrastructure
 
