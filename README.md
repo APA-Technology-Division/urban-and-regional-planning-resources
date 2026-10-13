@@ -459,7 +459,6 @@ Software, tools, and platforms for geospatial visualization.
 
 - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - This platform is a geographic information system (GIS) for working with maps and geographic information maintained by the Environmental Systems Research Institute (ESRI).
 - [QGIS](https://qgis.org/en/site/) - This open source GIS suite allows users to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD and mobile devices.
-- [AI Edit by TerraLab](https://plugins.qgis.org/plugins/AI_Edit/) - A QGIS plugin that edits aerial and satellite imagery from a text prompt and returns a georeferenced layer. Additional Information: Provider: TerraLab.
 - [CARTO](https://carto.com/) - A world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
 - [kepler.gl](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
 - [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
@@ -518,6 +517,7 @@ Software, tools, and platforms to assist with urban design and similar creative 
 - [Enscape](https://enscape3d.com/) - An easy-to-use rendering software that produces quick, realistic and customizable rendering images for urban design and architectural visualization. The tool integrates well with commonly used 3D modeling softwares such as Rhino, SketchUp, etc.
 - [Forma](https://www.autodesk.com/products/forma/overview) - Autodesk Forma is a cloud based platform that enables architects and designers to conduct pre-design and schematic design evaluations and environmental impact simulations.
 - [ArchiWise](https://archiwise.ai) - AI-powered real estate pre-development and site selection platform that helps developers, architects, brokers, and planning consultants analyze zoning, feasibility, and site data quickly.
+- [AI Edit by TerraLab](https://plugins.qgis.org/plugins/AI_Edit/) - A QGIS plugin that edits aerial and satellite imagery from a text prompt and returns a georeferenced layer.
 
 ### Urban Planning Tools and Platforms
 Software, tools, and platforms intended to assist general urban planning tasks and processes.
