@@ -22,7 +22,7 @@ A a high-level category to classify the resource into related groups. Census dat
 * **[Resource Name](www.github.com)**[Required]: Name of the resoure with hyperlink to main page.
 * Description of resource[Required]: A description of what it provides to viewers in a sentence or two. 
 * License [Optional]: The type of open source license applied to the resource if any. More important for restricted licenses. Non-opensource resources should be labled "Proprietary" or "Other".
-* Geographic Coverage [Optional]: The reach and range of the resource in terms of Nations, States, or other recognizable geographic boundaries.
+* Geographic Coverage [Optional]: The reach and range of the resource in terms of Nations, States, or other recognizable geographic boundaries. This repo is maintained by the American Planning Association Technology Division and it prioritizes national resources for the United States. Resources focused on other countries or specific states will be given a higher level of scrutiny for acceptance and curation in the repo. 
 * Provider[Optional]: Who is the sponsor or provider of the resource. 
 * Additional Links[Optional]: Additional Hyper-Link(s) to the resource. 
  
