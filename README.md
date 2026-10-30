@@ -243,6 +243,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 ### Built Environment
 - [CyberCity3d](https://www.cybercity3d.com/) - Offers a diverse range of digital city models from stereo imagery and keeps an extensive library in 130 cities. 
 - [PLW Model Works](https://plwmodelworks.com/industries/) -  Combines geospatial modeling expertise to create highly detailed, photo-accurate 3D polygonal city models for different industries.
+- [CoworkingView Price Index](https://coworkingview.com/en/tools/price-index) - City-level median prices for flexible workspace (flex desks, dedicated desks, private offices, day passes, meeting rooms) computed from operator-published prices, with the sample size behind every figure and monthly snapshots. License: CC BY 4.0 (index data). Geographic Coverage: cities in Germany, Spain, the Netherlands, the UK and the UAE. Provider: CoworkingView.
 
 ### Demographic
 
