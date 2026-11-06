@@ -255,6 +255,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 - [Ecopia](https://www.ecopiatech.com/) - Leverages AI to convert high resolution images of the earth into HD Vector Maps and to digitize infrastructure assets in a geospatial format.
 - [Geomate](https://geomate.ca/en/) - Provides HD vector maps from high-resolution aerial imagery to support autonomous vehicles and urban planning use cases.
 - [Cyclomedia](https://www.cyclomedia.com/us) - Captures accurate visual data including imagery and LIDAR at street level and transforms it into valuable insights.
+- [DC Hub](https://dchub.cloud) - Live data layer for data center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power across 300+ markets, with live grid and interconnection-queue data, which helps planners gauge large-load data center proposals and their power demands. Additional Information: License: Proprietary (free tier available). Geographic Coverage: United States. Provider: DC Hub. [Methodology](https://dchub.cloud/dcpi/methodology/).
 
 ### Land Use and Land Cover
 
