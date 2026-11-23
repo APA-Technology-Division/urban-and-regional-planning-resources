@@ -179,6 +179,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - The National Register of Historic Places is the official list of the Nation's historic places worthy of preservation.
 - [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - A World Heritage Site is a site on a list of properties maintained by the World Heritage Committee of UNESCO and called the World Heritage List "which it considers as having outstanding universal value".
+- [Register Atlas open data](https://registeratlas.com/data/) - Every listing on the National Register of Historic Places as one CSV with coordinates, listing date, landmark status, and the year built, style and architect where Wikidata records them. Additional Information: License: CC0. Geographic Coverage: United States. Provider: Register Atlas, an independent site built from National Park Service data.
 
 ### Housing
 
