@@ -260,7 +260,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 - [Cotality](https://www.cotality.com/) - Provides high quality land parcels data, providing instant access to detailed property characteristics, sales records, valuation and digital copies of current county assessor documents.
 - [Regrid](https://regrid.com/) - A leading provider of land parcels and location context data for your maps, apps and spatial analysis.
-- [BatchData](https://batchdata.io/property-data-api) - Property and parcel data covering 169 million+ U.S. parcels, including ownership, assessor characteristics, sales and mortgage history, and permits, delivered by API, bulk files or a hosted MCP server. License: Proprietary. Geographic Coverage: United States. Provider: BatchData.
+- [BatchData](https://batchdata.io) - U.S. property and parcel data (ownership, assessor, sales, mortgage, permits) by API, bulk files or MCP. License: Proprietary. Geographic Coverage: United States.
 - [CoStar](https://www.costar.com/) - A commercial real estate information and analytics provider serving the UK, US, and Canada.
 - [EarthDefine](http://www.earthdefine.com/) - Using AI to transform earth sensor data into consumable geospatial information products including high resolution land cover classifications and building footprints.
 
