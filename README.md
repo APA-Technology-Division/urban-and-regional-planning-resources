@@ -615,12 +615,8 @@ These are other aggregators that bring together different planning related tools
 
 ## Contributing
 
-### Form Based Contributions
-If you don't have a GitHub, but have a resources that falls into the categories below you would like to contribute try putting the information in this Google Sheet here. We will look at incorporating it into the repository pending review.
-https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0zo0ONDdV4w/viewform?usp=sf_link
-
 ### GitHub Contributions
-We are actively looking for contributions from those interested in urban planning and technology. To find out more, visit the [Contribution](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/CONTRIBUTING.md) page to see our recommended format. For large contributions, file an issue first. The advantage of contributing to the repo in this manner is that your addition to this shared resource will be recorded.
+We are actively looking for contributions from those interested in urban planning and technology. To find out more, visit the [Contribution](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/CONTRIBUTING.md) page to see our recommended format. For large contributions, file an issue first. The advantage of contributing to the repo in this manner is that your addition to this shared resource will be recorded. Given the rise in interest in contributing to this page, we are in the process of updating the criteria for contributions to be more clear and specific. 
 
 ## License and Citation
 Similar to other [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md), this repository is released into CC 1.0. We do not require citation, but in order to generate more contributions for and understanding of this resource we do appreciate sharing this repository or citing it where appropriate.
